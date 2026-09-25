@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3\n"
+
+msgid "TOME_SKULLS@TOME@NAME"
+msgstr "Книга Кровавого Бога"
+
+msgid "TOME_SKULLS@TOME@LORE_DESCRIPTION"
+msgstr "\"Мой Бог дарует мне всё, что мне нужно в жизни. Он позволяет мне сражаться, грабить и рыскать по миру. Он позволяет мне исполнить любое желание моего темного сердца, и Он не просит ничего, кроме крови, текущей из ран, нанесенных мне и тех, кого я наношу во имя Его. Когда я убью тебя, твоя кровь наполнит Его чашу, и Он напьется из нее, и я буду знать, что я действительно благословлен.\""
+
+msgid "TOME_SKULLS@TOME@LORE_AUTHOR"
+msgstr "Дхонлейф Берсерк"
+
+msgid "TOME_SKULLS@TOME@GAMEPLAY_DESCRIPTION"
+msgstr "Наслаждайтесь безумием войны. Пусть кровь наполнит кубок Повелителя Убийств и загромождает черепа всех, кто осмелится встать перед вами."
+
+msgid "TOME_SKULLS@SKILL_1@NAME"
+msgstr "Воин хаоса крови"
+
+msgid "TOME_SKULLS@SKILL_1@DESCRIPTION"
+msgstr "Воин хаоса крови"
+
+msgid "TOME_SKULLS@UNIT1@ABILITY1@NAME"
+msgstr "Массивный тесак"
+
+msgid "TOME_SKULLS@SKILL_2@NAME"
+msgstr "Обескровливающие клинки"
+
+msgid "TOME_SKULLS@SKILL_2@DESCRIPTION"
+msgstr "Делает основу {GLOBAL.MeleeConcept.Hyperlink} и {GLOBAL.RangedConcept.Hyperlink} атаки зачарованных юнитов:[bulletlist][bullet/]Имеет +2 {GLOBAL.PhysicalDamageConcept.Hyperlink}.[bullet/]Получает базовый 90% шанс нанести {GLOBAL.PROPERTIES.BLEEDING.Hyperlink}."
+
+msgid "TOME_SKULLS@SKILL_3@NAME"
+msgstr "Кровь для кровавого бога"
+
+msgid "TOME_SKULLS@SKILL_3@DESCRIPTION"
+msgstr "Юниты в радиусе 1 шестиугольника поддерживают:[bulletlist][bullet/]25 {GLOBAL.PhysicalDamageConcept.Hyperlink}.[bullet/]Страдает {GLOBAL.PROPERTIES.BLEEDING.Hyperlink}."
+
+msgid "TOME_SKULLS@SKILL_4@NAME"
+msgstr "Черепа для Трона Черепов"
+
+msgid "TOME_SKULLS@SKILL_4@DESCRIPTION"
+msgstr "Дружественные юниты в радиусе 1 шестиугольника поддерживают:[bulletlist][bullet/]5 {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink}.[bullet/]5 {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.BERSERK.Hyperlink} для 3 {GLOBAL.TurnConcept}."
+
+msgid "TOME_SKULLS@SKILL_5@NAME"
+msgstr "Знак кровавого бога"
+
+msgid "TOME_SKULLS@SKILL_5@DESCRIPTION"
+msgstr "Получив знак кровавого бога, ваша раса получает:[bulletlist][bullet/]+10% урон от {GLOBAL.MeleeConcept.Hyperlink} и {GLOBAL.RangedConcept.Hyperlink} атак.[bullet/]+2 {GLOBAL.ResistanceConcept.Hyperlink}."
+
+msgid "TOME_SKULLS@SKILL_6@NAME"
+msgstr "Культ сангвиников"
+
+msgid "TOME_SKULLS@SKILL_6@DESCRIPTION"
+msgstr "За каждую текущую войну получите:[bulletlist][bullet/]+5 {GLOBAL.UnitProductionConcept.Hyperlink}[bullet/]+5 {GLOBAL.CityStabilityConcept.Hyperlink}.[br/][br/]Преимущества {GLOBAL.SKILLS.BARBARIC_WARLORD_BERSERKER_RAGE.Hyperlink} на каждый {GLOBAL.UnitConcept.Hyperlink} произведённый в этом {GLOBAL.CityConcept.Hyperlink}."
+
+msgid "TOME_SKULLS@HERO_SKILL@NAME"
+msgstr "Бой насмерть"
+
+msgid "TOME_SKULLS@HERO_SKILL@DESCRIPTION"
+msgstr "Целевой враг и заклинатель подвергаются насмешкам друг с другом за 3 {GLOBAL.TurnConcept.Hyperlink}."
+
+msgid "TOME_SKULLS@PROVINCE_IMPROVEMENT1@NAME"
+msgstr "[forester/] Демоническая кузница"
+
+msgid "TOME_SKULLS@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr "[bulletlist][bullet/]+10 {GLOBAL.UnitProductionConcept.Hyperlink}.[bullet/]+3 {GLOBAL.UnitProductionConcept.Hyperlink} на прилегающие территории {GLOBAL.ProvinceConcept.Hyperlink} и {GLOBAL.ForesterConcept.Hyperlink}.[bullet/]Считается как {GLOBAL.ForesterConcept.Hyperlink}.[bullet/]{GLOBAL.UnitConcept.Hyperlink} место развертывания."
+
+msgid "TOME_SKULLS@UNIT1@NAME"
+msgstr "Воин хаоса крови"
+
+msgid "TOME_SKULLS@UNIT1@DESCRIPTION"
+msgstr "Воин хаоса крови"
+
+msgid "VISIT_PROVINCE@SKULLS@NAME"
+msgstr "Демоническая кузница"
+
+msgid "VISIT_PROVINCE@SKULLS@DESCRIPTION"
+msgstr "Демоническая кузница"

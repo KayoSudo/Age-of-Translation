@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3\n"
+
+msgid "TOME_PLEASURE@TOME@NAME"
+msgstr "Книга cеребряного принца"
+
+msgid "TOME_PLEASURE@TOME@LORE_DESCRIPTION"
+msgstr "\"Нет ничего, что мой принц не мог бы дать тебе. Нет желания, которое он не мог бы исполнить. Ты забудешь все, что когда-то сдерживало тебя; твоя семья, твои боги, твои запреты. Мы можем дать вам все, о чем вы когда-либо мечтали. Вы попробуете самое сладкое вино, самую вкусную еду, и ваше сердце наполнится любовью. Возьми мою руку, почувствуй, какая она мягкая на твоей, останься со мной навсегда...\""
+
+msgid "TOME_PLEASURE@TOME@LORE_AUTHOR"
+msgstr "Анок, принцесса искушения"
+
+msgid "TOME_PLEASURE@TOME@GAMEPLAY_DESCRIPTION"
+msgstr "Наполните свое сердце блаженством и познайте ощущения от столкновения клинков. Пронеситесь по полю боя на молниеносной скорости и заставьте врагов понять, что такое захватывающая битва."
+
+msgid "TOME_PLEASURE@SKILL_1@NAME"
+msgstr "Кнут бога боли"
+
+msgid "TOME_PLEASURE@SKILL_1@DESCRIPTION"
+msgstr "Дружественные юниты:[bulletlist] [bullet/]Поддерживает 10 {GLOBAL.PhysicalDamageConcept.Hyperlink}. [bullet/]Получает {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} и {GLOBAL.PROPERTIES.HASTENED.Hyperlink}. [bullet/]Получает 10 {GLOBAL.UnitMoraleConcept.Hyperlink}."
+
+msgid "TOME_PLEASURE@SKILL_2@NAME"
+msgstr "Культ излишеств"
+
+msgid "TOME_PLEASURE@SKILL_2@DESCRIPTION"
+msgstr "Для каждого {GLOBAL.CityStabilityConcept.Hyperlink} уровень выше нейтрального, город получает:[bulletlist][bullet/]+5 {GLOBAL.GoldConcept.Hyperlink}.[bullet/]+5 {GLOBAL.ManaConcept.Hyperlink}. [/bulletlist][br/]Для каждого {GLOBAL.CityStabilityConcept.Hyperlink} уровень ниже нейтрального, который получает город:[bulletlist][bullet/]+7 {GLOBAL.GoldConcept.Hyperlink}.[bullet/]+7 {GLOBAL.ManaConcept.Hyperlink}.[/bulletlist] [br/]Grants {GLOBAL.PROPERTIES.BLISSFUL_CRUELTY.Hyperlink} каждому {GLOBAL.UnitConcept.Hyperlink} произведённый в этом {GLOBAL.CityConcept.Hyperlink}."
+
+msgid "TOME_PLEASURE@SKILL_3@NAME"
+msgstr "Воин хаоса излишеств"
+
+msgid "TOME_PLEASURE@SKILL_3@DESCRIPTION"
+msgstr "Воины хаоса излишеств живут ради острых ощущений битвы, стремительно бросаясь в бой, не заботясь о собственной безопасности, надеясь первыми заставить звенеть стальной звон."
+
+msgid "TOME_PLEASURE@SKILL_4@NAME"
+msgstr "Знак Серебряного принца"
+
+msgid "TOME_PLEASURE@SKILL_4@DESCRIPTION"
+msgstr "Получив Знак Серебряного Принца, ваша раса получает: [bulletlist] [bullet/]{GLOBAL.PROPERTIES.FAST_INITIATIVE_AUTO_SPELL.Hyperlink}. [bullet/]Фланговые атаки в обход 3 {GLOBAL.DefenseConcept.Hyperlink} и {GLOBAL.ResistanceConcept.Hyperlink}."
+
+msgid "TOME_PLEASURE@SKILL_5@NAME"
+msgstr "Фестиваль бессмысленного экстаза"
+
+msgid "TOME_PLEASURE@SKILL_5@DESCRIPTION"
+msgstr "Юниты, набранные через {GLOBAL.RequestMilitaryAidConcept.Hyperlink} от цели {GLOBAL.PvEVassalConcept.Hyperlink} имеет {GLOBAL.PROPERTIES.BLISSFUL_CRUELTY.Hyperlink} и {GLOBAL.PROPERTIES.FAST_INITIATIVE_AUTO_SPELL.Hyperlink}.[br/]Вассальный город дарует игроку 15 {GLOBAL.GoldConcept.Hyperlink} каждый {GLOBAL.TurnConcept}."
+
+msgid "TOME_PLEASURE@SKILL_6@NAME"
+msgstr "Павана серебряного принца"
+
+msgid "TOME_PLEASURE@SKILL_6@DESCRIPTION"
+msgstr "Вражеские юниты в радиусе 1 шестиугольника поддерживают:[bulletlist] [bullet/]15 {GLOBAL.PhysicalDamageConcept.Hyperlink}.[bullet/]Имеют 90% шанс пострадать от {GLOBAL.PROPERTIES.DISTRACTED.Hyperlink} состояния статуса."
+
+msgid "TOME_PLEASURE@HERO_SKILL@NAME"
+msgstr "Отвлекающие феромоны"
+
+msgid "TOME_PLEASURE@HERO_SKILL@DESCRIPTION"
+msgstr "Соседние враги имеют базовый шанс 60% стать {GLOBAL.PROPERTIES.DISTRACTED.Hyperlink} в начале каждого хода."
+
+msgid "TOME_PLEASURE@PROVINCE_IMPROVEMENT1@NAME"
+msgstr "[ResearchPost/] Палата гедонизма"
+
+msgid "TOME_PLEASURE@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr "[bulletlist][bullet/]+7 {GLOBAL.GoldConcept.Hyperlink}.[bullet/]+7 {GLOBAL.KnowledgeConcept.Hyperlink}. [bullet/]+3 {GLOBAL.GoldConcept.Hyperlink} и {GLOBAL.KnowledgeConcept.Hyperlink} на прилегающую зольную провинцию и {GLOBAL.ResearchPostConcept.Hyperlink}. [bullet/] +3 {GLOBAL.GoldConcept.Hyperlink} и {GLOBAL.KnowledgeConcept.Hyperlink} для каждого {GLOBAL.AlignmentConcept.Hyperlink} below Neutral. [bullet/]Считается как {GLOBAL.ResearchPostConcept.Hyperlink}.[/bulletlist]"
+
+msgid "TOME_PLEASURE@UNIT1@ABILITY1@NAME"
+msgstr "Хаотичный фланкер"
+
+msgid "TOME_PLEASURE@UNIT1@ABILITY1@DESCRIPTION"
+msgstr "Фланговые атаки имеют 60% шанс вызвать случайное отрицательное состояние."
+
+msgid "TOME_PLEASURE@UNIT1@ABILITY2@NAME"
+msgstr "Взгляд принца"
+
+msgid "TOME_PLEASURE@UNIT1@ABILITY2@DESCRIPTION"
+msgstr "Предоставьте вражескому отряду уведомление о вашем принце."
+
+msgid "TOME_PLEASURE@UNIT2@ABILITY1@NAME"
+msgstr ""
+
+msgid "TOME_PLEASURE@UNIT2@ABILITY1@DESCRIPTION"
+msgstr "Ледяное дыхание"
+
+msgid "TOME_PLEASURE@UNIT2@ABILITY2@NAME"
+msgstr "Терновые доспехи"
+
+msgid "TOME_PLEASURE@UNIT2@ABILITY2@DESCRIPTION"
+msgstr "Терновые доспехи"
+
+msgid "TOME_PLEASURE@UNIT2@ABILITY3@NAME"
+msgstr "Древнее благословение"
+
+msgid "TOME_PLEASURE@UNIT2@ABILITY3@DESCRIPTION"
+msgstr "[bulletlist][bullet/]Получает +30 {GLOBAL.TemporaryHitPointConcept.Hyperlink}.[bullet/]Снимает негативные эффекты статуса.[bullet/]Переходит в режим защиты."
+
+msgid "TOME_PLEASURE@UNIT1@NAME_OVERRIDE"
+msgstr "Терновый удар"
+
+msgid "TOME_PLEASURE@STATUS1@NAME"
+msgstr "Блаженная жестокость"
+
+msgid "TOME_PLEASURE@STATUS2@NAME"
+msgstr "Один раз за ход, когда этот юнит получает урон: [bulletlist][bullet/]Получает {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink}. [bullet/]Получает 3 {GLOBAL.MoraleConcept.Hyperlink}. [bullet/]Suffer {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}."
+
+msgid "TOME_PLEASURE@STATUS1@DESCRIPTION"
+msgstr "Один раз за ход, когда этот юнит получает урон: [bulletlist][bullet/]Получает {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink}. [bullet/]Получает 3 {GLOBAL.UnitMoraleConcept.Hyperlink}. [bullet/]Suffer {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}."
+
+msgid "TOME_PLEASURE@STATUS2@DESCRIPTION"
+msgstr "Сжигание маны"
+
+msgid "TOME_PLEASURE@STATUS1@BLOCK_STRING"
+msgstr "Заблокировано: иммунитет к сжиганию маны"
+
+msgid "TOME_PLEASURE@STATUS3@NAME"
+msgstr "Прогонная рампа I"
+
+msgid "TOME_PLEASURE@STATUS3@DESCRIPTION"
+msgstr "Прогонная рампа I"
+
+msgid "TOME_PLEASURE@STATUS4@NAME"
+msgstr "Прогонная рампа II"
+
+msgid "TOME_PLEASURE@STATUS4@DESCRIPTION"
+msgstr "Прогонная рампа II"
+
+msgid "TOME_PLEASURE@STATUS5@NAME"
+msgstr "Сжигание маны"
+
+msgid "TOME_PLEASURE@STATUS5@DESCRIPTION"
+msgstr "Жезл маны"
+
+msgid "TOME_PLEASURE@UNIT1@ABILITY3@NAME"
+msgstr "Огненная чистка III"
+
+msgid "TOME_PLEASURE@UNIT1@ABILITY3@DESCRIPTION"
+msgstr "Гипнотизировать"
+
+msgid "TOME_PLEASURE@UNIT1@ABILITY4@NAME"
+msgstr "Отвод маны"
+
+msgid "TOME_PLEASURE@UNIT1@ABILITY4@DESCRIPTION"
+msgstr "Гипнотизировать"
+
+msgid "TOME_PLEASURE@UNIT1@ABILITY5@NAME"
+msgstr "Гипнотизировать"
+
+msgid "TOME_PLEASURE@UNIT1@ABILITY5@DESCRIPTION"
+msgstr "Гипнотизировать"

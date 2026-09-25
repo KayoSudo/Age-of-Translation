@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "TOME@SERVITUDE@NAME"
+msgstr "Tome of Servitude"
+
+msgid "TOME@SERVITUDE@DESC"
+msgstr ""
+"All life is meant to serve us, build a thriving Empire by exploiting the "
+"[locked2/] [hyperlink,GLOBAL.GameConceptSlaves]Slaves[/hyperlink] resource, "
+"use them as {GLOBAL.UNITS.RABBLESLAVE_UNIT.Hyperlink} or crack the {GLOBAL."
+"PROPERTIES.PAIN_LASH.Hyperlink} to make all obey your rule."
+
+msgid "TOME@SERVITUDE@AUTHOR@NAME"
+msgstr "Umbra the Ruined, 2nd seat within the Cabal"
+
+msgid "TOME@SERVITUDE@AUTHOR@DESC"
+msgstr ""
+"“And out of that hopeless attempt has come nearly all that we call written "
+"history — family, money, power, ambition, war, kings and their slaves — this "
+"long terrible wheel of life, always pushing man to exploit their equals, so "
+"they may feel value in their own existance..”"
+
+msgid "TOME@SERVITUDE@Skill1@Name"
+msgstr "Task Master"
+
+msgid "TOME@SERVITUDE@Skill1@DESC"
+msgstr ""
+"A {GLOBAL.PROPERTIES.FIGHTER.Hyperlink} unit specialized in using pain as "
+"their voice."
+
+msgid "TOME@SERVITUDE@Skill1@Unit@Skill"
+msgstr "Whip of Command"
+
+msgid "TOME@SERVITUDE@Skill1@Unit@Skill2@DESC"
+msgstr ""
+"Crack your whip to issue an order, target friendly units in a 1-hex cone: "
+"[bulletlist] [bullet/]Suffers 10 {GLOBAL.PhysicalDamageConcept.Hyperlink}. "
+"[bullet/]Gain 2 {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink}. [bullet/]Gain "
+"{GLOBAL.PROPERTIES.HASTENED.Hyperlink}."
+
+msgid "TOME@SERVITUDE@Skill1@Unit@Skill@DESC"
+msgstr "Slave Soldiers"
+
+msgid "TOME@SERVITUDE@Skill1@Unit@Skill2"
+msgstr "Forced Conscription"
+
+msgid "TOME@SERVITUDE@Skill1@Unit"
+msgstr ""
+"This unit has been forced into taking part of this battle: [bulletlist] "
+"[bullet/]Starts the Battle with -20 {GLOBAL.UnitMoraleConcept.Hyperlink}. "
+"[bullet/]Is mostly Immune to any additional {GLOBAL.UnitMoraleConcept."
+"Hyperlink} changes."
+
+msgid "TOME@SERVITUDE@Skill2@Name"
+msgstr "Recruit Slaves"
+
+msgid "TOME@SERVITUDE@Skill2@SKILL@Name"
+msgstr ""
+"Spend [locked2/] [hyperlink,GLOBAL.GameConceptSlaves]Slaves[/hyperlink] to "
+"enchant stack leader, raising 2 {GLOBAL.UNITS.RABBLESLAVE_UNIT.Hyperlink} at "
+"the start of your next battle."
+
+msgid "TOME@SERVITUDE@Skill2@DESC"
+msgstr "Slave Economy"
+
+msgid "TOME@SERVITUDE@Skill3@Name"
+msgstr ""
+"Introduce forced labor into target {GLOBAL.CityConcept.Hyperlink}, for 5 "
+"{GLOBAL.TurnConcept.Hyperlink}: [bulletlist] [bullet/]+60 {GLOBAL."
+"StructureProductionConcept.Hyperlink}. [bullet/]+30 {GLOBAL.GoldConcept."
+"Hyperlink}. [bullet/]-20 {GLOBAL.CityStabilityConcept.Hyperlink}."
+
+msgid "TOME@SERVITUDE@Skill3@Skill@Name"
+msgstr "Chains of Enslavement"
+
+msgid "TOME@SERVITUDE@Skill3@Skill@DESC"
+msgstr ""
+"Inflicts {GLOBAL.PROPERTIES.INVULNERABLE.Hyperlink} and {GLOBAL.PROPERTIES."
+"SUBDUED.Hyperlink} to target Tier II unit or lower suffering from: "
+"[bulletlist] [bullet/]{GLOBAL.PROPERTIES.FROZEN.Hyperlink}, {GLOBAL."
+"PROPERTIES.STUNNED.Hyperlink} or {GLOBAL.PROPERTIES.IMMOBILIZED.Hyperlink}. "
+"[bullet/]On failure suffers -25 {GLOBAL.UnitMoraleConcept.Hyperlink}."
+
+msgid "TOME@SERVITUDE@Skill3@Desc"
+msgstr "Dominion of Slavery"
+
+msgid "TOME@SERVITUDE@Skill2@Unit@Skill@DESC"
+msgstr ""
+"Unlocks the [locked2/] [hyperlink,GLOBAL.GameConceptSlaves]Slaves[/"
+"hyperlink] resource, earned by fighting battles, raiding provinces or "
+"capturing units. \n"
+"\n"
+"[locked2/] [hyperlink,GLOBAL.GameConceptSlaves]Slaves[/hyperlink] are mainly "
+"used for drafting expendable units and improving the empire economy."
+
+msgid "TOME@SERVITUDE@Skill4@Name"
+msgstr "[locked2/] [hyperlink,GLOBAL.GameConceptSlaves]Slaves[/hyperlink]"
+
+msgid "TOME@SERVITUDE@Skill4@DESC"
+msgstr ""
+"Captive lives at your disposal, used to draft units or improve your economy."
+
+msgid "TOME@SERVITUDE@Skill5@Name"
+msgstr "Slave Infantry Commander"
+
+msgid "TOME@SERVITUDE@Skill5@DESC"
+msgstr ""
+"Enchant stack leader to raise 2 {GLOBAL.UNITS.RABBLESLAVE_UNIT.Hyperlink} "
+"for your next battle."
+
+msgid "TOME@SERVITUDE@Skill6@Name"
+msgstr "Slave Infantry"
+
+msgid "TOME@SERVITUDE@Skill6@DESC"
+msgstr "Dominion over the Weak"
+
+msgid "TOME@SERVITUDE@Skill6@Group"
+msgstr "2"
+
+msgid "TOME@SERVITUDE@PANTHEON@NAME"
+msgstr "Ascension: Supreme Authority"
+
+msgid "TOME@SERVITUDE@PANTHEON@NAME2"
+msgstr ""
+"This unit considers itself the rightful authority over those it deems weak: "
+"[bulletlist] [bullet/]+25% damage against Tier I and Tier II units. "
+"[bullet/]Gain the {GLOBAL.PROPERTIES.PAIN_LASH.Hyperlink} ability."
+
+msgid "TOME@SERVITUDE@PANTHEON@NAME3"
+msgstr ""
+"This unit considers itself the rightful authority over those it deems weak: "
+"[bulletlist] [bullet/]+25% damage against Tier I and Tier II units."
+
+msgid "TOME@SERVITUDE@PANTHEON@NAME4"
+msgstr "Dominion over the Weak"
+
+msgid "TOME@SERVITUDE@PANTHEON@NAME5"
+msgstr ""
+"Grants enchanted units: [bulletlist] [bullet/]{GLOBAL.PROPERTIES."
+"MASTER_OVERLORD2.Hyperlink}, which improves damage against low Tier units."
+
+#~ msgid "TOME@DISC@PANTHEON@NAME"
+#~ msgstr "Ascension: Overlord"
+
+#~ msgid "TOME@DISC@PANTHEON@NAME2"
+#~ msgstr ""
+#~ "This unit abhours those he deems weak: [bulletlist] [bullet/]+30% Damage "
+#~ "against T1 and T2 units. [bullet/]Gain the {GLOBAL.PROPERTIES.PAIN_LASH."
+#~ "Hyperlink} ability."
+
+#~ msgid "TOME@DISC@PANTHEON@NAME3"
+#~ msgstr ""
+#~ "This unit abhours those he deems weak: [bulletlist] [bullet/]+30% Damage "
+#~ "against T1 and T2 units. "
+
+#~ msgid "TOME@DISC@PANTHEON@NAME4"
+#~ msgstr "Dominion over the Weak"
+
+#~ msgid "TOME@DISC@PANTHEON@NAME5"
+#~ msgstr ""
+#~ "Grants enchanted units: [bulletlist] [bullet/]{GLOBAL.PROPERTIES."
+#~ "MASTER_OVERLORD2.Hyperlink}, which improves damage against lower Tier "
+#~ "units."

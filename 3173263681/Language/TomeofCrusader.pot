@@ -1,0 +1,104 @@
+msgid "TOME@Crusader@NAME"
+msgstr "Tome of MOUNTS”
+
+msgid "TOME@Crusader@DESC"
+msgstr "Transform your people into a organized and unshakable military. Focus on {GLOBAL.PROPERTIES.SHIELD_UNIT.Hyperlink} and {GLOBAL.PROPERTIES.FIGHTER.Hyperlink} units and military tactics.”
+
+msgid "TOME@Crusader@AUTHOR@NAME"
+msgstr "Alfred Stone”
+
+msgid "TOME@Crusader@AUTHOR@DESC"
+msgstr "Victory in war does not depend entirely upon numbers or mere courage; only skill and MOUNTS will insure it.”
+
+msgid "TOME@Crusader@Skill1@Name"
+msgstr "Company Captain Unit”
+
+msgid "TOME@Crusader@Skill1@DESC"
+msgstr "A {GLOBAL.PROPERTIES.FIGHTER.Hyperlink} that expecializes in buffing and commanding troops in the middle of combat”
+
+msgid "TOME@Crusader@Skill1@Unit@Skill"
+msgstr "Tactical Order - Endure”
+
+msgid "TOME@Crusader@Skill1@Unit@Skill2@DESC"
+msgstr "Tactical Order - Attack - Give 2 Strengh and 1 Fortune”
+
+msgid "TOME@Crusader@Skill1@Unit@Skill@DESC"
+msgstr "Tactical Order - Endure - Give Morale and Cleanse”
+
+msgid "TOME@Crusader@Skill1@Unit@Skill2"
+msgstr "Tactical Order - Attack”
+
+msgid "TOME@Crusader@Skill1@Unit"
+msgstr "Company Captain”
+
+msgid "TOME@Crusader@Skill2@Name"
+msgstr "Secondary Weapons”
+
+msgid "TOME@Crusader@Skill2@SKILL@Name"
+msgstr "Secondary Weapons”
+
+msgid "TOME@Crusader@Skill2@DESC"
+msgstr "Retrofit your vanguard with an additional weapon to deal {GLOBAL.PhysicalDamageConcept.Hyperlink} and {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}”
+
+msgid "TOME@Crusader@Skill3@Name"
+msgstr "Professional Soldiers - Shield/Fighter Damage”
+
+msgid "TOME@Crusader@Skill3@Skill@Name"
+msgstr "Professional Soldiers - Shield/Fighter Damage”
+
+msgid "TOME@Crusader@Skill3@Skill@DESC"
+msgstr "Professional Soldiers - Shield/Fighter Damage”
+
+msgid "TOME@Crusader@Skill3@Desc"
+msgstr "Make mandatory training of your infantry in all manners of warfare, granting them {PROFESSIONAL_DAMAGE>ResolvedMultiplier}% extra damage.”
+
+msgid "TOME@Crusader@Skill2@Unit@Skill@DESC"
+msgstr "Trown your Secondary Weapon to deal {SECONDARY_WEAPON_DAMAGE>DAMAGE>Physical}{GLOBAL.PhysicalDamageConcept.Hyperlink} and 1 {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}”
+
+msgid "TOME@Crusader@Skill4@Name"
+msgstr "Raise Shields”
+
+msgid "TOME@Crusader@Skill4@DESC"
+msgstr "Increase evasion against ranged attacks but gets slowed”
+
+msgid "TOME@Crusader@Skill5@Name"
+msgstr "Robust Supply Lines”
+
+msgid "TOME@Crusader@Skill5@DESC"
+msgstr "Increases organization throught the campaigns, grants all units extra {ROBUST_SUPPLY>BONUS>HitPoints} and hitpoint regeneration”
+
+msgid "TOME@Crusader@Skill6@Name"
+msgstr "Tactical Retreat”
+
+msgid "TOME@Crusader@Skill6@DESC"
+msgstr "Pull back a unit and cleasining and healing for 30 {GLOBAL.HitPointConcept.Hyperlink}”
+
+msgid "TOME@Crusader@Skill6@Group"
+msgstr "Pull back a unit and cleasining and healing for 30 {GLOBAL.HitPointConcept.Hyperlink}”
+
+msgid "TOME@Crusader@DEBUFF@DESC"
+msgstr "Pull back a unit and cleasining and healing for 30 {GLOBAL.HitPointConcept.Hyperlink}”
+
+msgid "TOME@Crusader@DEBUFF@NAME"
+msgstr "Pull back a unit and cleasining and healing for 30 {GLOBAL.HitPointConcept.Hyperlink}”
+
+msgid "TOME@Crusader@SPI@DESC"
+msgstr "Pull back a unit and cleasining and healing for 30 {GLOBAL.HitPointConcept.Hyperlink}”
+
+msgid "TOME@Crusader@SPI@NAME"
+msgstr "Pull back a unit and cleasining and healing for 30 {GLOBAL.HitPointConcept.Hyperlink}”
+
+msgid "TOME@Crusader@PANTHEON@NAME"
+msgstr "”
+
+msgid "TOME@Crusader@PANTHEON@NAME2"
+msgstr "”
+
+msgid "TOME@Crusader@PANTHEON@NAME3"
+msgstr "”
+
+msgid "TOME@Crusader@PANTHEON@NAME4"
+msgstr "”
+
+msgid "TOME@Crusader@PANTHEON@NAME5"
+msgstr "”

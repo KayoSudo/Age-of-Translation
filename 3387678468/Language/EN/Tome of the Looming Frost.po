@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "VM@TOME_LOOMING_FROST@TOME@NAME"
+msgstr "Tome of the Looming Frost"
+
+msgid "VM@TOME_LOOMING_FROST@TOME@GAMEPLAY_DESCRIPTION"
+msgstr ""
+"Overwhelm your enemies with {GLOBAL.PROPERTIES.STATUS_VULNERABILITY."
+"Hyperlink} and succumb them to the creeping cold."
+
+msgid "VM@TOME_LOOMING_FROST@TOME@LORE_DESCRIPTION"
+msgstr ""
+"\"It is not the sudden chill that ends life, but the slow demise from a "
+"creeping cold. Each moment draws the frost deeper, claiming breath and "
+"movement until resistance fades. The cold is patient, waiting until resolve "
+"shatters like ice.\""
+
+msgid "VM@TOME_LOOMING_FROST@TOME@LORE_AUTHOR"
+msgstr "Arvik the Dark"
+
+msgid "VM@TOME_LOOMING_FROST@TOME@ASCENSION@TRAIT@NAME"
+msgstr "Ascension: Frost Guardian"
+
+msgid "VM@TOME_LOOMING_FROST@TOME@ASCENSION@ABILITY@NAME"
+msgstr "Ascended Frost Nova"
+
+msgid "VM@TOME_LOOMING_FROST@TOME@ASCENSION@ABILITY@EFFECT@DESCRIPTION"
+msgstr ""
+"Inflict {GLOBAL.PROPERTIES.STATUS_VULNERABILITY.Hyperlink} for "
+"{STATUS_VULNERABILITY_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
+
+msgid "VM@TOME_LOOMING_FROST@TOME@SKILL1@NAME"
+msgstr "Frigid Focus"
+
+msgid "VM@TOME_LOOMING_FROST@TOME@SKILL1@DESCRIPTION"
+msgstr ""
+"Makes {GLOBAL.MagicConcept.Hyperlink} attacks of enchanted units:[bulletlist]"
+"[bullet/]Deal +{VM_TLF_FREEZING_FOCUS_EXTRA_DAMAGE>DAMAGE>Frost} {GLOBAL."
+"FrostDamageConcept.Hyperlink}.[bullet/]Have a base 90% chance to inflict "
+"{GLOBAL.PROPERTIES.STATUS_VULNERABILITY.Hyperlink} for "
+"{STATUS_VULNERABILITY_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/"
+"bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "VM@TOME_LOOMING_FROST@TOME@SKILL2@NAME"
+msgstr "Chilling Presence"
+
+msgid "VM@TOME_LOOMING_FROST@TOME@SKILL2@DESCRIPTION"
+msgstr ""
+"Grants enchanted units:[bulletlist][bullet/]{GLOBAL.PROPERTIES."
+"VM_TLF_FROST_ARMOR_PROPERTY_GROUP.Hyperlink}, which reduces the {GLOBAL."
+"FrostResistanceConcept.Hyperlink} and {GLOBAL.StatusResistanceConcept."
+"Hyperlink} of nearby adjacent enemy units.[/bulletlist]"
+
+msgid "VM@TOME_LOOMING_FROST@TOME@SKILL2@EFFECT@DESCRIPTION"
+msgstr ""
+"Adjacent enemies without this trait suffer:[bulletlist][bullet/]"
+"{VM_TLF_CHILLING_AURA_RESISTANCE_DOWN>REDUCTION>Frost} {GLOBAL."
+"FrostResistanceConcept.Hyperlink}[bullet/]"
+"{VM_TLF_CHILLING_AURA_STATUS_RESISTANCE>Resistance} {GLOBAL."
+"StatusResistanceConcept.Hyperlink}[/bulletlist][br/][br/]This effect stacks."
+
+msgid "VM@TOME_LOOMING_FROST@TOME@SKILL2@EFFECT@ENEMY_DESCRIPTION"
+msgstr ""
+"Unit has:[bulletlist][bullet/]"
+"{VM_TLF_CHILLING_AURA_RESISTANCE_DOWN>REDUCTION>Frost} {GLOBAL."
+"FrostResistanceConcept.Hyperlink}[bullet/]"
+"{VM_TLF_CHILLING_AURA_STATUS_RESISTANCE>Resistance} {GLOBAL."
+"StatusResistanceConcept.Hyperlink}"
+
+msgid "VM@TOME_LOOMING_FROST@TOME@SKILL3@NAME"
+msgstr "Frost Guardian"
+
+msgid "VM@TOME_LOOMING_FROST@TOME@SKILL3@DESCRIPTION"
+msgstr ""
+"A {GLOBAL.PROPERTIES.SHIELD_UNIT.Hyperlink} that wears down enemies with "
+"cold attrition."
+
+msgid "VM@TOME_LOOMING_FROST@TOME@SKILL4@NAME"
+msgstr "Shivering Storm"
+
+msgid "VM@TOME_LOOMING_FROST@TOME@SKILL4@DESCRIPTION"
+msgstr ""
+"At the end of the owner's turn, all enemies without {GLOBAL.PROPERTIES."
+"FROZEN.Hyperlink} immunity have a base 60% chance to be inflicted with "
+"{GLOBAL.PROPERTIES.STATUS_VULNERABILITY.Hyperlink} for "
+"{STATUS_VULNERABILITY_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
+
+msgid "VM@TOME_LOOMING_FROST@TOME@SKILL4@PROP_DESCRIPTION"
+msgstr ""
+"At the end of the owner's turn:[bulletlist][bullet/]All enemies without "
+"{GLOBAL.PROPERTIES.FROZEN.Hyperlink} immunity have a base "
+"{STATUS_VULNERABILITY_RESISTANCE>ResolvedStrength}% chance to be inflicted "
+"with {GLOBAL.PROPERTIES.STATUS_VULNERABILITY.Hyperlink} for "
+"{STATUS_VULNERABILITY_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/"
+"bulletlist]"
+
+msgid "VM@TOME_LOOMING_FROST@TOME@SKILL5@NAME"
+msgstr "Frozen Burst"
+
+msgid "VM@TOME_LOOMING_FROST@TOME@SKILL5@DESCRIPTION"
+msgstr ""
+"Enemy units in a {VM_TLF_FROZEN_BURST_TARGETER>AREA>Radius}-hex radius:"
+"[bulletlist][bullet/]Sustain {VM_TLF_FROZEN_BURST_UNIT_DAMAGE>DAMAGE>Frost} "
+"{GLOBAL.FrostDamageConcept.Hyperlink}.[bullet/]Have a base "
+"{SLOWED_RESISTANCE>ResolvedStrength}% chance to be inflicted with {GLOBAL."
+"PROPERTIES.SLOWED.Hyperlink} for {SLOWED_EFFECT_DESCRIPTION>NumTurns} <<m:"
+"{GLOBAL.TurnConcept}>>.[bullet/]Have a base "
+"{VM_TLF_FROZEN_BURST_FROZEN_RESISTANCE_CHECK>ResolvedStrength}% chance to be "
+"inflicted with {GLOBAL.PROPERTIES.FROZEN.Hyperlink} if already {GLOBAL."
+"PROPERTIES.SLOWED.Hyperlink} or {GLOBAL.PROPERTIES.WET.Hyperlink}.[/"
+"bulletlist]"
+
+msgid "VM@TOME_LOOMING_FROST@UNIT@NAME"
+msgstr "Frost Guardian"
+
+msgid "VM@TOME_LOOMING_FROST@UNIT@ABILITY@NAME"
+msgstr "Frost Nova"
+
+msgid "VM@TOME_LOOMING_FROST@UNIT@ABILITY@DESCRIPTION"
+msgstr ""
+"This unit enters {GLOBAL.DefenseModeConcept} and all adjacent enemy units "
+"sustain {GLOBAL.FrostDamageConcept.Hyperlink}."
+
+msgid "VM@TOME_LOOMING_FROST@UNIT@ABILITY2@NAME"
+msgstr "Frostbite Shield"
+
+msgid "VM@TOME_LOOMING_FROST@UNIT@ABILITY2@DESCRIPTION"
+msgstr ""
+"When a {GLOBAL.MeleeConcept.Hyperlink} attack hits, the attacker sustains "
+"{REFLECTION_FROST_DAMAGE>DAMAGE>Frost} {GLOBAL.FrostDamageConcept.Hyperlink}."
+
+#~ msgid "VM@TOME_LOOMING_FROST@TOME@SKILL1@MODIFIER_DESCRIPTION"
+#~ msgstr "TBD"
+
+#~ msgid "VM@TOME_LOOMING_FROST@TOME@SKILL1@MODIFIER_DESCRIPTION_SINGLE"
+#~ msgstr "TBD"
+
+#~ msgid "VM@TOME_LOOMING_FROST@TOME@ASCENSION@PROPERTY@NAME"
+#~ msgstr "Ascended Frost Nova"
+
+#~ msgid "VM@TOME_LOOMING_FROST@TOME@ASCENSION@PROPERTY@DESCRIPTION"
+#~ msgstr ""
+#~ "This unit enters {GLOBAL.DefenseModeConcept} and all adjacent enemy units "
+#~ "sustain {GLOBAL.FrostDamageConcept.Hyperlink}."
+
+#~ msgid "VM@TOME_LOOMING_FROST@TOME@HERO_SKILL@NAME"
+#~ msgstr "TBD"
+
+#~ msgid "VM@TOME_LOOMING_FROST@TOME@SKILL4@COMBAT_ENCHANTMENT@NAME"
+#~ msgstr "Snow Squall"
+
+#~ msgid "VM@TOME_LOOMING_FROST@TOME@SKILL4@COMBAT_ENCHANTMENT@DESCRIPTION"
+#~ msgstr ""
+#~ "[bulletlist][bullet/]Each turn in combat, all enemies have a base 30% "
+#~ "chance to be inflicted with {GLOBAL.PROPERTIES.STATUS_VULNERABILITY."
+#~ "Hyperlink}.[/bulletlist]"
+
+#~ msgid "VM@TOME_LOOMING_FROST@TOME@SKILL4@DISPLAY_PROPERTY_NAME"
+#~ msgstr "TBD"
+
+#~ msgid "VM@TOME_LOOMING_FROST@TOME@SKILL4@DISPLAY_PROPERTY_DESCRIPTION"
+#~ msgstr "TBD"
+
+#, fuzzy
+#~| msgid "VM@TOME_LOOMING_FROST@TOME@SKILL4@DISPLAY_PROPERTY_NAME"
+#~ msgid "VM@TOME_LOOMING_FROST@TOME@SKILL5@DISPLAY_PROPERTY_NAME"
+#~ msgstr "TBD"
+
+#, fuzzy
+#~| msgid "VM@TOME_LOOMING_FROST@TOME@SKILL4@DISPLAY_PROPERTY_DESCRIPTION"
+#~ msgid "VM@TOME_LOOMING_FROST@TOME@SKILL5@DISPLAY_PROPERTY_DESCRIPTION"
+#~ msgstr "TBD"

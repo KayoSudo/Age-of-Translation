@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3\n"
+
+msgid "TOME_SHELLS@TOME@NAME"
+msgstr "Книга ракушки"
+
+msgid "TOME_SHELLS@TOME@LORE_DESCRIPTION"
+msgstr "\"Живите, следуя черепашьей мудрости: путешествуйте со своей скоростью, чувствуйте себя комфортно в своем панцире и продолжайте двигаться вперед.\""
+
+msgid "TOME_SHELLS@TOME@LORE_AUTHOR"
+msgstr "Неизвестный"
+
+msgid "TOME_SHELLS@TOME@GAMEPLAY_DESCRIPTION"
+msgstr "Плохая судьба ждет тех, кто недооценивает нежных гигантов глубин. Невиданная ярость и несокрушимая оборона ждут тех, кто пробудит обитателей глубин."
+
+msgid "TOME_SHELLS@SKILL_1@NAME"
+msgstr "Призвать духа прилива"
+
+msgid "TOME_SHELLS@SKILL_1@DESCRIPTION"
+msgstr "Призывает {GLOBAL.UNITS.TIDE_SPIRIT.Hyperlink} чтобы нацелиться на шестиугольник воды или реки."
+
+msgid "TOME_SHELLS@UNIT1@ABILITY1@NAME"
+msgstr "Запутывание корней"
+
+msgid "TOME_SHELLS@SKILL_2@NAME"
+msgstr "Шокшелл"
+
+msgid "TOME_SHELLS@SKILL_2@DESCRIPTION"
+msgstr "Шокшелл, массивная летающая черепаха, выведенная для войны, способная наносить огромный урон и порождать меньших ниму в помощь."
+
+msgid "TOME_SHELLS@SKILL_3@NAME"
+msgstr "Удача кожоспинного"
+
+msgid "TOME_SHELLS@SKILL_3@DESCRIPTION"
+msgstr "Целевая дружественная армия получает 3 {GLOBAL.PROPERTIES.FORTUNE.Hyperlink}."
+
+msgid "TOME_SHELLS@SKILL_4@NAME"
+msgstr "Вызвать глубоководную Ниму"
+
+msgid "TOME_SHELLS@SKILL_4@DESCRIPTION"
+msgstr "Призвать летающего {GLOBAL.UNITS.SHELL_NIMU_FLYING.Hyperlink} чтобы помочь вам в бою. Действует в течение 3 <<m:{GLOBAL.TurnConcept.Hyperlink}>>."
+
+msgid "TOME_SHELLS@SKILL_5@NAME"
+msgstr "Ров несчастий"
+
+msgid "TOME_SHELLS@SKILL_5@DESCRIPTION"
+msgstr "[bulletlist][bullet/]+30 {GLOBAL.FortificationHealthConcept.Hyperlink}. [bullet/]Защитники начинают бой с 3 {GLOBAL.UNITS.SHELL_NIMU_FLYING.Hyperlink}. [bullet/]Нападающие начинают сражение {GLOBAL.PROPERTIES.WET.Hyperlink} и с 3 {GLOBAL.PROPERTIES.MISFORTUNE.Hyperlink}."
+
+msgid "TOME_SHELLS@SKILL_6@NAME"
+msgstr "Панцирные доспехи"
+
+msgid "TOME_SHELLS@SKILL_6@DESCRIPTION"
+msgstr "Зачарованные юниты получают:[bulletlist] [bullet/]+2 {GLOBAL.DefenseConcept.Hyperlink}. [bullet/]{GLOBAL.PROPERTIES.NATURAL_REGENERATION_GROUP.Hyperlink}."
+
+msgid "TOME_SHELLS@HERO_SKILL@NAME"
+msgstr "Панцирник"
+
+msgid "TOME_SHELLS@HERO_SKILL@DESCRIPTION"
+msgstr "Призывает {GLOBAL.UNITS.SHELL_NIMU_FLYING_II.Hyperlink} в начале боя."
+
+msgid "TOME_SHELLS@PROVINCE_IMPROVEMENT1@NAME"
+msgstr "[Fishery/] Нерестовый остров"
+
+msgid "TOME_SHELLS@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr "[bulletlist][bullet/]Должна быть построена в прибрежной провинции.[bullet/]+10 {GLOBAL.FoodConcept.Hyperlink}. [bullet/]+2 {GLOBAL.GoldConcept.Hyperlink} на прилегающую прибрежную провинцию. [bullet/]Вражеские атакующие в домене начинают сражение, страдая от 3 {GLOBAL.PROPERTIES.MISFORTUNE.Hyperlink}. [bullet/]Считается как {GLOBAL.FarmConcept.Hyperlink}."
+
+msgid "TOME_SHELLS@ENTHRALLED@NAME"
+msgstr "Очарованный"
+
+msgid "TOME_SHELLS@ENTHRALLED@DESCRIPTION"
+msgstr "Все атаки, направленные на этого юнита {GLOBAL.FlankingConcept.Hyperlink}."
+
+msgid "TOME_SHELLS@ABILITY1@DESCRIPTION"
+msgstr "Юниты в радиусе 1 шестиугольника поддерживают:[bulletlist][bullet/]22 {GLOBAL.PhysicalDamageConcept.Hyperlink}. [bullet/]Имеют базовый 40% шанс стать {GLOBAL.PROPERTIES.IMMOBILIZED.Hyperlink}. В случае неудачи они превращаются в {GLOBAL.PROPERTIES.SLOWED.Hyperlink}."
+
+msgid "TOME_SHELLS@UNIT1@ABILITY2@NAME"
+msgstr "Породить Ниму"
+
+msgid "TOME_SHELLS@UNIT1@ABILITY2@DESCRIPTION"
+msgstr "Призывает {GLOBAL.UNITS.SHELL_NIMU_FLYING_II.Hyperlink} в соседний шестиугольник. Действует в течение 3 <<m:{GLOBAL.TurnConcept.Hyperlink}>>."
+
+msgid "TOME_SHELLS@UNIT2@ABILITY1@NAME"
+msgstr "Морозное дыхание"
+
+msgid "TOME_SHELLS@UNIT2@ABILITY1@DESCRIPTION"
+msgstr "Морозное дыхание"
+
+msgid "TOME_SHELLS@UNIT2@ABILITY2@NAME"
+msgstr "Терновые доспехи"
+
+msgid "TOME_SHELLS@UNIT2@ABILITY2@DESCRIPTION"
+msgstr "Терновые доспехи"
+
+msgid "TOME_SHELLS@UNIT2@ABILITY3@NAME"
+msgstr "Древнее благословение"
+
+msgid "TOME_SHELLS@UNIT2@ABILITY3@DESCRIPTION"
+msgstr "[bulletlist][bullet/]Получает +30 {GLOBAL.TemporaryHitPointConcept.Hyperlink}.[bullet/]Снимает негативные эффекты статуса.[bullet/]Переходит в режим защиты."
+
+msgid "TOME_SHELLS@UNIT1@NAME_OVERRIDE"
+msgstr "Терновый удар"
+
+msgid "TOME_SHELL@STATUS1@NAME"
+msgstr "Летающая Ниму"
+
+msgid "TOME_SHELL@STATUS2@NAME"
+msgstr "Летающая глубоководная Ниму"
+
+msgid "TOME_SHELL@STATUS1@DESCRIPTION"
+msgstr "Летающая Ниму"
+
+msgid "TOME_SHELL@STATUS2@DESCRIPTION"
+msgstr "Летающая глубоководная Ниму"
+
+msgid "TOME_SHELL@STATUS1@BLOCK_STRING"
+msgstr "Заблокирован: Невосприимчивость к сжиганию маны"
+
+msgid "TOME_SHELL@STATUS3@NAME"
+msgstr "Прогонная рампа I"
+
+msgid "TOME_SHELL@STATUS3@DESCRIPTION"
+msgstr "Прогонная рампа I"
+
+msgid "TOME_SHELL@STATUS4@NAME"
+msgstr "Прогонная рампа II"
+
+msgid "TOME_SHELL@STATUS4@DESCRIPTION"
+msgstr "Прогонная рампа II"
+
+msgid "TOME_SHELL@STATUS5@NAME"
+msgstr "Сжигание маны"
+
+msgid "TOME_SHELL@STATUS5@DESCRIPTION"
+msgstr "Жезл маны"
+
+msgid "TOME_SHELLS@UNIT1@ABILITY3@NAME"
+msgstr "Всплеск Ниму"
+
+msgid "TOME_SHELLS@UNIT1@ABILITY3@DESCRIPTION"
+msgstr "Описание Ниму Всплеска"
+
+msgid "TOME_SHELLS@UNIT1@ABILITY4@NAME"
+msgstr "Отвод маны"
+
+msgid "TOME_SHELLS@UNIT1@ABILITY4@DESCRIPTION"
+msgstr "Гипнотизировать"
+
+msgid "TOME_SHELLS@UNIT1@ABILITY5@NAME"
+msgstr "Гипнотизировать"
+
+msgid "TOME_SHELLS@UNIT1@ABILITY5@DESCRIPTION"
+msgstr "Гипнотизировать"

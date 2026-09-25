@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "TOME_SEA@TOME@NAME"
+msgstr "Tome of the Siren"
+
+msgid "TOME_SEA@TOME@LORE_DESCRIPTION"
+msgstr ""
+"“If you swim effortlessly in the deep oceans, ride the waves to and from the "
+"shore, if you can breathe under water and dine on the deep treasures of the "
+"seas; mark my words, those who dwell on the rocks carrying nets will try to "
+"reel you into their catch.\""
+
+msgid "TOME_SEA@TOME@LORE_AUTHOR"
+msgstr "C. JoyBell C."
+
+msgid "TOME_SEA@TOME@GAMEPLAY_DESCRIPTION"
+msgstr ""
+"Harness the deadly beauty of the sea. Enthrall, Distract, and bury your foes "
+"in Misfortune."
+
+msgid "TOME_SEA@SKILL_1@NAME"
+msgstr "Call of the Deep"
+
+msgid "TOME_SEA@SKILL_1@DESCRIPTION"
+msgstr ""
+"Summons a tier II water creature on target water hex. (Requires basic "
+"seafaring.)"
+
+msgid "TOME_SEA@UNIT1@ABILITY1@NAME"
+msgstr "Flash Flood"
+
+msgid "TOME_SEA@UNIT1@ABILITY1@DESC"
+msgstr "Enemies sustain damage:"
+
+msgid "TOME_SEA@UNIT1@ABILITY2@NAME"
+msgstr "Enthralling Gaze"
+
+msgid "TOME_SEA@UNIT1@ABILITY2@DESC"
+msgstr ""
+"Enemies in a 1-hex radius has a 60% chance to be {GLOBAL.PROPERTIES."
+"ENTHRALLED.Hyperlink} "
+
+msgid "TOME_SEA@SKILL_2@NAME"
+msgstr "Captivating Dance"
+
+msgid "TOME_SEA@SKILL_2@DESCRIPTION"
+msgstr ""
+"Target owned city for each population:[bulletlist][bullet/]+1 {GLOBAL."
+"CityStabilityConcept.Hyperlink}. [bullet/]+1 {GLOBAL.GoldConcept.Hyperlink}. "
+"[bullet/]-1 {GLOBAL.UnitProductionConcept.Hyperlink}[bullet/]-1 {GLOBAL."
+"ManaConcept.Hyperlink} "
+
+msgid "TOME_SEA@SKILL_3@NAME"
+msgstr "Essence of Beauty"
+
+msgid "TOME_SEA@SKILL_3@DESCRIPTION"
+msgstr ""
+"Coalesce with the essence of the siren and curse those would destroy true "
+"beauty. When attacked, attackers have a 60% chance to suffer {GLOBAL."
+"PROPERTIES.MISFORTUNE.Hyperlink}."
+
+msgid "TOME_SEA@SKILL_4@NAME"
+msgstr "Undersea Garden"
+
+msgid "TOME_SEA@SKILL_4@DESCRIPTION"
+msgstr ""
+"+2 {GLOBAL.FoodConcept.Hyperlink} and {GLOBAL.ManaConcept.Hyperlink} per "
+"Coastal Province."
+
+msgid "TOME_SEA@SKILL_5@NAME"
+msgstr "Song of the Siren"
+
+msgid "TOME_SEA@SKILL_5@DESCRIPTION"
+msgstr ""
+"All units in target enemy army:[bulletlist][bullet/]Sustain 10 {GLOBAL."
+"PhysicalDamageConcept.Hyperlink}.[bullet/]Suffer 2 stacks of the {GLOBAL."
+"PROPERTIES.MISFORTUNE.Hyperlink} status effect for 3 turns.[/bulletlist][br/]"
+"[br/]Armies on a coast, open water, or a river tile additionally sustain:"
+"[bulletlist][bullet/]Suffer the {GLOBAL.PROPERTIES.ENTHRALLED.Hyperlink} "
+"Status Effect for 3 turns."
+
+msgid "TOME_SEA@SKILL_6@NAME"
+msgstr "Storm Siren"
+
+msgid "TOME_SEA@SKILL_6@DESCRIPTION"
+msgstr "Storm Siren"
+
+msgid "TOME_SEA@HERO_SKILL@NAME"
+msgstr "Voice of Confusion"
+
+msgid "TOME_SEA@HERO_SKILL@DESCRIPTION"
+msgstr ""
+"Target enemy unit is inflicted with {GLOBAL.PROPERTIES.INSANITY.Hyperlink} "
+"with a 90% chance. If unsuccessful, inflict 2x {GLOBAL.PROPERTIES.MISFORTUNE."
+"Hyperlink} instead."
+
+msgid "TOME_SEA@PROVINCE_IMPROVEMENT1@NAME"
+msgstr "[Conduit/] Siren's Cove"
+
+msgid "TOME_SEA@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]Must be built on a Coastal province.[bullet/]+5 {GLOBAL."
+"ManaConcept.Hyperlink}.[bullet/]+3 {GLOBAL.ManaConcept.Hyperlink} per each "
+"adjacent Coastal and Sea province.[bullet/]Counts as a {GLOBAL."
+"ConduitConcept.Hyperlink}[bullet/]Acts like a {GLOBAL.TeleporterConcept."
+"Hyperlink}"
+
+msgid "TOME_SEA@HOTO@NAME"
+msgstr "Hand of the Ocean"
+
+msgid "TOME_SEA@HOTO@DESC"
+msgstr "Terraforms a friendly non-water province into a partial water province"
+
+msgid "TOME_SEA@HOTO@PASSIVE"
+msgstr ""
+"Owner of this tome learns the {GLOBAL.SPECIAL_OPERATIONS.HAND_OF_THE_OCEAN."
+"Hyperlink} spell"
+
+#~ msgid "TOME_SEA@SEA_EVOLUTION@PROP_NAME"
+#~ msgstr "Sea Evolution"
+
+#~ msgid "TOME_SEA@SEA_EVOLUTION@PROP_DESC"
+#~ msgstr "This unit gains +4 XP per turn"
+
+#~ msgid "TOME_SEA@SEA_EVOLUTION@NAME"
+#~ msgstr "Siren's Growth"
+
+#~ msgid "TOME_SEA@SEA_EVOLUTION@DESC"
+#~ msgstr ""
+#~ "All units you control with {GLOBAL.PROPERTIES.WATER_MOVEMENT.Hyperlink} "
+#~ "gain +4 XP per turn"
+
+#~ msgid "TOME_SEA@ENTHRALLED@NAME"
+#~ msgstr "Enthralled"
+
+#~ msgid "TOME_SEA@ENTHRALLED@DESCRIPTION"
+#~ msgstr ""
+#~ "All attacks targeting this unit are {GLOBAL.FlankingConcept.Hyperlink} "
+#~ "attacks."
+
+#~ msgid "TOME_SEA@ABILITY1@DESCRIPTION"
+#~ msgstr "Call upon the tide to drown your enemies."
+
+#~ msgid "TOME_SEA@UNIT1@ABILITY2@DESCRIPTION"
+#~ msgstr ""
+#~ "Enemy units in a 1 hex radius have a 60% chance to sustain {GLOBAL."
+#~ "PROPERTIES.ENTHRALLED.Hyperlink} for 3 turns. If unsuccessful, units "
+#~ "sustain {GLOBAL.PROPERTIES.DISTRACTED.Hyperlink} for 1 turn."

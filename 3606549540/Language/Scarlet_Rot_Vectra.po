@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "Tome_Scarlet@Tome@Name"
+msgstr "Tome of Scarlet Rot"
+
+msgid "Tome_Scarlet@Tome@Desc"
+msgstr ""
+"This magic is not cast—it festers. The Curse of Rot is a slow-burning "
+"affliction that corrupts organic matter, spiritual essence, and even "
+"elemental constructs with creeping entropy. It is not a burst of power, but "
+"a whisper of decay that lingers and multiplies."
+
+msgid "Tome_Scarlet@Tome@Lore"
+msgstr ""
+"\"I dreamt for so long. My flesh was dull gold...and my blood, rotted. "
+"Corpse after corpse, left in my wake... Heed my words. The scarlet bloom "
+"flowers once more. You will witness true horror. Now, rot! Let your flesh be "
+"consumed. By the scarlet rot.\""
+
+msgid "Tome_Scarlet@Tome@Author"
+msgstr "Blade of the Scarlet"
+
+msgid "Tome_Scarlet@Enchantment@Name"
+msgstr "Touch of Rot"
+
+msgid "Tome_Scarlet@Enchantment@Desc"
+msgstr ""
+"When attacked in melee, inflict {GLOBAL.PROPERTIES.SCARLET_ROT_VEC."
+"Hyperlink} with 60% chance.\n"
+"\n"
+"Guaranteed for enchanted non-racial units "
+
+msgid "Tome_Scarlet@Transformation@Name"
+msgstr "Blessing of the Scarlet Rot"
+
+msgid "Tome_Scarlet@Transformation@Desc"
+msgstr ""
+"Rot for the scarlet goddess. The death that begets life. O scarlet blossoms, "
+"flourish in distant lands, and return to us, the unwanted children. Your "
+"race has:[bulletlist][bullet/]{GLOBAL.PROPERTIES.FLYING_MOVEMENT.Hyperlink}"
+"[bullet/]{GLOBAL.PROPERTIES.PLANT.Hyperlink}[bullet/]{GLOBAL.PROPERTIES."
+"AURA_OF_DISEASE.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.DISEASE_IMMUNITY."
+"Hyperlink}[/bulletlist]"
+
+msgid "Tome_Scarlet@TacticalSpell@Name"
+msgstr "Aeiona Explosion"
+
+msgid "Tome_Scarlet@TacticalSpell@Desc"
+msgstr ""
+"Target friendly unit restores 30 <<m:{GLOBAL.TemporaryHitPointConcept."
+"Hyperlink}>> and 5x {GLOBAL.PROPERTIES.REGENERATION.Hyperlink}. Enemies "
+"within 2-hexes sustain 15 {GLOBAL.BlightDamageConcept.Hyperlink}:[bulletlist]"
+"[bullet/]2x {GLOBAL.PROPERTIES.SCARLET_ROT_VEC.Hyperlink}[/bulletlist]"
+
+msgid "Tome_Scarlet@RotStep@Name"
+msgstr "Rot Step"
+
+msgid "Tome_Scarlet@RotStep@Desc"
+msgstr ""
+"Teleport to target hex, then adjacent enemies sustain damage:[bulletlist]"
+"[bullet/]2x {GLOBAL.PROPERTIES.SCARLET_ROT_VEC.Hyperlink}[/bulletlist]"
+
+msgid "Tome_Scarlet@ScarletWhirlwind@Name"
+msgstr "Scarlet Whirlwind"
+
+msgid "Tome_Scarlet@StatusEffect@Name"
+msgstr "Scarlet Rot"
+
+msgid "Tome_Scarlet@StatusEffect@Desc"
+msgstr ""
+"At 5 stacks, remove all stacks and inflict 20 {GLOBAL.BlightDamageConcept."
+"Hyperlink} and {GLOBAL.PROPERTIES.MOTH_INDUCE_VEC.Hyperlink}."
+
+msgid "Tome_Scarlet@Unit@Name"
+msgstr "Scarlet Knight"
+
+msgid "Tome_Scarlet@Unit@Desc"
+msgstr ""
+"They were knights of golden resolve, sworn to a cause long buried beneath "
+"rot and silence. When the blight spread across the battlefield, they did not "
+"retreat—they embraced it. Their armor gleamed even as their flesh decayed, "
+"sanctified not by victory, but by sacrifice."
+
+msgid "Tome_Scarlet@Unit2@Name"
+msgstr "Scarlet Moth"
+
+msgid "Tome_Scarlet@Unit2@Desc"
+msgstr ""
+"A moth affected by the Rot, rooted to it's very core - forever changing it. "
+"These moths are tiny, but like wolves, come in large packs."
+
+msgid "Tome_Scarlet@Ascension_Skill@Name"
+msgstr "Aeiona Explosion"
+
+msgid "Tome_Scarlet@Ascension_Skill@Desc"
+msgstr ""
+"This unit restores 30 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> and "
+"3x {GLOBAL.PROPERTIES.REGENERATION.Hyperlink}. Enemies within 2-hexes "
+"sustain 15 {GLOBAL.BlightDamageConcept.Hyperlink}:[bulletlist][bullet/]2x "
+"{GLOBAL.PROPERTIES.SCARLET_ROT_VEC.Hyperlink}[/bulletlist]"
+
+msgid "Tome_Scarlet@Unit3@Name"
+msgstr "Baby Scarlet Moth"
+
+msgid "Tome_Scarlet@StatusEffect_Revival@Name"
+msgstr "Moth-Induced"
+
+msgid "Tome_Scarlet@StatusEffect_Revival@Desc"
+msgstr ""
+"If this unit dies, they transform into a {GLOBAL.UNITS.VEC_BABY_MOTH."
+"Hyperlink} under the opponent's control"
+
+msgid "Tome_Scarlet@TacticalSpell@Desc2"
+msgstr ""
+"This unit restores 30 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> and "
+"3x {GLOBAL.PROPERTIES.REGENERATION.Hyperlink}. Enemies within 2-hexes "
+"sustain 10 {GLOBAL.BlightDamageConcept.Hyperlink}:[bulletlist][bullet/]2x "
+"{GLOBAL.PROPERTIES.SCARLET_ROT_VEC.Hyperlink}[/bulletlist]"
+
+#, fuzzy
+#~| msgid "Tome_Scarlet@TacticalSpell@Desc"
+#~ msgid "Tome_Scarlet@HealSpell@Desc"
+#~ msgstr ""
+#~ "Target friendly unit restores 30 <<m:{GLOBAL.TemporaryHitPointConcept."
+#~ "Hyperlink}>> and 5x {GLOBAL.PROPERTIES.REGENERATION.Hyperlink}. Enemies "
+#~ "within 2-hexes sustains 15 {GLOBAL.BlightDamageConcept.Hyperlink}:"
+#~ "[bulletlist][bullet/]2x {GLOBAL.PROPERTIES.SCARLET_ROT_VEC.Hyperlink}[/"
+#~ "bulletlist]"

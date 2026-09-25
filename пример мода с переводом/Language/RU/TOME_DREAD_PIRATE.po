@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3\n"
+
+msgid "TOME_DREAD_PIRATES@TOME@NAME"
+msgstr "Книга капитана Плети"
+
+msgid "TOME_DREAD_PIRATES@TOME@LORE_DESCRIPTION"
+msgstr "\"Нет выживших? Интересно, откуда же берутся эти истории?\""
+
+msgid "TOME_DREAD_PIRATES@TOME@LORE_AUTHOR"
+msgstr "Джек Воробей"
+
+msgid "TOME_DREAD_PIRATES@TOME@GAMEPLAY_DESCRIPTION"
+msgstr "Проклинайте своих врагов и грабьте их сокровища, используя мощь бича в своих парусах. Они научатся бояться существ, танцующих в испорченных тенях моря."
+
+msgid "TOME_DREAD_PIRATES@SKILL_1@NAME"
+msgstr "Беспокойный налётчик"
+
+msgid "TOME_DREAD_PIRATES@SKILL_1@DESCRIPTION"
+msgstr "Призрачный пират, отправленный в шкафчик Дэйви Джонса, теперь снова вернулся, чтобы грабить."
+
+msgid "TOME_DREAD_PIRATES@UNIT1@ABILITY1@NAME"
+msgstr "Душевный выстрел"
+
+msgid "TOME_DREAD_PIRATES@SKILL_2@NAME"
+msgstr "Вызов корабля-призрака"
+
+msgid "TOME_DREAD_PIRATES@SKILL_2@DESCRIPTION"
+msgstr "Вызывает корабль-призрак, нацеленный на водный шестиугольник."
+
+msgid "TOME_DREAD_PIRATES@SKILL_3@NAME"
+msgstr "Золотой глаз капитана"
+
+msgid "TOME_DREAD_PIRATES@SKILL_3@DESCRIPTION"
+msgstr "Целевая вражеская армия получает {GLOBAL.PROPERTIES.TREASURE_MARKED.Hyperlink} на 3 хода."
+
+msgid "TOME_DREAD_PIRATES@SKILL_4@NAME"
+msgstr "Волна порочного прилива"
+
+msgid "TOME_DREAD_PIRATES@SKILL_4@DESCRIPTION"
+msgstr "В начале боя: [bulletlist][bullet/]Призовите 6 малых духов прилива на сторону атакующего до конца битвы. [bullet/]Защитники страдают от 2 {GLOBAL.PROPERTIES.CURSE_OF_DROWNING.Hyperlink}."
+
+msgid "TOME_DREAD_PIRATES@SKILL_5@NAME"
+msgstr "Призрачный базар"
+
+msgid "TOME_DREAD_PIRATES@SKILL_5@DESCRIPTION"
+msgstr "Получает +2 {GLOBAL.GoldConcept.Hyperlink} и +1 {GLOBAL.SoulConcept.Hyperlink} для каждой прибрежной провинции в домене."
+
+msgid "TOME_DREAD_PIRATES@SKILL_6@NAME"
+msgstr "Кровавый договор Бича"
+
+msgid "TOME_DREAD_PIRATES@SKILL_6@DESCRIPTION"
+msgstr "Примите участие в добыче Капитана Плети, предоставив расе: [bulletlist] [bullet/]Быстрое отправление. [bullet/]{GLOBAL.PROPERTIES.DROWNING_AURA.Hyperlink}."
+
+msgid "TOME_DREAD_PIRATES@HERO_SKILL@NAME"
+msgstr "Избранный утопающего"
+
+msgid "TOME_DREAD_PIRATES@HERO_SKILL@DESCRIPTION"
+msgstr "Злоумышленники имеют 60% шанс заразиться {GLOBAL.PROPERTIES.CURSE_OF_DROWNING.Hyperlink}."
+
+msgid "TOME_DREAD_PIRATES@PROVINCE_IMPROVEMENT1@NAME"
+msgstr "[Researchpost/] Призрачная бухта"
+
+msgid "TOME_DREAD_PIRATES@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr "[bulletlist][bullet/]Должен быть построен в прибрежной провинции.[bullet/]+20 {GLOBAL.KnowledgeConcept.Hyperlink}. [bullet/]+2 {GLOBAL.ManaConcept.Hyperlink} за каждый соседний прибрежный шестиугольник. [bullet/]Вражеские атакующие в домене начинают бой с 2 {GLOBAL.PROPERTIES.CURSE_OF_DROWNING.Hyperlink}. [bullet/]Считается как {GLOBAL.ResearchPostConcept.Hyperlink}."
+
+msgid "TOME_DREAD_PIRATES@ENTHRALLED@NAME"
+msgstr "Очарованный"
+
+msgid "TOME_DREAD_PIRATES@ENTHRALLED@DESCRIPTION"
+msgstr "Все атаки, нацеленные на этого юнита {GLOBAL.FlankingConcept.Hyperlink}."
+
+msgid "TOME_DREAD_PIRATES@ABILITY1@DESCRIPTION"
+msgstr "Выпускает стрелу по цели в радиусе действия, нанося урон и:[bulletlist] [bullet/]Нанесение 2 {GLOBAL.PROPERTIES.CURSE_OF_DROWNING.Hyperlink}."
+
+msgid "TOME_DREAD_PIRATES@UNIT1@ABILITY2@NAME"
+msgstr "Утопающая аура"
+
+msgid "TOME_DREAD_PIRATES@UNIT1@ABILITY2@DESCRIPTION"
+msgstr "В начале каждого хода соседние враги имеют 60% шанс получить устойчивое {GLOBAL.PROPERTIES.CURSE_OF_DROWNING.Hyperlink}. Не складывается."
+
+msgid "TOME_DREAD_PIRATES@UNIT2@ABILITY1@NAME"
+msgstr "Ледяное дыхание"
+
+msgid "TOME_DREAD_PIRATES@UNIT2@ABILITY1@DESCRIPTION"
+msgstr "Ледяное дыхание"
+
+msgid "TOME_DREAD_PIRATES@UNIT2@ABILITY2@NAME"
+msgstr "Терновые доспехи"
+
+msgid "TOME_DREAD_PIRATES@UNIT2@ABILITY2@DESCRIPTION"
+msgstr "Терновые доспехи"
+
+msgid "TOME_DREAD_PIRATES@UNIT2@ABILITY3@NAME"
+msgstr "Древнее благословение"
+
+msgid "TOME_DREAD_PIRATES@UNIT2@ABILITY3@DESCRIPTION"
+msgstr "[bulletlist][bullet/]Получает +30 {GLOBAL.TemporaryHitPointConcept.Hyperlink}.[bullet/]Снимает негативные эффекты статуса.[bullet/]Переходит в режим защиты."
+
+msgid "TOME_DREAD_PIRATES@UNIT1@NAME_OVERRIDE"
+msgstr "Базовый 60% шанс нанести {GLOBAL.PROPERTIES.CURSE_OF_DROWNING.Hyperlink}."
+
+msgid "TOME_DREAD_PIRATE@STATUS1@NAME"
+msgstr "Проклятие утопающего"
+
+msgid "TOME_DREAD_PIRATE@STATUS2@NAME"
+msgstr "Отмеченные сокровища"
+
+msgid "TOME_DREAD_PIRATE@STATUS1@DESCRIPTION"
+msgstr "[bulletlist] [bullet/]Юниты страдают 2 {GLOBAL.FrostDamageConcept.Hyperlink} за каждый стек за ход. [bullet/]Юниты не могут лечить. [bullet/]При гибели юнита до 2 враждебных юнитов, находящихся на расстоянии до 2 шестиугольников, получают стек {GLOBAL.PROPERTIES.CURSE_OF_DROWNING.Hyperlink}. [bullet/]Складывается до 5 раз."
+
+msgid "TOME_DREAD_PIRATE@STATUS2@DESCRIPTION"
+msgstr "Когда этот юнит погибает, победитель битвы получает 10 {GLOBAL.GoldConcept.Hyperlink} и 1 {GLOBAL.SoulConcept.Hyperlink} за уровень."
+
+msgid "TOME_DREAD_PIRATE@STATUS1@BLOCK_STRING"
+msgstr "Заблокирован: Невосприимчивость к сжиганию маны"
+
+msgid "TOME_DREAD_PIRATE@STATUS3@NAME"
+msgstr "Прогонная рампа I"
+
+msgid "TOME_DREAD_PIRATE@STATUS3@DESCRIPTION"
+msgstr "Прогонная рампа I"
+
+msgid "TOME_DREAD_PIRATE@STATUS4@NAME"
+msgstr "Прогонная рампа II"
+
+msgid "TOME_DREAD_PIRATE@STATUS4@DESCRIPTION"
+msgstr "Прогонная рампа II"
+
+msgid "TOME_DREAD_PIRATE@STATUS5@NAME"
+msgstr "Сжигание маны"
+
+msgid "TOME_DREAD_PIRATE@STATUS5@DESCRIPTION"
+msgstr "Жезл маны"
+
+msgid "TOME_DREAD_PIRATES@UNIT1@ABILITY3@NAME"
+msgstr "Ниму Всплеска"
+
+msgid "TOME_DREAD_PIRATES@UNIT1@ABILITY3@DESCRIPTION"
+msgstr "Описание Ниму Всплеска"
+
+msgid "TOME_DREAD_PIRATES@UNIT1@ABILITY4@NAME"
+msgstr "Отвод маны"
+
+msgid "TOME_DREAD_PIRATES@UNIT1@ABILITY4@DESCRIPTION"
+msgstr "Гипнотизировать"
+
+msgid "TOME_DREAD_PIRATES@UNIT1@ABILITY5@NAME"
+msgstr "Гипнотизировать"
+
+msgid "TOME_DREAD_PIRATES@UNIT1@ABILITY5@DESCRIPTION"
+msgstr "Гипнотизировать"

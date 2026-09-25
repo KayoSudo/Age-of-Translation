@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "TOME@Gun@NAME"
+msgstr "Tome of Ingenuity"
+
+msgid "TOME@Gun@DESC"
+msgstr ""
+"Bring forth the industrious power of the old Commonwealth, fit your units in "
+"armor strong enough to reflect {GLOBAL.PhysicalDamageConcept.Hyperlink} and "
+"utilize the full power of a new evolving {GLOBAL.PROPERTIES.RANGED_UNIT."
+"Hyperlink}."
+
+msgid "TOME@Gun@AUTHOR@NAME"
+msgstr "Emperor Nasir the Sucessor"
+
+msgid "TOME@Gun@AUTHOR@DESC"
+msgstr "\"Three things make this Empire great: faith, steel and magelocks.\""
+
+msgid "TOME@Gun@Skill1@Unit1"
+msgstr "Magelock Gunners"
+
+msgid "TOME@Gun@Skill1@Unit2"
+msgstr "Line Infantry"
+
+msgid "TOME@Gun@Skill1@DESC"
+msgstr ""
+"A {GLOBAL.PROPERTIES.RANGED_UNIT.Hyperlink} that uses the new issued "
+"Magelock rifle, given time, this unit will be a force to be reckoned with."
+
+msgid "TOME@Gun@Skill1@Unit@Skill"
+msgstr "Deploy Field Cannon"
+
+msgid "TOME@Gun@Skill1@Unit@Skill2@DESC"
+msgstr ""
+"This unit's deals +20% extra damage and inflicts {GLOBAL.PROPERTIES."
+"DEMORALIZED.Hyperlink} due to adjacent units with Volley Fire."
+
+msgid "TOME@Gun@Skill1@Unit@Skill@DESC"
+msgstr ""
+"At the start of battle, summon an {GLOBAL.UNITS.OBSERVER.Hyperlink}, a "
+"construct that inflicts {GLOBAL.PROPERTIES.MARKED.Hyperlink}."
+
+msgid "TOME@Gun@Skill1@Unit@Skill2"
+msgstr "Volley Fire"
+
+msgid "TOME@Gun@Skill1@Unit"
+msgstr "Combat Engineer"
+
+msgid "TOME@Gun@Skill2@Name"
+msgstr "[Mine/] Forge Industry"
+
+msgid "TOME@Gun@Skill2@SKILL@Name"
+msgstr "Observation Unit"
+
+msgid "TOME@Gun@Skill2@DESC"
+msgstr ""
+"[bulletlist] [bullet/]+5 {GLOBAL.GoldConcept.Hyperlink}. [bullet/]+15 "
+"{GLOBAL.GoldConcept.Hyperlink} if Adjacent to another Forge Industry. "
+"[bullet/]+3 {GLOBAL.StructureProductionConcept.Hyperlink} per Adjacent "
+"{GLOBAL.QuarryConcept.Hyperlink}. [bullet/]Counts as a {GLOBAL.MineConcept."
+"Hyperlink}."
+
+msgid "TOME@Gun@Skill3@Name"
+msgstr "Reactive Alloys"
+
+msgid "TOME@Gun@Skill3@Skill@Name"
+msgstr ""
+"Deploy a new advanced type of armor for your troops, only made possible by "
+"your people's ingenuity: [bulletlist] [bullet/]Reflects 3 {GLOBAL."
+"PhysicalDamageConcept.Hyperlink} on each melee attack. [bullet/]+1 {GLOBAL."
+"DefenseConcept.Hyperlink}."
+
+msgid "TOME@Gun@Skill3@Skill@DESC"
+msgstr ""
+"Unique type of {GLOBAL.PROPERTIES.SUPPORT_UNIT.Hyperlink} that may deploy "
+"constructs until the end of the battle."
+
+msgid "TOME@Gun@Skill3@Desc"
+msgstr ""
+"Deploy a construct that deals ranged {GLOBAL.PhysicalDamageConcept."
+"Hyperlink}."
+
+msgid "TOME@Gun@Skill2@Unit@Skill@DESC"
+msgstr "Combat Engineer"
+
+msgid "TOME@Gun@Skill4@Name"
+msgstr "Off-field Barrage"
+
+msgid "TOME@Gun@Skill4@DESC"
+msgstr ""
+"Deploy a low damaging barrage for 3 {GLOBAL.TurnConcept.Hyperlink}. Each "
+"turn 2 random units are hit and suffer: [bulletlist] [bullet/]1 {GLOBAL."
+"PROPERTIES.SUNDERED_DEFENSE.Hyperlink}. [bullet/]-3 {GLOBAL."
+"UnitMoraleConcept.Hyperlink}."
+
+msgid "TOME@Gun@Skill5@Name"
+msgstr "Deploy Bayonets"
+
+msgid "TOME@Gun@Skill5@DESC"
+msgstr ""
+"Order all your {GLOBAL.PROPERTIES.RANGED_UNIT.Hyperlink} to deploy their "
+"Melee Weapons and charge, for 1 turn: [bulletlist][bullet/]Regains 100% of "
+"their <<m:{GLOBAL.ActionPointConcept.Hyperlink}>>. [bullet/]Gain a {GLOBAL."
+"ChargeConcept.Hyperlink} attack that deals more damage based on target's "
+"lost {GLOBAL.HitPointConcept.Hyperlink}. [bullet/]Disable all {GLOBAL."
+"RangedConcept.Hyperlink} abilities for 1 turn."
+
+msgid "TOME@Gun@Skill6@Name"
+msgstr "This unit is at maximun firepower."
+
+msgid "TOME@Gun@Skill6@DESC"
+msgstr ""
+"Standardize a new special Ammunition for your troops: [bulletlist] "
+"[bullet/]Add {GLOBAL.PROPERTIES.EXPLOSIVE_AMMO.Hyperlink} to all {GLOBAL."
+"PROPERTIES.RANGED_UNIT.Hyperlink}."
+
+msgid "TOME@Gun@Skill6@Group"
+msgstr "Steel and Magelock Group"
+
+msgid "TOME@Gun@Skill7@DESC"
+msgstr "Fire a salvo of explosive ammunition."
+
+msgid "TOME@Gun@Skill7@Name"
+msgstr "Explosive Ammunition"
+
+msgid "TOME@DISC@PANTHEON@NAME"
+msgstr "Ascension: Iron Marshal OLD"
+
+msgid "TOME@DISC@PANTHEON@NAME2"
+msgstr "Charge!!"
+
+msgid "TOME@DISC@PANTHEON@NAME3"
+msgstr ""
+"[bulletlist][bullet/]Gain a {GLOBAL.ChargeConcept.Hyperlink} attack that "
+"deals more damage based on target's lost {GLOBAL.HitPointConcept.Hyperlink}. "
+"[bullet/]Disable all {GLOBAL.RangedConcept.Hyperlink} abilities for 1 turn."
+
+msgid "TOME@DISC@PANTHEON@NAME4"
+msgstr "Bayonet Charge"
+
+msgid "TOME@DISC@PANTHEON@NAME5"
+msgstr ""
+"Deal melee damage based on target lost {GLOBAL.HitPointConcept.Hyperlink}."
+
+msgid "TOME@DISC@PANTHEON@NAME6"
+msgstr "Bayonets Deployed"
+
+msgid "TOME@DISC@PANTHEON@NAME22"
+msgstr "Field Cannon"
+
+msgid "TOME@DISC@PANTHEON@NAME33"
+msgstr ""
+"Deals damage in a 2-hex line. Removes {GLOBAL.DefenseModeConcept.Hyperlink} "
+"and {GLOBAL.RetaliationConcept.Hyperlink} on hit."
+
+msgid "TOME@DISC@PANTHEON@NAME44"
+msgstr "Field Repairs"
+
+msgid "TOME@DISC@PANTHEON@NAME55"
+msgstr ""
+"Heal target unit for 15 {GLOBAL.TemporaryHitPointConcept.Hyperlink}, doubled "
+"if the unit is a {GLOBAL.PROPERTIES.CONSTRUCT.Hyperlink}."
+
+msgid "TOME@GUNNEW@PANTHEON@NAME55"
+msgstr "Ascension: Iron Marshal"

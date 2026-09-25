@@ -1,0 +1,193 @@
+# SHOULDBEFUZZY!!!
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SHELL.RPK:././././TStructureUpgradeR/./
+msgid "CITYUPGRADES_STRATEGIC@PROVINCE_IMPROVEMENT@REQUIREMENT"
+msgstr ""
+
+#: SHELL.RPK:././././TSpecialOperationR/./
+#: SHELL.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@ANYWHERE@INSTRUCTIONS"
+msgstr ""
+
+#: SHELL.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@TARGETSTACK_FRIENDLY@INSTRUCTIONS"
+msgstr ""
+
+#: SHELL.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@TARGET_LOCATION@INSTRUCTIONS"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+msgid "RESEARCHSKILLS@TAGS@CITY_STRUCTURE"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+#: SHELL.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@STRATEGIC_SPELL_FRIENDLY_UNIT"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+#: SHELL.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@STRATEGIC_SPELL_SUMMON"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+#: SHELL.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@TACTICAL_SPELL_SUMMON"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+msgid "RESEARCHSKILLS@TAGS@UNIT"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+#: SHELL.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@UNIT_ENCHANTMENT_SPELL"
+msgstr ""
+
+#: SHELL.RPK:././././TBaseUnitR/./
+msgid "TOME_SHELL@STATUS1@DESCRIPTION"
+msgstr ""
+
+#: SHELL.RPK:././././TBaseUnitR/./
+msgid "TOME_SHELL@STATUS1@NAME"
+msgstr ""
+
+#: SHELL.RPK:././././TBaseUnitR/./
+msgid "TOME_SHELL@STATUS2@DESCRIPTION"
+msgstr ""
+
+#: SHELL.RPK:././././TBaseUnitR/./
+msgid "TOME_SHELL@STATUS2@NAME"
+msgstr ""
+
+#: SHELL.RPK:././././TBaseHeroSkill/./
+#: SHELL.RPK:././././TUnitProperty/./
+msgid "TOME_SHELLS@HERO_SKILL@DESCRIPTION"
+msgstr ""
+
+#: SHELL.RPK:././././TBaseHeroSkill/./
+#: SHELL.RPK:././././TUnitProperty/./
+msgid "TOME_SHELLS@HERO_SKILL@NAME"
+msgstr ""
+
+#: SHELL.RPK:././././TStructureUpgradeR/./
+#: SHELL.RPK:././././TCombatProperty/./
+msgid "TOME_SHELLS@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr ""
+
+#: SHELL.RPK:././././TStructureUpgradeR/./
+#: SHELL.RPK:././././TSectorType/./
+#: SHELL.RPK:././././TSimpleRequisite/./
+#: SHELL.RPK:././././TCombatProperty/./
+msgid "TOME_SHELLS@PROVINCE_IMPROVEMENT1@NAME"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+#: SHELL.RPK:././././TSpecialOperationR/./
+msgid "TOME_SHELLS@SKILL_1@DESCRIPTION"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+#: SHELL.RPK:././././TSpecialOperationR/./
+msgid "TOME_SHELLS@SKILL_1@NAME"
+msgstr ""
+
+#: SHELL.RPK:././././TBaseUnitR/./
+#: SHELL.RPK:././././TBaseUnitR/./
+#: SHELL.RPK:././././TGridSkill/./
+#: SHELL.RPK:././././TGridSkill/./
+msgid "TOME_SHELLS@SKILL_2@NAME"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+#: SHELL.RPK:././././TSpecialOperationR/./
+msgid "TOME_SHELLS@SKILL_3@DESCRIPTION"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+#: SHELL.RPK:././././TSpecialOperationR/./
+msgid "TOME_SHELLS@SKILL_3@NAME"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+#: SHELL.RPK:././././TSpecialOperationR/./
+msgid "TOME_SHELLS@SKILL_4@DESCRIPTION"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+#: SHELL.RPK:././././TSpecialOperationR/./
+msgid "TOME_SHELLS@SKILL_4@NAME"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+#: SHELL.RPK:././././TStructureUpgradeR/./
+#: SHELL.RPK:././././TCombatProperty/./
+#: SHELL.RPK:././././TCombatProperty/./
+msgid "TOME_SHELLS@SKILL_5@DESCRIPTION"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+#: SHELL.RPK:././././TStructureUpgradeR/./
+#: SHELL.RPK:././././TCombatProperty/./
+#: SHELL.RPK:././././TCombatProperty/./
+msgid "TOME_SHELLS@SKILL_5@NAME"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+#: SHELL.RPK:././././TSpecialOperationR/./
+#: SHELL.RPK:././././TUnitProperty/./
+msgid "TOME_SHELLS@SKILL_6@DESCRIPTION"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkill/./
+#: SHELL.RPK:././././TSpecialOperationR/./
+#: SHELL.RPK:././././TUnitProperty/./
+msgid "TOME_SHELLS@SKILL_6@NAME"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkillGroup/./././
+msgid "TOME_SHELLS@TOME@GAMEPLAY_DESCRIPTION"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkillGroup/./././
+msgid "TOME_SHELLS@TOME@LORE_AUTHOR"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkillGroup/./././
+msgid "TOME_SHELLS@TOME@LORE_DESCRIPTION"
+msgstr ""
+
+#: SHELL.RPK:././././TGridSkillGroup/./
+#: SHELL.RPK:././././THeroSkillGroup/./
+msgid "TOME_SHELLS@TOME@NAME"
+msgstr ""
+
+#: SHELL.RPK:././././TUnitProperty/./
+msgid "TOME_SHELLS@UNIT1@ABILITY2@DESCRIPTION"
+msgstr ""
+
+#: SHELL.RPK:././././TUnitProperty/./
+msgid "TOME_SHELLS@UNIT1@ABILITY2@NAME"
+msgstr ""
+
+#: SHELL.RPK:././././TUnitProperty/./
+msgid "TOME_SHELLS@UNIT1@ABILITY3@DESCRIPTION"
+msgstr ""
+
+#: SHELL.RPK:././././TUnitProperty/./
+msgid "TOME_SHELLS@UNIT1@ABILITY3@NAME"
+msgstr ""
+
+#: SHELL.RPK:././././TCombatProperty/./
+msgid "TOME_SHELTERING_BOUGHS@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr ""
+
+#: SHELL.RPK:././././TCombatProperty/./
+msgid "TOME_SHELTERING_BOUGHS@PROVINCE_IMPROVEMENT1@NAME"
+msgstr ""
+

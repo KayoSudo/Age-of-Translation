@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "TOME@Crusader@NAME"
+msgstr "Tome of the Crusader"
+
+msgid "TOME@Crusader@DESC"
+msgstr ""
+"Vanquish all your foes by introducing the concept of the mission to your "
+"people. Focus in adding new ways to use {GLOBAL.PROPERTIES.SUPPORT_UNIT."
+"Hyperlink} and {GLOBAL.SpiritDamageConcept.Name}."
+
+msgid "TOME@Crusader@AUTHOR@NAME"
+msgstr "Yohan Aarnes Magnus, XIV Grandmaster of the Golden Order"
+
+msgid "TOME@Crusader@AUTHOR@DESC"
+msgstr ""
+"\"Be without fear in the face of your enemies. Be brave and upright that the "
+"holy may love thee. Speak the truth always, even if it leads to your death. "
+"That is our mission.\""
+
+msgid "TOME@Crusader@Skill1@Name"
+msgstr "Armored Crusader"
+
+msgid "TOME@Crusader@Skill1@DESC"
+msgstr ""
+"A {GLOBAL.PROPERTIES.SHIELD_UNIT.Hyperlink} that expecializes in holding the "
+"line with {GLOBAL.SpiritDamageConcept.Name}."
+
+msgid "TOME@Crusader@Skill1@Unit@Skill"
+msgstr "Crusader Assault"
+
+msgid "TOME@Crusader@Skill1@Unit@Skill2@DESC"
+msgstr ""
+"Base 120% chance of target unit becoming {GLOBAL.PROPERTIES.STUNNED."
+"Hyperlink}. Enter {GLOBAL.DefenseModeConcept.Hyperlink} after use."
+
+msgid "TOME@Crusader@Skill1@Unit@Skill@DESC"
+msgstr ""
+"Endue holy power unto a unit: [bulletlist] [bullet/]Add {GLOBAL.PROPERTIES."
+"SMITE_OF_GOD.Hyperlink} to all {GLOBAL.PROPERTIES.SUPPORT_UNIT.Hyperlink}."
+
+msgid "TOME@Crusader@Skill1@Unit@Skill2"
+msgstr "Furious Devotion"
+
+msgid "TOME@Crusader@Skill1@Unit"
+msgstr "Armored Crusader"
+
+msgid "TOME@Crusader@Skill2@Name"
+msgstr "Vanquisher Oath"
+
+msgid "TOME@Crusader@Skill2@SKILL@Name"
+msgstr ""
+"The fervor of our mission burns within: [bulletlist] [bullet/]This unit "
+"gains +2 {GLOBAL.FireDamageConcept.Hyperlink} to all attacks for 2 {GLOBAL."
+"TurnConcept.Hyperlink}."
+
+msgid "TOME@Crusader@Skill2@DESC"
+msgstr ""
+"Target a friendly unit: [bulletlist][bullet/]For 3 turns, gain +20% extra "
+"damage towards {GLOBAL.PROPERTIES.DRAGON.Hyperlink}, {GLOBAL.PROPERTIES."
+"UNDEAD.Hyperlink}, {GLOBAL.PROPERTIES.FEY.Hyperlink}, {GLOBAL.PROPERTIES."
+"FIEND.Hyperlink}, {GLOBAL.PROPERTIES.MAGIC_ORIGIN.Hyperlink} units. "
+"[bullet/]This effect then applies to adjacent friendly units and is repeated."
+
+msgid "TOME@Crusader@Skill3@Name"
+msgstr ""
+"+20% extra damage towards {GLOBAL.PROPERTIES.DRAGON.Hyperlink}, {GLOBAL."
+"PROPERTIES.UNDEAD.Hyperlink}, {GLOBAL.PROPERTIES.FEY.Hyperlink}, {GLOBAL."
+"PROPERTIES.FIEND.Hyperlink}, {GLOBAL.PROPERTIES.MAGIC_ORIGIN.Hyperlink} "
+"units."
+
+msgid "TOME@Crusader@Skill3@Skill@Name"
+msgstr ""
+"Target friendly unit, for 2 turns: [bulletlist] [bullet/]Gain +4 {GLOBAL."
+"SpiritDamageConcept.Hyperlink} to it's basic attacks. [bullet/]Basic attacks "
+"are extended to 1-hex behind the target, dealing 30% of the original damage."
+
+msgid "TOME@Crusader@Skill3@Skill@DESC"
+msgstr "Sword of Light"
+
+msgid "TOME@Crusader@Skill3@Desc"
+msgstr "Spirit Blaze"
+
+msgid "TOME@Crusader@Skill2@Unit@Skill@DESC"
+msgstr ""
+"To fulfill our sacred mission, we must all take upon the sword: [bulletlist] "
+"[bullet/]Add {GLOBAL.PROPERTIES.MASTER_SUPPORT.Hyperlink} to all {GLOBAL."
+"PROPERTIES.SUPPORT_UNIT.Hyperlink}."
+
+msgid "TOME@Crusader@Skill4@Name"
+msgstr "Enduring Fervor"
+
+msgid "TOME@Crusader@Skill4@DESC"
+msgstr ""
+"Even at the face of certain death, our mission all but empowers us: "
+"[bulletlist] [bullet/]Damage penalties from {GLOBAL.CasualtyConcept."
+"Hyperlink} are halved. [bullet/]Once this unit {GLOBAL.HitPointConcept."
+"Hyperlink} reachs 40% or lower, gain +2 {GLOBAL.FireDamageConcept.Hyperlink} "
+"for 2 {GLOBAL.TurnConcept.Hyperlink}."
+
+msgid "TOME@Crusader@Skill5@Name"
+msgstr "Sacred Mission"
+
+msgid "TOME@Crusader@Skill5@DESC"
+msgstr "Shoot in a 2-hex line."
+
+msgid "TOME@Crusader@Skill6@Name"
+msgstr "Warrior Priests"
+
+msgid "TOME@Crusader@Skill6@DESC"
+msgstr ""
+"This unit is trained to battle with sword and devotion, after using a "
+"support ability: [bulletlist] [bullet/]Regain half your {GLOBAL."
+"ActionPointConcept.Hyperlink}. [bullet/]Disable all {GLOBAL.SupportConcept."
+"Hyperlink} abilities for 1 turn."
+
+msgid "TOME@Crusader@Skill6@Group"
+msgstr "Warrior Priest"
+
+msgid "TOME@Crusader@DEBUFF@DESC"
+msgstr "All support abilities are blocked due to Warrior Priest effect."
+
+msgid "TOME@Crusader@DEBUFF@NAME"
+msgstr "Warrior Priest"
+
+msgid "TOME@Crusader@SPI@DESC"
+msgstr ""
+"[bulletlist] [bullet/]+2 {GLOBAL.ImperiumConcept.Hyperlink}. [bullet/]+2 "
+"{GLOBAL.ImperiumConcept.Hyperlink} per level of {GLOBAL.AlignmentConcept."
+"Hyperlink}. [bullet/]+3 {GLOBAL.ManaConcept.Hyperlink} per Adjacent {GLOBAL."
+"FarmConcept.Hyperlink}. [bullet/]Counts as a {GLOBAL.ResearchPostConcept."
+"Hyperlink}."
+
+msgid "TOME@Crusader@SPI@NAME"
+msgstr "[influence/] Holy Site"
+
+msgid "TOME@Crusader@PANTHEON@NAME"
+msgstr "Ascension: Defender of the Faith"
+
+msgid "TOME@Crusader@PANTHEON@NAME2"
+msgstr "Warrior Priest"
+
+msgid "TOME@Crusader@PANTHEON@NAME3"
+msgstr ""
+"This unit is trained to battle with sword and devotion, after using a "
+"support ability: [bulletlist] [bullet/]Regain half your {GLOBAL."
+"ActionPointConcept.Hyperlink}. [bullet/]Disable all {GLOBAL.SupportConcept."
+"Hyperlink} abilities for 1 turn. [bullet/]Additionaly, gain 20% increased "
+"Healing Effectiveness for {GLOBAL.SupportConcept.Hyperlink} abilities at all "
+"times."
+
+msgid "TOME@Crusader@PANTHEON@NAME4"
+msgstr "3"
+
+msgid "TOME@Crusader@PANTHEON@NAME5"
+msgstr "4"
