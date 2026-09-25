@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+# Tome
+msgid "NEWTOME@TOME_WONDERS@NAME"
+msgstr "奇迹魔典"
+
+msgid "NEWTOME@TOME_WONDERS@DESCRIPTION"
+msgstr "塑造了《奇迹时代》的禁忌魔典，寄宿着创世与毁灭的起源力量"
+
+msgid "NEWTOME@TOME_WONDERS@LORE"
+msgstr "「我是阿尔法，也是欧米伽；是首先的，也是末后的；是开始，也是终结」"
+
+msgid "NEWTOME@TOME_WONDERS@AUTHOR"
+msgstr "佚名，如今游荡于书页之间的回响"
+
+# Skill
+msgid "NEWTOME@TOME_WONDERS@SKILL_01@NAME"
+msgstr "创世丰饶"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_01@DESCRIPTION"
+msgstr "大地将不再吝啬。城市将如雨后春笋般拔地而起，粮仓永远满溢，矿脉永不枯竭。你的人民将不再为生计劳作——他们只需为你繁荣。"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_01@TYPE"
+msgstr "{GLOBAL.SustainedWorldSpellConcept.Hyperlink}"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_02@NAME"
+msgstr "无尽求知"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_02@DESCRIPTION"
+msgstr "知识的壁垒被一一粉碎。曾经需要穷尽一生才能理解的法术，如今不过是一瞥之间的事。当你站在真理之巅俯瞰时，才会意识到——凡人所谓的深奥，不过是冰山浮于水面的那一角。"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_02@TYPE"
+msgstr "{GLOBAL.SustainedWorldSpellConcept.Hyperlink}"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_03@NAME"
+msgstr "神性降临"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_03@DESCRIPTION"
+msgstr "凡人之躯将承载神明之力。你的战士挥出的每一击都蕴含着星辰崩毁的力量，他们的肌肤如龙鳞般坚韧，他们的意志如山峦般不可动摇。敌人将在他们面前颤抖——因为从今日起，你的军队不再是凡人，而是奇迹的化身。"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_03@TYPE"
+msgstr "{GLOBAL.SustainedWorldSpellConcept.Hyperlink}"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_04@NAME"
+msgstr "无"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_04@DESCRIPTION"
+msgstr "？？？"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_04@TYPE"
+msgstr "{GLOBAL.SustainedWorldSpellConcept.Hyperlink}"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_05@NAME"
+msgstr "无"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_05@DESCRIPTION"
+msgstr "？？？"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_05@TYPE"
+msgstr "{GLOBAL.SustainedWorldSpellConcept.Hyperlink}"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_06@NAME"
+msgstr "无"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_06@DESCRIPTION"
+msgstr "？？？"
+
+msgid "NEWTOME@TOME_WONDERS@SKILL_06@TYPE"
+msgstr "{GLOBAL.SustainedWorldSpellConcept.Hyperlink}"
+
+# Hero
+msgid "NEWTOME@TOME_WONDERS@HERO_SKILL@NAME"
+msgstr "无"
+
+msgid "NEWTOME@TOME_WONDERS@HERO_SKILL@DESCRIPTION"
+msgstr "？？？"
+
+# Other
+msgid "NEWTOME@TOME_WONDERS@SPECIAL_PROVINCE_IMPROVEMENT@NAME"
+msgstr "无"
+
+msgid "NEWTOME@TOME_WONDERS@SPECIAL_PROVINCE_IMPROVEMENT@DESCRIPTION"
+msgstr "？？？"
