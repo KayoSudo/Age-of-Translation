@@ -1,9 +1,0 @@
-{
- "short_description": "Add 2 Tomes focused in Core Units.\n\nThe Tome of Discipline - Focusing on Shield and Fighter Units\nThe Tome of Freedom - Focusing on Scouts and Cavalary\n\nRight now it's on early release, please report any bugs and balance toughts to the author.\n\nCustom art comming on next update.",
- "name": "Tomes of Warfare",
- "version": "0.0",
- "id": "de6eab07-f198-4d75-9eba-67c0fa689add",
- "tags": [
-  "Tomes"
- ]
-}
