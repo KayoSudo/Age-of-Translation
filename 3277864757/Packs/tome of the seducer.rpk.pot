@@ -1,0 +1,188 @@
+# SHOULDBEFUZZY!!!
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TOME OF THE SEDUCER.RPK:././././TStructureUpgradeR/./
+msgid "CITYUPGRADES_STRATEGIC@PROVINCE_IMPROVEMENT@REQUIREMENT"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@ANYWHERE@INSTRUCTIONS"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@TARGET_VASSAL@INSTRUCTIONS"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+msgid "RESEARCHSKILLS@TAGS@CITY_STRUCTURE"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@RACIAL_TRANSFORMATION_MINOR@NAME"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+msgid "RESEARCHSKILLS@TAGS@STRATEGIC_CITY_SPELL_SUSTAINED"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@TACTICAL_BUFF_SPELL"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@TACTICAL_DAMAGE_DEBUFF_SPELL"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+msgid "RESEARCHSKILLS@TAGS@UNIT"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TBaseHeroSkill/./
+#: TOME OF THE SEDUCER.RPK:././././TUnitProperty/./
+msgid "TOME_PLEASURE@HERO_SKILL@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././THeroSkillGroup/./
+#: TOME OF THE SEDUCER.RPK:././././TBaseHeroSkill/./
+#: TOME OF THE SEDUCER.RPK:././././TUnitProperty/./
+msgid "TOME_PLEASURE@HERO_SKILL@NAME"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TStructureUpgradeR/./
+msgid "TOME_PLEASURE@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TStructureUpgradeR/./
+#: TOME OF THE SEDUCER.RPK:././././TSimpleRequisite/./
+#: TOME OF THE SEDUCER.RPK:././././TSectorType/./
+msgid "TOME_PLEASURE@PROVINCE_IMPROVEMENT1@NAME"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+msgid "TOME_PLEASURE@SKILL_1@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+msgid "TOME_PLEASURE@SKILL_1@NAME"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TStructureUpgradeR/./
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+msgid "TOME_PLEASURE@SKILL_2@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TStructureUpgradeR/./
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+msgid "TOME_PLEASURE@SKILL_2@NAME"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TBaseUnitR/./
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+msgid "TOME_PLEASURE@SKILL_3@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TBaseUnitR/./
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+msgid "TOME_PLEASURE@SKILL_3@NAME"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+#: TOME OF THE SEDUCER.RPK:././././TUnitProperty/./
+msgid "TOME_PLEASURE@SKILL_4@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+#: TOME OF THE SEDUCER.RPK:././././TUnitRequisite/./
+#: TOME OF THE SEDUCER.RPK:././././TUnitProperty/./
+msgid "TOME_PLEASURE@SKILL_4@NAME"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+msgid "TOME_PLEASURE@SKILL_5@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+msgid "TOME_PLEASURE@SKILL_5@NAME"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+msgid "TOME_PLEASURE@SKILL_6@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TGridSkill/./
+#: TOME OF THE SEDUCER.RPK:././././TSpecialOperationR/./
+msgid "TOME_PLEASURE@SKILL_6@NAME"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TUnitProperty/./
+#: TOME OF THE SEDUCER.RPK:././././TStructureProperty/./
+msgid "TOME_PLEASURE@STATUS1@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TUnitProperty/./
+#: TOME OF THE SEDUCER.RPK:././././TUnitProperty/./
+#: TOME OF THE SEDUCER.RPK:././././TUnitProperty/./
+#: TOME OF THE SEDUCER.RPK:././././TStructureProperty/./
+msgid "TOME_PLEASURE@STATUS1@NAME"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TUnitProperty/./
+#: TOME OF THE SEDUCER.RPK:././././TUnitAbilityModifier/./
+msgid "TOME_PLEASURE@STATUS2@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TUnitProperty/./
+#: TOME OF THE SEDUCER.RPK:././././TUnitAbilityModifier/./
+msgid "TOME_PLEASURE@STATUS2@NAME"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TGridSkillGroup/./././
+msgid "TOME_PLEASURE@TOME@GAMEPLAY_DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TGridSkillGroup/./././
+msgid "TOME_PLEASURE@TOME@LORE_AUTHOR"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TGridSkillGroup/./././
+msgid "TOME_PLEASURE@TOME@LORE_DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TGridSkillGroup/./
+msgid "TOME_PLEASURE@TOME@NAME"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TUnitProperty/./
+#: TOME OF THE SEDUCER.RPK:././././TUnitAbilityModifier/./
+msgid "TOME_PLEASURE@UNIT1@ABILITY1@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TUnitProperty/./
+#: TOME OF THE SEDUCER.RPK:././././TUnitAbilityModifier/./
+msgid "TOME_PLEASURE@UNIT1@ABILITY1@NAME"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TUnitProperty/./
+msgid "TOME_PLEASURE@UNIT1@ABILITY2@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE SEDUCER.RPK:././././TUnitProperty/./
+msgid "TOME_PLEASURE@UNIT1@ABILITY2@NAME"
+msgstr ""
+

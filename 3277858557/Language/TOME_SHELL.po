@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "TOME_SHELLS@TOME@NAME"
+msgstr "Tome of the Shell"
+
+msgid "TOME_SHELLS@TOME@LORE_DESCRIPTION"
+msgstr "\"Live by turtle wisdom: travel at your own speed, be comfortable in your shell, and keep moving forward.\""
+
+msgid "TOME_SHELLS@TOME@LORE_AUTHOR"
+msgstr "Unknown"
+
+msgid "TOME_SHELLS@TOME@GAMEPLAY_DESCRIPTION"
+msgstr "Ill fated are those who underestimate the gentle giants of deep. Unseen fury and indominable defenses await those who awaken the denizens of the deep."
+
+msgid "TOME_SHELLS@SKILL_1@NAME"
+msgstr "Summon Tide Spirit"
+
+msgid "TOME_SHELLS@SKILL_1@DESCRIPTION"
+msgstr "Summons a {GLOBAL.UNITS.TIDE_SPIRIT.Hyperlink} to target water or river hex."
+
+msgid "TOME_SHELLS@UNIT1@ABILITY1@NAME"
+msgstr "Entangling Roots"
+
+msgid "TOME_SHELLS@SKILL_2@NAME"
+msgstr "Shockshell"
+
+msgid "TOME_SHELLS@SKILL_2@DESCRIPTION"
+msgstr "The Shockshell, a massive flying turtle bred for war, capable of dealing massive damage and spawning smaller nimu to aid it."
+
+msgid "TOME_SHELLS@SKILL_3@NAME"
+msgstr "Luck of the Leatherback"
+
+msgid "TOME_SHELLS@SKILL_3@DESCRIPTION"
+msgstr "Target friendly army gains 3 {GLOBAL.PROPERTIES.FORTUNE.Hyperlink} for 3 turns at the start of next combat."
+
+msgid "TOME_SHELLS@SKILL_4@NAME"
+msgstr "Conjure Deep-Sea Nimu"
+
+msgid "TOME_SHELLS@SKILL_4@DESCRIPTION"
+msgstr "Conjure a flying {GLOBAL.UNITS.SHELL_NIMU_FLYING.Hyperlink} to aid you in battle. Lasts for 3 <<m:{GLOBAL.TurnConcept.Hyperlink}>>."
+
+msgid "TOME_SHELLS@SKILL_5@NAME"
+msgstr "Moat of Misfortune"
+
+msgid "TOME_SHELLS@SKILL_5@DESCRIPTION"
+msgstr "[bulletlist][bullet/]+10 {GLOBAL.FortificationHealthConcept.Hyperlink}.[bullet/]Defenders start the battle with 2 {GLOBAL.UNITS.SHELL_NIMU_FLYING.Hyperlink}.[bullet/]Attackers start the battle {GLOBAL.PROPERTIES.WET.Hyperlink} and with 2 {GLOBAL.PROPERTIES.MISFORTUNE.Hyperlink}."
+
+msgid "TOME_SHELLS@SKILL_6@NAME"
+msgstr "Shell Armor"
+
+msgid "TOME_SHELLS@SKILL_6@DESCRIPTION"
+msgstr "Enchanted units gain:[bulletlist][bullet/]+1 {GLOBAL.DefenseConcept.Hyperlink}. [bullet/]{GLOBAL.PROPERTIES.REINFORCED.Hyperlink}."
+
+msgid "TOME_SHELLS@HERO_SKILL@NAME"
+msgstr "Shellkeeper"
+
+msgid "TOME_SHELLS@HERO_SKILL@DESCRIPTION"
+msgstr "Summons a {GLOBAL.UNITS.SHELL_NIMU_FLYING_II.Hyperlink} at the start of battle."
+
+msgid "TOME_SHELLS@PROVINCE_IMPROVEMENT1@NAME"
+msgstr "[Fishery/] Spawning Island"
+
+msgid "TOME_SHELLS@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr "[bulletlist][bullet/]Must be built on a Coast province.[bullet/]+10 {GLOBAL.FoodConcept.Hyperlink}. [bullet/]+2 {GLOBAL.GoldConcept.Hyperlink} per adjacent Coastal Province. [bullet/]Enemy attackers in the domain begin battle suffering from 2 {GLOBAL.PROPERTIES.MISFORTUNE.Hyperlink}. [bullet/]Counts as a {GLOBAL.FarmConcept.Hyperlink}."
+
+msgid "TOME_SHELLS@ENTHRALLED@NAME"
+msgstr "Enthralled"
+
+msgid "TOME_SHELLS@ENTHRALLED@DESCRIPTION"
+msgstr "All attacks targeting this unit are {GLOBAL.FlankingConcept.Hyperlink} attacks."
+
+msgid "TOME_SHELLS@ABILITY1@DESCRIPTION"
+msgstr "Units in a 1 hex radius sustain:[bulletlist][bullet/]22 {GLOBAL.PhysicalDamageConcept.Hyperlink}. [bullet/]Have a base 40% chance of becoming {GLOBAL.PROPERTIES.IMMOBILIZED.Hyperlink}. If unsuccessful, they become {GLOBAL.PROPERTIES.SLOWED.Hyperlink}."
+
+msgid "TOME_SHELLS@UNIT1@ABILITY2@NAME"
+msgstr "Spawn Nimu"
+
+msgid "TOME_SHELLS@UNIT1@ABILITY2@DESCRIPTION"
+msgstr "Summons a {GLOBAL.UNITS.SHELL_NIMU_FLYING_II.Hyperlink} to adjacent hex. Lasts for 3 <<m:{GLOBAL.TurnConcept.Hyperlink}>>."
+
+msgid "TOME_SHELLS@UNIT2@ABILITY1@NAME"
+msgstr "Frost Breath"
+
+msgid "TOME_SHELLS@UNIT2@ABILITY1@DESCRIPTION"
+msgstr "Frost Breath"
+
+msgid "TOME_SHELLS@UNIT2@ABILITY2@NAME"
+msgstr "Armour of Thorns"
+
+msgid "TOME_SHELLS@UNIT2@ABILITY2@DESCRIPTION"
+msgstr "Armour of Thorns"
+
+msgid "TOME_SHELLS@UNIT2@ABILITY3@NAME"
+msgstr "Ancient Blessing"
+
+msgid "TOME_SHELLS@UNIT2@ABILITY3@DESCRIPTION"
+msgstr "[bulletlist][bullet/]Gain +30 {GLOBAL.TemporaryHitPointConcept.Hyperlink}.[bullet/]Has negative status effects removed.[bullet/]Enters defense mode."
+
+msgid "TOME_SHELLS@UNIT1@NAME_OVERRIDE"
+msgstr "Thorn Strike"
+
+msgid "TOME_SHELL@STATUS1@NAME"
+msgstr "Flying Nimu"
+
+msgid "TOME_SHELL@STATUS2@NAME"
+msgstr "Flying Deep-Sea Nimu"
+
+msgid "TOME_SHELL@STATUS1@DESCRIPTION"
+msgstr "Flying Nimu"
+
+msgid "TOME_SHELL@STATUS2@DESCRIPTION"
+msgstr "Flying Deep-Sea Nimu"
+
+msgid "TOME_SHELL@STATUS1@BLOCK_STRING"
+msgstr "Blocked: Immune to Mana Burn"
+
+msgid "TOME_SHELL@STATUS3@NAME"
+msgstr "Purge Ramp I"
+
+msgid "TOME_SHELL@STATUS3@DESCRIPTION"
+msgstr "Purge Ramp I"
+
+msgid "TOME_SHELL@STATUS4@NAME"
+msgstr "Purge Ramp II"
+
+msgid "TOME_SHELL@STATUS4@DESCRIPTION"
+msgstr "Purge Ramp II"
+
+msgid "TOME_SHELL@STATUS5@NAME"
+msgstr "Mana Burn"
+
+msgid "TOME_SHELL@STATUS5@DESCRIPTION"
+msgstr "Mana Rod"
+
+msgid "TOME_SHELLS@UNIT1@ABILITY3@NAME"
+msgstr "Nimu Surge"
+
+msgid "TOME_SHELLS@UNIT1@ABILITY3@DESCRIPTION"
+msgstr "Nimu Surge Description"
+
+msgid "TOME_SHELLS@UNIT1@ABILITY4@NAME"
+msgstr "Mana Vent"
+
+msgid "TOME_SHELLS@UNIT1@ABILITY4@DESCRIPTION"
+msgstr "Hypnotize"
+
+msgid "TOME_SHELLS@UNIT1@ABILITY5@NAME"
+msgstr "Hypnotize"
+
+msgid "TOME_SHELLS@UNIT1@ABILITY5@DESCRIPTION"
+msgstr "Hypnotize"

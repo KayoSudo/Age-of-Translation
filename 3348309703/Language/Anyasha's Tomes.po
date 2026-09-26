@@ -1,0 +1,827 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "TOME_DEMONS@TOME@NAME"
+msgstr "Tome of Darkfire Demons"
+
+msgid "TOME_DEMONS@TOME@DESCRIPTION"
+msgstr ""
+"Your people make a bargain with the Darkfire Fiends, blending Chaos and "
+"Shadow magics as they begin to experiment with {GLOBAL.PROPERTIES."
+"SHADOWFLAME.Hyperlink}. Afflict your enemies and sacrifice their souls to "
+"your greater purpose."
+
+msgid "TOME_DEMONS@HERO@NAME"
+msgstr "Igneous Weapons"
+
+msgid "TOME_DEMONS@HERO@DESCRIPTION"
+msgstr ""
+"Base melee & ranged attacks receive:[bulletlist][bullet/]+1{GLOBAL."
+"FireDamageConcept.Hyperlink} and +1{GLOBAL.FrostDamageConcept.Hyperlink}"
+"[bullet/]-2{GLOBAL.PhysicalDamageConcept.Hyperlink}[bullet/]30% chance to "
+"inflict {GLOBAL.PROPERTIES.SHADOWFLAME.Hyperlink}.\n"
+"Effects [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]are increased[/"
+"hyperlink] for non-repeating attacks"
+
+msgid "TOME_DEMONS@SKILL_1@NAME"
+msgstr "Igneous Forge"
+
+msgid "TOME_DEMONS@SKILL_1@DESCRIPTION"
+msgstr ""
+"Imbue hardened lava with captured souls to form new metals. Produces:"
+"[bulletlist][bullet/]+1 {GLOBAL.UnitProductionConcept.Hyperlink} income per "
+"{GLOBAL.PopulationConcept.Hyperlink}[bullet/]+3 <<m:{GLOBAL.SoulConcept."
+"Hyperlink}>> income [/bulletlist]"
+
+msgid "TOME_DEMONS@SKILL_2@NAME"
+msgstr "Igneous Blades"
+
+msgid "TOME_DEMONS@SKILL_2@DESCRIPTION"
+msgstr ""
+"Base melee attacks of enchanted units receive:[bulletlist][bullet/]+1{GLOBAL."
+"FireDamageConcept.Hyperlink} and +1{GLOBAL.FrostDamageConcept.Hyperlink}"
+"[bullet/]-2{GLOBAL.PhysicalDamageConcept.Hyperlink}[bullet/]60% chance to "
+"inflict {GLOBAL.PROPERTIES.SHADOWFLAME.Hyperlink}.\n"
+"Effects [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]are increased[/"
+"hyperlink] for Single Shot attacks"
+
+msgid "TOME_DEMONS@SKILL_2@PROPDESCRIPTION"
+msgstr ""
+"Base {SHADOWFLAME_RESISTANCE>ResolvedStrength}% chance to cause {GLOBAL."
+"PROPERTIES.SHADOWFLAME.Hyperlink}."
+
+msgid "TOME_DEMONS@SKILL_3@NAME"
+msgstr "Lambs to Slaughter"
+
+msgid "TOME_DEMONS@SKILL_3@DESCRIPTION"
+msgstr ""
+"All Magic Origin and/or {GLOBAL.PROPERTIES.NON_RACIAL_DESIRES_VECTRA."
+"Hyperlink} enchanted units:[bulletlist][bullet/]90% chance to inflict "
+"{GLOBAL.PROPERTIES.SHADOWFLAME.Hyperlink}[bullet/]90% chance to inflict "
+"{GLOBAL.PROPERTIES.SOULBOUND.Hyperlink}.[/bulletlist]\n"
+"Effects [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]are increased[/"
+"hyperlink] for Single Shot attacks"
+
+msgid "TOME_DEMONS@SKILL_4@NAME"
+msgstr "Summon Incubus"
+
+msgid "TOME_DEMONS@SKILL_4@DESCRIPTION"
+msgstr "Summon a rakish Incubus with dizzying mobility and high burst damage."
+
+msgid "TOME_DEMONS@UNIT_1@NAME"
+msgstr "Incubus"
+
+msgid "TOME_DEMONS@UNIT_1@ABILITY1@NAME"
+msgstr "Lover's Betrayal"
+
+msgid "TOME_DEMONS@UNIT_1@ABILITY1@DESCRIPTION"
+msgstr "Target enemy unit sustains damage:"
+
+msgid "TOME_DEMONS@UNIT_1@ABILITY2@NAME"
+msgstr "Dream Step"
+
+msgid "TOME_DEMONS@UNIT_1@ABILITY2@DESCRIPTION"
+msgstr ""
+"Step through the shadows into the target's dreams:[bulletlist][bullet/]Base "
+"90% chance to inflict {GLOBAL.PROPERTIES.BLINDED.Hyperlink} to target "
+"enemy[bullet/]This unit teleports to that location[/bulletlist]"
+
+msgid "TOME_DEMONS@SKILL_5@NAME"
+msgstr "Soulburn"
+
+msgid "TOME_DEMONS@SKILL_5@DESCRIPTION"
+msgstr ""
+"Target enemy receives:[bulletlist][bullet/]7{GLOBAL.FireDamageConcept."
+"Hyperlink} and 7{GLOBAL.FrostDamageConcept.Hyperlink}[bullet/]{GLOBAL."
+"PROPERTIES.SHADOWFLAME.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SOULBOUND."
+"Hyperlink}[/bulletlist]"
+
+msgid "TOME_DEMONS@STATUS@NAME"
+msgstr "Soulburnt"
+
+msgid "TOME_DEMONS@STATUS@DESCRIPTION"
+msgstr ""
+"If this target is killed within 1 turn, receive 5 {GLOBAL.SoulConcept."
+"Hyperlink}."
+
+msgid "TOME_DESIRE@TOME@NAME"
+msgstr "Tome of Burning Desires"
+
+msgid "TOME_DESIRE@TOME@DESCRIPTION"
+msgstr ""
+"Call forth greater Darkfire Fiends to exploit your enemies' darkest desires. "
+"{GLOBAL.PROPERTIES.SHADOWFLAME.Hyperlink} makes your enemies prime targets "
+"for lecherous attacks."
+
+msgid "TOME_DESIRE@UNIT_PROPERTY1@NAME"
+msgstr "Shadowflame"
+
+msgid "TOME_DESIRE@UNIT_PROPERTY1@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]-3 {GLOBAL.FireResistanceConcept.Hyperlink}[bullet/]-3 "
+"{GLOBAL.FrostResistanceConcept.Hyperlink}[bullet/]At the end of this unit's "
+"turn, base 60% chance to inflict {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}[/"
+"bulletlist]\n"
+"Countered by {GLOBAL.PROPERTIES.WET.Hyperlink}"
+
+msgid "TOME_DESIRE@UNIT_PROPERTY30@DESCRIPTION"
+msgstr ""
+"Basic attacks have a 30% chance to cause {GLOBAL.PROPERTIES.SHADOWFLAME."
+"Hyperlink}"
+
+msgid "TOME_DESIRE@UNIT_PROPERTY60@DESCRIPTION"
+msgstr ""
+"Basic attacks have a 60% chance to cause {GLOBAL.PROPERTIES.SHADOWFLAME."
+"Hyperlink}"
+
+msgid "TOME_DESIRE@PASSIVE_1@NAME"
+msgstr "Darkfire Fiends"
+
+msgid "TOME_DESIRE@PASSIVE_1@DESCRIPTION"
+msgstr ""
+"Most Darkfire Fiends have lost {GLOBAL.PROPERTIES.FLYING_MOVEMENT."
+"Hyperlink}, but their affinity grants them:[bulletlist][bullet/]{GLOBAL."
+"PROPERTIES.CAVE_WALK.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SHADOWFLAME."
+"Hyperlink} Immunity[bullet/]{GLOBAL.PROPERTIES.STATUS_EFFECT_IMMUNITY_FROZEN."
+"Hyperlink}[bullet/]+4 {GLOBAL.FrostResistanceConcept.Hyperlink}."
+
+msgid "TOME_DESIRE@PASSIVE_2@NAME"
+msgstr "Darkfire Resistance"
+
+msgid "TOME_DESIRE@PASSIVE_2@DESCRIPTION"
+msgstr "+4{GLOBAL.FrostResistanceConcept.Hyperlink}."
+
+msgid "TOME_DESIRE@SKILL_1@NAME"
+msgstr "Demonologist"
+
+msgid "TOME_DESIRE@SKILL_1@DESCRIPTION"
+msgstr ""
+"A fanatical priest, he has sacrificed part of his soul to summon and empower "
+"Demonkin on the battlefield."
+
+msgid "TOME_DESIRE@UNIT_1@BASEABILITY@NAME"
+msgstr "Demon Blast"
+
+msgid "TOME_DESIRE@UNIT_1@BASEABILITY@DESCRIPTION"
+msgstr "Enemy target and 2 others within 3 hexes sustains damage"
+
+msgid "TOME_DESIRE@UNIT_1@ABILITY1@NAME"
+msgstr "Fel Familiar"
+
+msgid "TOME_DESIRE@UNIT_1@ABILITY1@DESCRIPTION"
+msgstr ""
+"Summons a {GLOBAL.UNITS.GREMLIN_UNIT.Hyperlink} to sow Chaos on the "
+"battlefield.\n"
+"\n"
+"Can stack"
+
+msgid "TOME_DESIRE@UNIT_1@ABILITY2@NAME"
+msgstr "Demonic Blood"
+
+msgid "TOME_DESIRE@UNIT_1@ABILITY2@DESCRIPTION"
+msgstr ""
+"The Demonologist uses his tainted blood to grant allied Fiends and magic-"
+"origin units:[bulletlist][bullet/]2 {GLOBAL.PROPERTIES.FORTUNE_MODIFIER.Name}"
+"[bullet/]+10{GLOBAL.TemporaryHitPointConcept.Hyperlink}."
+
+msgid "TOME_DESIRE@SKILL_2@NAME"
+msgstr "Shadow Blaze"
+
+msgid "TOME_DESIRE@SKILL_2@DESCRIPTION"
+msgstr ""
+"Target enemy who is inflicted with Frozen, Burning, or Shadowflame, and "
+"enemy units within a 1-hex radius:[bulletlist][bullet/]10 {GLOBAL."
+"FireDamageConcept.Hyperlink} and 10 {GLOBAL.FrostDamageConcept.Hyperlink}."
+"[bullet/]{GLOBAL.PROPERTIES.SHADOWFLAME.Hyperlink}[bullet/]{GLOBAL."
+"PROPERTIES.SOULBOUND.Hyperlink}[/bulletlist]"
+
+msgid "TOME_DESIRE@SKILL_3@NAME"
+msgstr "Sadistic Servants"
+
+msgid "TOME_DESIRE@SKILL_3@DESCRIPTION"
+msgstr ""
+"All Magic Origin and/or {GLOBAL.PROPERTIES.NON_RACIAL_DESIRES_VECTRA."
+"Hyperlink} enchanted units:[bulletlist][bullet/]{GLOBAL.PROPERTIES."
+"VESSELS_OF_CHAOS_PROPERTY_GROUP.Hyperlink}[bullet/]<<m:{GLOBAL."
+"CriticalHitConcept.Name}>> deal 10% increased damage.\n"
+"Effects [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]are increased[/"
+"hyperlink] for non-repeating attacks"
+
+msgid "TOME_DESIRE@SKILL_4@NAME"
+msgstr "Summon Demonologist"
+
+msgid "TOME_DESIRE@SKILL_4@DESCRIPTION"
+msgstr ""
+"Summon a Glamourfiend to beguile and charm your enemies. She is equally "
+"effective in melee as at range."
+
+msgid "TOME_DESIRE@UNIT_2@NAME"
+msgstr "Glamourfiend"
+
+msgid "TOME_DESIRE@UNIT_2@ABILITY1@NAME"
+msgstr "Demon Bolts"
+
+msgid "TOME_DESIRE@UNIT_2@ABILITY1@DESCRIPTION"
+msgstr "Target enemy sustains damage:"
+
+msgid "TOME_DESIRE@UNIT_2@ABILITY2@NAME"
+msgstr "Enrapture"
+
+msgid "TOME_DESIRE@UNIT_2@ABILITY2@DESCRIPTION"
+msgstr ""
+"Target enemy afflicted by {GLOBAL.PROPERTIES.SHADOWFLAME.Hyperlink} is drawn "
+"to the Temptress, then suffers {GLOBAL.PROPERTIES.DISTRACTED.Hyperlink} and "
+"{GLOBAL.PROPERTIES.STUNNED.Hyperlink}."
+
+msgid "TOME_DESIRE@SKILL_5@NAME"
+msgstr "Shadow Boon"
+
+msgid "TOME_DESIRE@SKILL_5@DESCRIPTION"
+msgstr ""
+"For 3 turns, units in the target army has {GLOBAL.PROPERTIES.VEC_SHADOW_MIST."
+"Hyperlink}"
+
+msgid "TOME_DESIRE@SKILL_5@SINGLE@DESCRIPTION"
+msgstr ""
+"90% chance to corrupt {GLOBAL.PROPERTIES.BURNING.Hyperlink} into {GLOBAL."
+"PROPERTIES.SHADOWFLAME.Hyperlink}."
+
+msgid "TOME_DESIRE@SKILL_5@REPEAT@DESCRIPTION"
+msgstr ""
+"60% chance per attack to corrupt {GLOBAL.PROPERTIES.BURNING.Hyperlink} into "
+"{GLOBAL.PROPERTIES.SHADOWFLAME.Hyperlink}."
+
+msgid "TOME_DESIRE@HEROSKILL_1@NAME"
+msgstr "Enflame Passions"
+
+msgid "TOME_DESIRE@HEROSKILL_1@DESCRIPTION"
+msgstr ""
+"In a 2-hecx radius:[bulletlist]Enemy units sustains damage:[bulletlist]"
+"[bullet/]Inflicted with {GLOBAL.PROPERTIES.SHADOWFLAME.Hyperlink}[bullet/]If "
+"already suffering {GLOBAL.PROPERTIES.SHADOWFLAME.Hyperlink}, 70% chance to "
+"inflict {GLOBAL.PROPERTIES.FROZEN.Hyperlink}[bullet/]If {GLOBAL.PROPERTIES."
+"FROZEN.Hyperlink} is resisted or unit is already {GLOBAL.PROPERTIES.BURNING."
+"Hyperlink}, inflict {GLOBAL.PROPERTIES.SLOWED.Hyperlink} and 2 stacks of "
+"{GLOBAL.PROPERTIES.BURNING.Hyperlink}[/bulletlist][bullet/]All friendly "
+"{GLOBAL.PROPERTIES.MAGIC_ORIGIN.Hyperlink} units receive {GLOBAL.PROPERTIES."
+"KILLING_MOMENTUM.Hyperlink}[/bulletlist]"
+
+msgid "TOME_SHADOWFLAME@TOME@NAME"
+msgstr "Tome of Shadowflame"
+
+msgid "TOME_SHADOWFLAME@TOME@DESCRIPTION"
+msgstr ""
+"Draw upon the dark chaos of the {GLOBAL.PROPERTIES.SHADOWFLAME.Hyperlink} to "
+"afflict your enemies. Capture souls for demonic sacrifices to empower "
+"yourself and your minions."
+
+msgid "TOME_SHADOWFLAME@SKILL_1@NAME"
+msgstr "Shadowflame Conduits"
+
+msgid "TOME_SHADOWFLAME@SKILL_1@DESCRIPTION"
+msgstr ""
+"Target race becomes conduits for the beings of the underworld, granting:"
+"[bulletlist][bullet/]Passive 2x {GLOBAL.PROPERTIES.REGENERATION_-"
+"_PROPERTY_GROUP.Hyperlink} to adjacent Zombies, Skeletons, and {GLOBAL."
+"PROPERTIES.NON_RACIAL_DESIRES_VECTRA.Hyperlink} Fiends/Undead[bullet/]+1 "
+"{GLOBAL.FireResistanceConcept.Hyperlink} and +1 {GLOBAL."
+"FrostResistanceConcept.Hyperlink} to this race[/bulletlist]"
+
+msgid "TOME_SHADOWFLAME@SKILL_2@NAME"
+msgstr "Summon Shrieker"
+
+msgid "TOME_SHADOWFLAME@SKILL_2@DESCRIPTION"
+msgstr ""
+"A demonic wyvern, twisted by the Shadowflame with screams that compound "
+"enemies' afflictions."
+
+msgid "TOME_SHADOWFLAME@SKILL_3@NAME"
+msgstr "Dark Infusion"
+
+msgid "TOME_SHADOWFLAME@SKILL_3@DESCRIPTION"
+msgstr ""
+"Twist the powers of Chaos and Shadow to empower both your fiend and undead "
+"minions:[bulletlist][bullet/]Enchanted {GLOBAL.PROPERTIES."
+"NON_RACIAL_DESIRES_VECTRA.Hyperlink} Fiends gain:[bulletlist]"
+"[bullet/]+2{GLOBAL.FrostDamageConcept.Hyperlink} and base 60% chance {GLOBAL."
+"PROPERTIES.SOULBOUND.Hyperlink}[bullet/]{GLOBAL.PROPERTIES."
+"DARKFLAME_DEMONKIN.Hyperlink} unless they have {GLOBAL.PROPERTIES."
+"FLYING_MOVEMENT.Hyperlink}[/bulletlist][bullet/]Enchanted Zombies, "
+"Skeletons, and {GLOBAL.PROPERTIES.NON_RACIAL_DESIRES_VECTRA.Hyperlink} "
+"Undead gain:[bulletlist][bullet/]+2 {GLOBAL.FireDamageConcept.Hyperlink} and "
+"base 60% chance of {GLOBAL.PROPERTIES.GHOSTFIRE.Hyperlink}[bullet/]{GLOBAL."
+"PROPERTIES.DARKFLAME_UNDEAD.Hyperlink} unless they have {GLOBAL.PROPERTIES."
+"FLYING_MOVEMENT.Hyperlink}[/bulletlist][/bulletlist]\n"
+"\n"
+"Effects [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]are increased[/"
+"hyperlink] for single shot attacks"
+
+msgid "TOME_SHADOWFLAME@SKILL_3F@NAME"
+msgstr "Dark Infusion - Fiend"
+
+msgid "TOME_SHADOWFLAME@SKILL_3F@DESCRIPTION"
+msgstr ""
+"This unit is infused with Shadow, empowering their attacks with:[bulletlist]"
+"[bullet/]+2{GLOBAL.FrostDamageConcept.Hyperlink} and base 60% chance {GLOBAL."
+"PROPERTIES.SOULBOUND.Hyperlink}[bullet/]{GLOBAL.PROPERTIES."
+"DARKFLAME_DEMONKIN.Hyperlink} unless they have {GLOBAL.PROPERTIES."
+"FLYING_MOVEMENT.Hyperlink}[/bulletlist]\n"
+"\n"
+"Effects [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]are increased[/"
+"hyperlink] for single shot attacks"
+
+msgid "TOME_SHADOWFLAME@SKILL_3U@NAME"
+msgstr "Dark Infusion - Undead"
+
+msgid "TOME_SHADOWFLAME@SKILL_3U@DESCRIPTION"
+msgstr ""
+"This unit is infused with Chaos, empowering their attacks with:[bulletlist]"
+"[bullet/]+2 {GLOBAL.FireDamageConcept.Hyperlink} and base 60% chance of "
+"{GLOBAL.PROPERTIES.GHOSTFIRE.Hyperlink}[bullet/]{GLOBAL.PROPERTIES."
+"DARKFLAME_UNDEAD.Hyperlink} unless they have {GLOBAL.PROPERTIES."
+"FLYING_MOVEMENT.Hyperlink}[/bulletlist]\n"
+"\n"
+"Effects [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]are increased[/"
+"hyperlink] for single shot attacks"
+
+msgid "TOME_SHADOWFLAME@SKILL_4@NAME"
+msgstr "Shadowflame Temple"
+
+msgid "TOME_SHADOWFLAME@SKILL_4@DESCRIPTION"
+msgstr ""
+"The most unholy of temples, housing the eternal Shadowflame and its demonic "
+"priests. [bulletlist][bullet/]+3 <<m:{GLOBAL.SoulConcept.Hyperlink}>> "
+"income[bullet/]+1 {GLOBAL.ManaConcept.Hyperlink} income per {GLOBAL."
+"PopulationConcept.Hyperlink}[/bulletlist]"
+
+msgid "TOME_SHADOWFLAME@UNIT_1@NAME"
+msgstr "Shrieker"
+
+msgid "TOME_SHADOWFLAME@UNIT_1@ABILITY1@NAME"
+msgstr "Shriek"
+
+msgid "TOME_SHADOWFLAME@UNIT_1@ABILITY1@DESCRIPTION"
+msgstr ""
+"Deals +100% damage on targets who are inflicted with {GLOBAL.PROPERTIES."
+"SOULBOUND.Hyperlink} and/or {GLOBAL.PROPERTIES.SHADOWFLAME.Hyperlink} each."
+
+msgid "TOME_SHADOWFLAME@SKILL_5@NAME"
+msgstr "Shadow-Infused"
+
+msgid "TOME_SHADOWFLAME@SKILL_5@DESCRIPTION"
+msgstr ""
+"In combat, at the start of the enemy's turn, units who are inflicted with "
+"{GLOBAL.PROPERTIES.SHADOWFLAME.Hyperlink}, {GLOBAL.PROPERTIES.GHOSTFIRE."
+"Hyperlink}, {GLOBAL.PROPERTIES.FROZEN.Hyperlink} or {GLOBAL.PROPERTIES."
+"BURNING.Hyperlink}, has all healing they receive reduced by 50% for 1 turn"
+
+msgid "TOME_SHADOWFLAME@HEROSKILL_1@NAME"
+msgstr "Dark Infusion"
+
+msgid "TOME_SHADOWFLAME@HEROSKILL_1@DESCRIPTION"
+msgstr ""
+"All magic attacks gains a base 60% chance to cause {GLOBAL.PROPERTIES."
+"SHADOWFLAME.Hyperlink}\n"
+"\n"
+"Effects [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]are increased[/"
+"hyperlink] for non-repeating attacks"
+
+msgid "TOME_DUSK@TOME@NAME"
+msgstr "Tome of Dusk"
+
+msgid "TOME_DUSK@TOME@DESCRIPTION"
+msgstr ""
+"At the edge of the night, Lunar mastery blends Nature and Astral affinities. "
+"Focus on knowledge, healing, and transformation."
+
+msgid "TOME_DUSK@HERO@NAME"
+msgstr "Dusk Weaponry"
+
+msgid "TOME_DUSK@HERO@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]Melee and physical ranged attacks have a 30% chance to "
+"cause {GLOBAL.PROPERTIES.MOONFIRE.Hyperlink}[bullet/]Gain +2{GLOBAL."
+"FrostDamageConcept.Hyperlink} and {GLOBAL.LightningDamageConcept.Hyperlink}"
+"[bullet/]-4 {GLOBAL.PhysicalDamageConcept.Hyperlink}\n"
+"Effects [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]are increased[/"
+"hyperlink] for non-repeating attacks"
+
+msgid "TOME_DUSK@GROUP@NAME"
+msgstr "Moongrove Fae"
+
+msgid "TOME_DUSK@GROUP@DESCRIPTION"
+msgstr "The magical form of a spirit animal."
+
+msgid "TOME_DUSK@UNIT_PROPERTY1@NAME"
+msgstr "Moonfire"
+
+msgid "TOME_DUSK@UNIT_PROPERTY1@DESCRIPTION"
+msgstr ""
+"At the end of this unit's turn:[bulletlist][bullet/]Deal 3{GLOBAL."
+"LightningDamageConcept.Hyperlink} and 3{GLOBAL.FrostDamageConcept.Hyperlink}"
+"[bullet/]1x {GLOBAL.PROPERTIES.SUNDERED_RESISTANCE.Hyperlink}[/bulletlist]"
+
+msgid "TOME_DUSK@UNIT_PROPERTY1@30@DESCRIPTION"
+msgstr ""
+"Base {MOONFIRE_RESISTANCE>ResolvedStrength}% chance to cause {GLOBAL."
+"PROPERTIES.MOONFIRE.Hyperlink}"
+
+msgid "TOME_DUSK@UNIT_PROPERTY2@NAME"
+msgstr "Moonglow"
+
+msgid "TOME_DUSK@UNIT_PROPERTY2@DESCRIPTION"
+msgstr ""
+"At the end of this unit's turn, gain {GLOBAL.PROPERTIES.REGENERATION."
+"Hyperlink}"
+
+msgid "TOME_DUSK@SKILL_1@NAME"
+msgstr "Duskpoint"
+
+msgid "TOME_DUSK@SKILL_1@DESCRIPTION"
+msgstr ""
+"A lunar archer attuned to the spirit of the {GLOBAL.UNITS.VEC_MRAVEN_UNIT."
+"Hyperlink}"
+
+msgid "TOME_DUSK@UNIT_1@NAME"
+msgstr "Duskpoint"
+
+msgid "TOME_DUSK@UNIT_1@ABILITY1@NAME"
+msgstr "Shapeshift: Midnight Raven"
+
+msgid "TOME_DUSK@UNIT_1@ABILITY1@DESCRIPTION"
+msgstr "Transform into a {GLOBAL.UNITS.VEC_MRAVEN_UNIT.Hyperlink} for 3 turns"
+
+msgid "TOME_DUSK@SKILL_2@NAME"
+msgstr "Moonseeker"
+
+msgid "TOME_DUSK@SKILL_2@DESCRIPTION"
+msgstr ""
+"A neophyte of Lunar magics attuned to the spirit of the {GLOBAL.UNITS."
+"VEC_DUSKSPIDER_UNIT.Hyperlink}"
+
+msgid "TOME_DUSK@UNIT_2@NAME"
+msgstr "Moonseeker"
+
+msgid "TOME_DUSK@UNIT_2@ABILITY1@NAME"
+msgstr "Shapeshift: Dusk Spider"
+
+msgid "TOME_DUSK@UNIT_2@ABILITY1@DESCRIPTION"
+msgstr ""
+"Transform into a {GLOBAL.UNITS.VEC_DUSKSPIDER_UNIT.Hyperlink} for 3 turns"
+
+msgid "TOME_DUSK@UNIT_3@NAME"
+msgstr "Dusk Spider"
+
+msgid "TOME_DUSK@UNIT_4@NAME"
+msgstr "Midnight Raven"
+
+msgid "TOME_DUSK@UNIT_3@ABILITY1@NAME"
+msgstr "End Shapeshift"
+
+msgid "TOME_DUSK@UNIT_3@ABILITY1@DESCRIPTION"
+msgstr "Return to natural form"
+
+msgid "TOME_DUSK@SKILL_3@NAME"
+msgstr "Lunar Origins"
+
+msgid "TOME_DUSK@SKILL_3@DESCRIPTION"
+msgstr ""
+"Enchanted units gain Lunar magics. They gain the following benefits:"
+"[bulletlist][bullet/]+2{GLOBAL.StatusResistanceConcept.Hyperlink}"
+"[bullet/]30% chance to cause {GLOBAL.PROPERTIES.MOONFIRE.Hyperlink}."
+
+msgid "TOME_DUSK@SKILL_4@NAME"
+msgstr "Fairy Cairn"
+
+msgid "TOME_DUSK@SKILL_4@DESCRIPTION"
+msgstr ""
+"An ancient circle of fairy stones, attuned to the Lunar energies of Nature. "
+"This building provides:[bulletlist][bullet/]+5 {GLOBAL.ManaConcept.Hyperlink}"
+"[bullet/]+5 {GLOBAL.KnowledgeConcept.Hyperlink}[bullet/]+10 {GLOBAL."
+"UnitProductionConcept.Hyperlink}[/bulletlist]"
+
+msgid "TOME_DUSK@SKILL_5@NAME"
+msgstr "Last Light"
+
+msgid "TOME_DUSK@SKILL_5@DESCRIPTION"
+msgstr ""
+"Push your army even further towards the horizon: restores 25% the army's <<m:"
+"{GLOBAL.MovePointConcept.Hyperlink}>>\n"
+"An army can only be affected by this spell once per turn"
+
+msgid "TOME_MOONGROVE@TOME@NAME"
+msgstr "Tome of the Moongrove"
+
+msgid "TOME_MOONGROVE@TOME@DESCRIPTION"
+msgstr ""
+"Deep within the forests, the Priesthood of Moonlight perfects the use of "
+"Lunar magic to bless allies and strike down foes."
+
+msgid "TOME_MOONGROVE@PROVIMP@NAME"
+msgstr "[forester/] Moongrove"
+
+msgid "TOME_MOONGROVE@PROVIMP@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]Grants 10 {GLOBAL.ManaConcept.Hyperlink}[bullet/]Grants "
+"3 {GLOBAL.KnowledgeConcept.Hyperlink} per adjacent Forest[bullet/]Counts as "
+"a {GLOBAL.ForesterConcept.Hyperlink}"
+
+msgid "TOME_MOONGROVE@GROUP@NAME"
+msgstr "Moonlight Fae"
+
+msgid "TOME_MOONGROVE@GROUP@DESCRIPTION"
+msgstr "Followers of the Light of the Moon"
+
+msgid "TOME_MOONGROVE@HEROSKILL_1@NAME"
+msgstr "Moonlight Swell"
+
+msgid "TOME_MOONGROVE@HEROSKILL_1@DESCRIPTION"
+msgstr ""
+"Target ally's {GLOBAL.PROPERTIES.MOONGLOW.Hyperlink} is consumed to "
+"immedaitely heal for +15{GLOBAL.TemporaryHitPointConcept.Hyperlink} and any "
+"negative status effects are dispelled. Spell jumps to up 3 more allies with "
+"{GLOBAL.PROPERTIES.MOONGLOW.Hyperlink}"
+
+msgid "TOME_MOONGROVE@SKILL_1@NAME"
+msgstr "Moonlight Priestess"
+
+msgid "TOME_MOONGROVE@SKILL_1@DESCRIPTION"
+msgstr ""
+"The Priestess of Moonlight excels at healing her allies while invoking the "
+"spirit of the {GLOBAL.UNITS.VEC_LUNARFAIRY_UNIT.Hyperlink}"
+
+msgid "TOME_MOONGROVE@UNIT_1@NAME"
+msgstr "Moonlight Priestess"
+
+msgid "TOME_MOONGROVE@UNIT_1@ABILITY1@NAME"
+msgstr "Shapeshift: Moondust Fairy"
+
+msgid "TOME_MOONGROVE@UNIT_1@ABILITY1@DESCRIPTION"
+msgstr ""
+"Transform into a {GLOBAL.UNITS.VEC_LUNARFAIRY_UNIT.Hyperlink} for 3 turns"
+
+msgid "TOME_MOONGROVE@UNIT_2@NAME"
+msgstr "Moondust Fairy"
+
+msgid "TOME_MOONGROVE@UNIT_1@ABILITY2@NAME"
+msgstr "Lesser Moonbeam - Support"
+
+msgid "TOME_MOONGROVE@UNIT_1@ABILITY2@NAME2"
+msgstr "Lesser Moonbeam - Magic"
+
+msgid "TOME_MOONGROVE@UNIT_1@ABILITY2@NAME3"
+msgstr "Moonbeam - Shared Cooldown"
+
+msgid "TOME_MOONGROVE@UNIT_1@ABILITY2@DESCRIPTION"
+msgstr ""
+"In a 1-hex radius:[bulletlist][bullet/]Friendly units gain:[bulletlist]"
+"[bullet/]{GLOBAL.PROPERTIES.MOONGLOW.Hyperlink}[bullet/]{GLOBAL.PROPERTIES."
+"BOLSTERED_RESISTANCE.Hyperlink}[/bulletlist][bullet/]Enemy units suffer:"
+"[bulletlist][bullet/]{GLOBAL.PROPERTIES.MOONFIRE.Hyperlink}[bullet/]{GLOBAL."
+"PROPERTIES.SUNDERED_DEFENSE.Hyperlink}[/bulletlist][/bulletlist]\n"
+"\n"
+"{GLOBAL.PROPERTIES.LMOONBEAM.Hyperlink} and {GLOBAL.PROPERTIES.LMOONBEAM_2."
+"Hyperlink} shares a cooldown"
+
+msgid "TOME_MOONGROVE@SKILL_2@NAME"
+msgstr "Moongrove Guard"
+
+msgid "TOME_MOONGROVE@SKILL_2@DESCRIPTION"
+msgstr ""
+"A high sustain defender of the Moongrove, attuned to the spirit of the "
+"{GLOBAL.UNITS.VEC_LUNARWOLF_UNIT.Hyperlink}"
+
+msgid "TOME_MOONGROVE@UNIT_3@NAME"
+msgstr "Moongrove Guard"
+
+msgid "TOME_MOONGROVE@UNIT_3@ABILITY1@NAME"
+msgstr "Shapeshift: Lunar Wolf"
+
+msgid "TOME_MOONGROVE@UNIT_3@ABILITY1@DESCRIPTION"
+msgstr ""
+"Transform into a {GLOBAL.UNITS.VEC_LUNARWOLF_UNIT.Hyperlink} for 3 turns"
+
+msgid "TOME_MOONGROVE@UNIT_4@NAME"
+msgstr "Lunar Wolf"
+
+msgid "TOME_MOONGROVE@UNIT_3@ABILITY2@NAME"
+msgstr "Fae Bulwark"
+
+msgid "TOME_MOONGROVE@UNIT_3@ABILITY2@DESCRIPTION"
+msgstr ""
+"Restore +10 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> and {GLOBAL."
+"PROPERTIES.MOONGLOW.Hyperlink}. Enters Defense Mode."
+
+msgid "TOME_MOONGROVE@SKILL_3@NAME"
+msgstr "Moonglow Staves"
+
+msgid "TOME_MOONGROVE@SKILL_3@DESCRIPTION"
+msgstr ""
+"Support abilities grant {GLOBAL.PROPERTIES.MOONGLOW.Hyperlink} and {GLOBAL."
+"PROPERTIES.BOLSTERED_DEFENSE.Hyperlink}"
+
+msgid "TOME_MOONGROVE@SKILL_4@NAME"
+msgstr "Light in the Dark"
+
+msgid "TOME_MOONGROVE@SKILL_4@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]Target ally is healed for +20 <<m:{GLOBAL."
+"TemporaryHitPointConcept.Hyperlink}>> and receives {GLOBAL.PROPERTIES."
+"MOONGLOW.Hyperlink}[bullet/]Adjacent enemies receive {GLOBAL.PROPERTIES."
+"MOONFIRE.Hyperlink},  5 {GLOBAL.LightningDamageConcept.Hyperlink}, and 5 "
+"{GLOBAL.FrostDamageConcept.Hyperlink}"
+
+msgid "TOME_MOONGROVE@SKILL_5@NAME"
+msgstr "Lunar Barrier"
+
+msgid "TOME_MOONGROVE@SKILL_5@DESCRIPTION"
+msgstr ""
+"For 6 turns:[bulletlist][bullet/]Target army has their <<m: {GLOBAL."
+"HitPointConcept.Hyperlink}>> increased by 15[bullet/]When in combat, at "
+"start of combat, the units gain {GLOBAL.PROPERTIES.MOONGLOW.Hyperlink}.[/"
+"bulletlist]"
+
+msgid "TOME_SABLE@TOME@NAME"
+msgstr "Tome of the Sable Moon"
+
+msgid "TOME_SABLE@TOME@DESCRIPTION"
+msgstr ""
+"Under the darkness of the new moon, the Sable Moon Priesthood uses agility "
+"and lunacy to take its foes by surprise."
+
+msgid "TOME_SABLE@GROUP@NAME"
+msgstr "Sable Fae"
+
+msgid "TOME_SABLE@GROUP@DESCRIPTION"
+msgstr "Followers of the Shadow of the Moon"
+
+msgid "TOME_SABLE@UNIT_PROPERTY1@NAME"
+msgstr "Lunacy"
+
+msgid "TOME_SABLE@UNIT_PROPERTY1@DESCRIPTION"
+msgstr ""
+"Inflicts {GLOBAL.PROPERTIES.STUNNED.Hyperlink} and {GLOBAL.PROPERTIES."
+"DISTRACTED.Hyperlink} if unit is already suffering {GLOBAL.PROPERTIES."
+"MOONFIRE.Hyperlink} and at least {GLOBAL.LowMoraleConcept.Hyperlink}"
+
+msgid "TOME_SABLE@UNIT_PROPERTY1@20@DESCRIPTION"
+msgstr ""
+"Base {LUNACY_RESISTANCE>ResolvedStrength}% chance to cause {GLOBAL."
+"PROPERTIES.LUNACY.Hyperlink}"
+
+msgid "TOME_SABLE@HEROSKILL_1@NAME"
+msgstr "Sable Moon Surge"
+
+msgid "TOME_SABLE@HEROSKILL_1@DESCRIPTION"
+msgstr ""
+"Target enemy with {GLOBAL.PROPERTIES.MOONFIRE.Hyperlink} suffers 8{GLOBAL."
+"LightningDamageConcept.Hyperlink} and 8{GLOBAL.FrostDamageConcept."
+"Hyperlink}. Effect jumps to up to 3 more nearby enemies suffering {GLOBAL."
+"PROPERTIES.MOONFIRE.Hyperlink}."
+
+msgid "TOME_SABLE@SKILL_1@NAME"
+msgstr "Sable Priestess"
+
+msgid "TOME_SABLE@SKILL_1@DESCRIPTION"
+msgstr ""
+"The Sable Priestess heals allies and inflicts Lunacy, attuned to the spirit "
+"of the {GLOBAL.UNITS.VEC_SABLESERPENT_UNIT.Hyperlink}"
+
+msgid "TOME_SABLE@UNIT_1@NAME"
+msgstr "Sable Priestess"
+
+msgid "TOME_SABLE@UNIT_1@DESCRIPTION"
+msgstr "A Priestess of the dark side of the moon"
+
+msgid "TOME_SABLE@UNIT_1@ABILITY1@NAME"
+msgstr "Sable Bolts - Magic"
+
+msgid "TOME_SABLE@UNIT_1@ABILITY1@NAME2"
+msgstr "Sable Bolts - Support"
+
+msgid "TOME_SABLE@UNIT_1@ABILITY1@DESCRIPTION"
+msgstr ""
+"Enemy unit sustains damage and is inflicted with {GLOBAL.PROPERTIES.LUNACY."
+"Hyperlink} with base 50% chance, and friendly units adjacent to the target "
+"has 3 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> restored"
+
+msgid "TOME_SABLE@UNIT_1@ABILITY2@NAME"
+msgstr "Shapeshift: Sable Serpent"
+
+msgid "TOME_SABLE@UNIT_1@ABILITY2@DESCRIPTION"
+msgstr ""
+"Transform into a {GLOBAL.UNITS.VEC_SABLESERPENT_UNIT.Hyperlink} for 3 turns"
+
+msgid "TOME_SABLE@UNIT_2@NAME"
+msgstr "Sable Serpent"
+
+msgid "TOME_SABLE@SKILL_2@NAME"
+msgstr "Night Striker"
+
+msgid "TOME_SABLE@SKILL_2@DESCRIPTION"
+msgstr ""
+"A cloaked assassin with poison blades, attuned to the spirit of the {GLOBAL."
+"UNITS.VEC_MIDNIGHTBOAR_UNIT.Hyperlink}"
+
+msgid "TOME_SABLE@UNIT_3@NAME"
+msgstr "Nightstriker"
+
+msgid "TOME_SABLE@UNIT_3@DESCRIPTION"
+msgstr "A cloaked assassin with poison blades"
+
+msgid "TOME_SABLE@UNIT_3@ABILITY1@NAME"
+msgstr "Shapeshift: Midnight Boar"
+
+msgid "TOME_SABLE@UNIT_3@ABILITY1@DESCRIPTION"
+msgstr ""
+"Transform into a {GLOBAL.UNITS.VEC_MIDNIGHTBOAR_UNIT.Hyperlink} for 3 turns"
+
+msgid "TOME_SABLE@UNIT_3@ABILITY2@NAME"
+msgstr "Shapeshift: Sable Serpent"
+
+msgid "TOME_SABLE@UNIT_3@ABILITY2@DESCRIPTION"
+msgstr ""
+"Transform into a {GLOBAL.UNITS.VEC_SABLESERPENT_UNIT.Hyperlink} for 3 turns"
+
+msgid "TOME_SABLE@UNIT_4@NAME"
+msgstr "Midnight Boar"
+
+msgid "TOME_SABLE@SKILL_3@NAME"
+msgstr "Fearsome Beasts"
+
+msgid "TOME_SABLE@SKILL_3@DESCRIPTION"
+msgstr ""
+"Enchanted units' attacks intimidate their enemies and gains {GLOBAL."
+"PROPERTIES.JOY_SIPHONERS_PROPERTY_GROUP.Hyperlink}"
+
+msgid "TOME_SABLE@SKILL_4@NAME"
+msgstr "New Moon Rite"
+
+msgid "TOME_SABLE@SKILL_4@DESCRIPTION"
+msgstr ""
+"Target enemy suffering {GLOBAL.LowMoraleConcept.Hyperlink} or worse {GLOBAL."
+"UnitMoraleConcept.Hyperlink}:[bulletlist][bullet/]Suffers 10 {GLOBAL."
+"LightningDamageConcept.Hyperlink} and 10 {GLOBAL.FrostDamageConcept."
+"Hyperlink}[bullet/]60% chance to cause {GLOBAL.PROPERTIES.LUNACY.Hyperlink}"
+"[bullet/]Friendly units within 2-hexes are healed +10{GLOBAL."
+"TemporaryHitPointConcept.Hyperlink}"
+
+msgid "TOME_SABLE@SKILL_5@NAME"
+msgstr "Blessing of Lunacy"
+
+msgid "TOME_SABLE@SKILL_5@DESCRIPTION"
+msgstr ""
+"Enchanted units spread a mystic euphoria to their enemies, causing their "
+"base attacks:[bulletlist][bullet/]Base 20% chance to inflict {GLOBAL."
+"PROPERTIES.LUNACY.Hyperlink} to targets with {GLOBAL.PROPERTIES.MOONFIRE."
+"Hyperlink} and {GLOBAL.LowMoraleConcept.Hyperlink}[bullet/]Base 60% chance "
+"to inflict {GLOBAL.PROPERTIES.MOONFIRE.Hyperlink}[/bulletlist]\n"
+"Effects [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]are increased[/"
+"hyperlink] for non-repeating attacks"
+
+msgid "TOME_DEMON@HELLISH_REANIMATION@NAME"
+msgstr "Hellish Reanimation"
+
+msgid "TOME_DEMON@HELLISH_REANIMATION@DESC"
+msgstr ""
+"When killing Tier 1 or 2 units, you may raise them as an {GLOBAL.UNITS."
+"INFERNO_PUPPY.Hyperlink} using souls"
+
+msgid "TOME_SHADOWFLAME@HELLISH_REANIMATION@NAME"
+msgstr "Hellish Reanimation II"
+
+msgid "TOME_SHADOWFLAME@HELLISH_REANIMATION@DESC"
+msgstr ""
+"When killing Tier 3 or higher units, you may raise them as an {GLOBAL.UNITS."
+"NIGHTMARE_UNIT.Hyperlink} using souls"
+
+msgid "TOME_SABLE@FUMBLE_AURA_PROP@NAME"
+msgstr "Graze-Induce"
+
+msgid "TOME_SABLE@FUMBLE_AURA_PROP@DESC"
+msgstr "Gain {GLOBAL.PROPERTIES.GRAZE_INDUCE_VEC.Hyperlink} while transformed"
+
+msgid "TOME_SABLE@FUMBLE_AURA@NAME"
+msgstr "Graze-Inducer"
+
+msgid "TOME_SABLE@FUMBLE AURA@DESC"
+msgstr "Adjacent enemies have 30% chance to fumble"
+
+msgid "TOME_SABLE@FUMBLE AURA@DESC2"
+msgstr "This unit has 30% chance to fumble"
+
+msgid "TOME_SABLE@SABLE_PRIEST_CHAMP@NAME"
+msgstr "Shapeshift: Greater Sable Serpent"
+
+msgid "TOME_DUSK@MOONSEEKER_CHAMP@DESC"
+msgstr "+1 Range on base attacks"

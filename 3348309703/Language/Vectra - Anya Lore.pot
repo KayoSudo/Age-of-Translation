@@ -1,0 +1,84 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "ANYA_TOMES@INCUBUS@LORE@NAME"
+msgstr ""
+
+msgid "ANYA_TOMES@INCUBUS@LORE@DESC"
+msgstr ""
+
+msgid "ANYA_TOMES@TEMPTRESS@LORE@NAME"
+msgstr ""
+
+msgid "ANYA_TOMES@TEMPTRESS@LORE@DESC"
+msgstr ""
+
+msgid "ANYA_TOMES@SHRIEKER@LORE@NAME"
+msgstr ""
+
+msgid "ANYA_TOMES@SHRIEKER@LORE@DESC"
+msgstr ""
+
+msgid "ANYA_TOMES@RITUAL@LORE@NAME"
+msgstr ""
+
+msgid "ANYA_TOMES@RITUAL@LORE@DESC"
+msgstr ""
+
+msgid "ANYA_TOMES@DEMONOLOGIST@LORE@NAME"
+msgstr ""
+
+msgid "ANYA_TOMES@DEMONOLOGIST@LORE@DESC"
+msgstr ""
+
+msgid "ANYA_TOMES@NSTRIKER@LORE@NAME"
+msgstr ""
+
+msgid "ANYA_TOMES@NSTRIKER@LORE@DESC"
+msgstr ""
+
+msgid "ANYA_TOMES@SABLEPRIEST@LORE@NAME"
+msgstr ""
+
+msgid "ANYA_TOMES@SABLEPRIEST@LORE@DESC"
+msgstr ""
+
+msgid "ANYA_TOMES@MOONGUARD@LORE@NAME"
+msgstr ""
+
+msgid "ANYA_TOMES@MOONGUARD@LORE@DESC"
+msgstr ""
+
+msgid "ANYA_TOMES@MOONPRIEST@LORE@NAME"
+msgstr ""
+
+msgid "ANYA_TOMES@MOONPRIEST@LORE@DESC"
+msgstr ""
+
+msgid "ANYA_TOMES@DHUNTER@LORE@NAME"
+msgstr ""
+
+msgid "ANYA_TOMES@DHUNTER@LORE@DESC"
+msgstr ""
+
+msgid "ANYA_TOMES@MOONSEEKER@LORE@NAME"
+msgstr ""
+
+msgid "ANYA_TOMES@MOONSEEKER@LORE@DESC"
+msgstr ""
+
+msgid "ANYA_TOMES@MOONRITUAL@LORE@NAME"
+msgstr ""
+
+msgid "ANYA_TOMES@MOONRITUAL@LORE@DESC"
+msgstr ""

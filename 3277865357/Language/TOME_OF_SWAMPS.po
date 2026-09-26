@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "TOME_SWAMPS@TOME@NAME"
+msgstr "Tome of the Swamps"
+
+msgid "TOME_SWAMPS@TOME@LORE_DESCRIPTION"
+msgstr ""
+"\"Nemain the Mire Witch traps any who dare trespass in her domain beneath "
+"the mire, never to return again.  She specializes in wearing her foes down "
+"over time, harassing and slowing them down until poison and disease cause "
+"them to collapse in the filth and muck.\""
+
+msgid "TOME_SWAMPS@TOME@LORE_AUTHOR"
+msgstr "Sol'kanar the Swamp King"
+
+msgid "TOME_SWAMPS@TOME@GAMEPLAY_DESCRIPTION"
+msgstr ""
+"Harness the power of the swamp, slow anybody foolish enough to enter your "
+"domain, and drown them in its ichor."
+
+msgid "TOME_SWAMPS@SKILL_1@NAME"
+msgstr "Swampkin"
+
+msgid "TOME_SWAMPS@SKILL_1@DESCRIPTION"
+msgstr ""
+"Become one with what lies beneath the swamp, granting the race:[Bulletlist]"
+"[bullet/]2 {Blight} {GLOBAL.BlightResistanceConcept.Hyperlink}[bullet/]"
+"{GLOBAL.PROPERTIES.SWAMP_CAMOUFLAGE.Hyperlink} in swamps and rivers[bullet/]"
+"{GLOBAL.PROPERTIES.SWAMP_WALK.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SWIFT."
+"Hyperlink}[/bulletlist]"
+
+msgid "TOME_SWAMPS@UNIT1@ABILITY1@NAME"
+msgstr "Testing"
+
+msgid "TOME_SWAMPS@SKILL_2@NAME"
+msgstr "Summon River Troll"
+
+msgid "TOME_SWAMPS@SKILL_2@DESCRIPTION"
+msgstr "Summons a river troll on target swamp hex or river tile."
+
+msgid "TOME_SWAMPS@SKILL_3@NAME"
+msgstr "Inflict Rot"
+
+msgid "TOME_SWAMPS@SKILL_3@DESCRIPTION"
+msgstr ""
+"Units in a 1 hex radius sustain:[bulletlist][bullet/]10 {GLOBAL."
+"BlightDamageConcept.Hyperlink}[bullet/]Suffer {GLOBAL.PROPERTIES.POISONED."
+"Hyperlink}[bullet/]Suffer {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}[bullet/]"
+"{GLOBAL.PROPERTIES.DECAYING.Hyperlink}.[/bulletlist]"
+
+msgid "TOME_SWAMPS@SKILL_4@NAME"
+msgstr "Bring the Floodplains"
+
+msgid "TOME_SWAMPS@SKILL_4@DESCRIPTION"
+msgstr ""
+"Target friendly above-ground city starts altering terrain to Swamp 1 "
+"province per {GLOBAL.TurnConcept}.[bulletlist][bullet/]The spell extends up "
+"to 1 <<m:{GLOBAL.ProvinceConcept.Hyperlink}>> outside the {GLOBAL."
+"DomainConcept.Hyperlink}.[bullet/]While the spell is active, provinces with "
+"Swamp provide +1 {GLOBAL.FoodConcept.Hyperlink} and +1 {GLOBAL."
+"UnitProductionConcept.Hyperlink} income.[/bulletlist]\n"
+"This terraform effect slowly disappears should this city spell be removed."
+
+msgid "TOME_SWAMPS@SKILL_5@NAME"
+msgstr "Drown in the Mire"
+
+msgid "TOME_SWAMPS@SKILL_5@DESCRIPTION"
+msgstr ""
+"All units in target enemy army:[bulletlist][bullet/]Sustain {blightDamage} "
+"{GLOBAL.BlightDamageConcept.Hyperlink}.[bullet/]Suffer the {GLOBAL."
+"PROPERTIES.POISONED.Hyperlink} status effect.[/bulletlist][br/][br/]Armies "
+"in a Swamp additionally sustain:[bulletlist][bullet/]An additional "
+"{additional} {GLOBAL.BlightDamageConcept.Hyperlink}[bullet/]An additional 2x "
+"{GLOBAL.PROPERTIES.POISONED.Hyperlink} Status Effect"
+
+msgid "TOME_SWAMPS@SKILL_6@NAME"
+msgstr "Hag-Touched"
+
+msgid "TOME_SWAMPS@SKILL_6@DESCRIPTION"
+msgstr ""
+"Enchanted Units gain:[bulletlist][bullet/]{GLOBAL.PROPERTIES.SWIFT."
+"Hyperlink}.[/bulletlist]\n"
+"Makes base {GLOBAL.MagicConcept.Hyperlink} and {GLOBAL.RangedConcept."
+"Hyperlink} attacks of enchanted units:[bulletlist][bullet/]Deal +1 {GLOBAL."
+"BlightDamageConcept.Hyperlink}.[bullet/]Base 30% chance of inflicting "
+"{GLOBAL.PROPERTIES.STATUS_VULNERABILITY.Hyperlink}.[/bulletlist]\n"
+"Effects [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]are increased[/"
+"hyperlink] for non-repeating attacks."
+
+msgid "TOME_SWAMPS@HERO_SKILL@NAME"
+msgstr "Hag-Touched Magic"
+
+msgid "TOME_SWAMPS@HERO_SKILL@DESCRIPTION"
+msgstr ""
+"Base attacks gain: [bulletlist][bullet/]+1{GLOBAL.BlightDamageConcept."
+"Hyperlink}.[bullet/]A base 30% chance of inflicting {GLOBAL.PROPERTIES."
+"STATUS_VULNERABILITY.Hyperlink},\n"
+"Effects [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]are increased[/"
+"hyperlink] for non-repeating attacks."
+
+msgid "TOME_SWAMPS@PROVINCE_IMPROVEMENT1@NAME"
+msgstr "[farm/] Witch's Cottage"
+
+msgid "TOME_SWAMPS@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]+{knowledgeamount} {GLOBAL.KnowledgeConcept.Hyperlink}."
+"[bullet/]+{manaamount} {GLOBAL.ManaConcept.Hyperlink} per adjacent Swamp "
+"{GLOBAL.ProvinceConcept.Hyperlink}.[bullet/]Counts as a {GLOBAL.FarmConcept."
+"Hyperlink}.[/bulletlist]"
+
+msgid "TOME_MIRE@TOME@NAME"
+msgstr "Tome of the Great Mire"
+
+msgid "TOME_MIRE@TOME@LORE_DESCRIPTION"
+msgstr ""
+"In my kingdom, all things return to the marsh. We are borne of the swamp. "
+"The swamp nourishes us. We wither, and feed her in return. You are not from "
+"here, interloper, but you will still make excellent fertilizer for the "
+"maggots writhing in my earth."
+
+msgid "TOME_MIRE@TOME@LORE_AUTHOR"
+msgstr "Nemain, the Mire Witch"
+
+msgid "TOME_MIRE@TOME@GAMEPLAY_DESCRIPTION"
+msgstr ""
+"Reduce your foe's movements to nothing but a slow crawl while disease and "
+"pestilence bring them to their knees. The swamp will reclaim any who dare "
+"enter its murky waters."
+
+msgid "TOME_MIRE@SKILL_1@NAME"
+msgstr "Summon Swamp Troll"
+
+msgid "TOME_MIRE@SKILL_1@DESCRIPTION"
+msgstr "Summons a swamp troll on target swamp hex or river tile of owned city."
+
+msgid "TOME_MIRE@UNIT1@ABILITY1@NAME"
+msgstr "PLACEHOLDER"
+
+msgid "TOME_MIRE@SKILL_2@NAME"
+msgstr "Sink the Land"
+
+msgid "TOME_MIRE@SKILL_2@DESCRIPTION"
+msgstr ""
+"Target {GLOBAL.ProvinceConcept.Hyperlink}:[bulletlist][bullet/]Is destroyed."
+"[bullet/]Turns into a swamp.[bullet/]Units within suffer the {GLOBAL."
+"PROPERTIES.POISONED.Hyperlink} and {GLOBAL.PROPERTIES.BOGGED.Hyperlink} "
+"status conditions.[/bulletlist]"
+
+msgid "TOME_MIRE@SKILL_3@NAME"
+msgstr "Blight Boil"
+
+msgid "TOME_MIRE@SKILL_3@DESCRIPTION"
+msgstr ""
+"Enemy unit suffering from {GLOBAL.PROPERTIES.POISONED.Hyperlink} explodes in "
+"a shower of toxins, inflicting {blightDamage} {GLOBAL.BlightDamageConcept."
+"Hyperlink} to itself and adjacent enemies and spreading {GLOBAL.PROPERTIES."
+"POISONED.Hyperlink} to them."
+
+msgid "TOME_MIRE@SKILL_4@NAME"
+msgstr "Trollhide"
+
+msgid "TOME_MIRE@SKILL_4@DESCRIPTION"
+msgstr ""
+"Ingest the blood of trolls, granting the race:[bulletlist][bullet/]+2 "
+"{GLOBAL.DefenseConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES."
+"TROLL_REGENERATION.Hyperlink}. [bullet/]-3 [defensefire/] [hyperlink,GLOBAL."
+"FireResistanceConcept]Fire Resistance[/hyperlink][bullet/]{GLOBAL.PROPERTIES."
+"DEMOLISHER.Hyperlink}[bullet/]Immune to the {GLOBAL.PROPERTIES.DISEASED."
+"Hyperlink} condition."
+
+msgid "TOME_MIRE@SKILL_5@NAME"
+msgstr "Mass Enervation"
+
+msgid "TOME_MIRE@SKILL_5@DESCRIPTION"
+msgstr ""
+"All enemy units suffer {GLOBAL.PROPERTIES.POISONED.Hyperlink}, {GLOBAL."
+"PROPERTIES.WEAKENED.Hyperlink}, and {GLOBAL.PROPERTIES.BOGGED.Hyperlink}."
+
+msgid "TOME_MIRE@SKILL_6@NAME"
+msgstr "Brew Plague"
+
+msgid "TOME_MIRE@SKILL_6@DESCRIPTION"
+msgstr ""
+"At the start of battle, enemy units:[bulletlist][bullet/]Sustain 5 {GLOBAL."
+"BlightDamageConcept.Hyperlink}.[bullet/]Suffer the {GLOBAL.PROPERTIES."
+"DECAYING.Hyperlink} (for 2 turns) and {GLOBAL.PROPERTIES.POISONED.Hyperlink} "
+"status conditions."
+
+msgid "TOME_MIRE@HERO_SKILL@NAME"
+msgstr "Grasp of the Mire"
+
+msgid "TOME_MIRE@HERO_SKILL@DESCRIPTION"
+msgstr ""
+"Target enemy unit is inflicted with:[bulletlist][bullet/]{GLOBAL.PROPERTIES."
+"DECAYING.Hyperlink} with a 90% chance. Inflict 3x {GLOBAL.PROPERTIES."
+"POISONED.Hyperlink} if not successful[bullet/]{GLOBAL.PROPERTIES.BOGGED."
+"Hyperlink} with a 90% chance. Inflict {GLOBAL.PROPERTIES.SLOWED.Hyperlink} "
+"if not successful."
+
+msgid "TOME_MIRE@PROVINCE_IMPROVEMENT1@NAME"
+msgstr "[Conduit/] Fen Apothecary"
+
+msgid "TOME_MIRE@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]+{manaamount} {GLOBAL.ManaConcept.Hyperlink}."
+"[bullet/]+{manaamount2} {GLOBAL.ManaConcept.Hyperlink} and +{foodamount} "
+"{GLOBAL.FoodConcept.Hyperlink} per adjacent Swamp {GLOBAL.ProvinceConcept."
+"Hyperlink}.[bullet/]Counts as a {GLOBAL.ConduitConcept.Hyperlink}.[/"
+"bulletlist]"
+
+msgid "TOME_MIRE@BOGGED@NAME"
+msgstr "Bogged Down"
+
+msgid "TOME_MIRE@BOGGED@MODIFIER"
+msgstr ""
+"Base {BOGGED_RESISTANCE>ResolvedStrength}% chance of inflicting {GLOBAL."
+"PROPERTIES.BOGGED.Hyperlink}, for 3 <<m:{GLOBAL.TurnConcept}>>."
+
+msgid "TOME_MIRE@BOGGED@Description"
+msgstr "This unit gains Super Slow Movement (Set to 16.)"
+
+msgid "TOME_MIRE@SKILL_4@ALTERNATE_NAME"
+msgstr "Trollhide - No Visuals"
+
+msgid "TOME_MIRE@NEMAIN@NAME"
+msgstr "Nemain Scathanna"
+
+msgid "TOME_MIRE@NEMAIN@LASTNAME"
+msgstr "Scathanna"
+
+msgid "TOME_MIRE@NEMAIN@TITLE"
+msgstr "Mire Witch"
+
+msgid "TOME_MIRE@NEMAIN@RACE"
+msgstr "Bog Drowned"
+
+msgid "TOME_SWAMPS@TOME@PASSIVE_NAME"
+msgstr "Swamp Preference"
+
+msgid "TOME_SWAMPS@TOME@PASSIVE_DESC"
+msgstr ""
+"Princes with Swamp gives you +2 {GLOBAL.CityStabilityConcept.Hyperlink}"
+
+msgid "TOME_SWAMPS@TOME@PASSIVE2_NAME"
+msgstr "Swamp Farming"
+
+msgid "TOME_SWAMPS@TOME@PASSIVE2_DESC"
+msgstr ""
+"Remove {GLOBAL.FoodConcept.Hyperlink} penalty from <<m:{GLOBAL.FarmConcept."
+"Hyperlink}>> in Swamp Provinces\n"
+"\n"
+"<<m:{GLOBAL.FarmConcept.Hyperlink}>> on Swamp terrain gain +5 {GLOBAL."
+"FoodConcept.Hyperlink} if your race has Swamp Adaptation"

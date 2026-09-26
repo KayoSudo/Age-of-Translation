@@ -1,0 +1,221 @@
+# SHOULDBEFUZZY!!!
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TOME OF THE FATEWEAVER.RPK:././././TStructureUpgradeR/./
+msgid "CITYUPGRADES_STRATEGIC@PROVINCE_IMPROVEMENT@REQUIREMENT"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TSectorType/./
+msgid "COLONYUPGRADES_STRATEGIC@PROVINCE_IMPROVEMENT_CHRONO_GATE@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TSimpleRequisite/./
+msgid "COLONYUPGRADES_STRATEGIC@TELEPORTER@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@ANYWHERE@INSTRUCTIONS"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@ENEMY_UNIT@INSTRUCTIONS"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@ENEMY_UNITS@INSTRUCTIONS"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+msgid "RESEARCHSKILLS@TAGS@CITY_STRUCTURE"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@RACIAL_TRANSFORMATION_MINOR@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@STRATEGIC_ENEMY_ARMY_SPELL"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@TACTICAL_DAMAGE_DEBUFF_SPELL"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@TACTICAL_SPELL"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+msgid "RESEARCHSKILLS@TAGS@UNIT"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TTacticalUnitRandomizerEffect/./
+msgid "SHAREDMODIFIERS_UNITPROPERTIES@RANDOM_POSITIVE@PREVIEW"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TBaseHeroSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+msgid "TOME_FATEWEAVERS@HERO_SKILL@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././THeroSkillGroup/./
+#: TOME OF THE FATEWEAVER.RPK:././././TBaseHeroSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+msgid "TOME_FATEWEAVERS@HERO_SKILL@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TStructureUpgradeR/./
+msgid "TOME_FATEWEAVERS@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TStructureUpgradeR/./
+msgid "TOME_FATEWEAVERS@PROVINCE_IMPROVEMENT1@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TBaseUnitR/./
+msgid "TOME_FATEWEAVERS@SKILL_1@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TBaseUnitR/./
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+msgid "TOME_FATEWEAVERS@SKILL_1@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+msgid "TOME_FATEWEAVERS@SKILL_2@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+msgid "TOME_FATEWEAVERS@SKILL_2@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+msgid "TOME_FATEWEAVERS@SKILL_3@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+msgid "TOME_FATEWEAVERS@SKILL_3@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+msgid "TOME_FATEWEAVERS@SKILL_4@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitRequisite/./
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+msgid "TOME_FATEWEAVERS@SKILL_4@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+#: TOME OF THE FATEWEAVER.RPK:././././TStrategicUnitEffect/./
+msgid "TOME_FATEWEAVERS@SKILL_5@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TSpecialOperationR/./
+msgid "TOME_FATEWEAVERS@SKILL_5@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TStructureUpgradeR/./
+#: TOME OF THE FATEWEAVER.RPK:././././TStructureProperty/./
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+msgid "TOME_FATEWEAVERS@SKILL_6@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkill/./
+#: TOME OF THE FATEWEAVER.RPK:././././TStructureUpgradeR/./
+#: TOME OF THE FATEWEAVER.RPK:././././TStructureProperty/./
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+msgid "TOME_FATEWEAVERS@SKILL_6@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkillGroup/./././
+msgid "TOME_FATEWEAVERS@TOME@GAMEPLAY_DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkillGroup/./././
+msgid "TOME_FATEWEAVERS@TOME@LORE_AUTHOR"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkillGroup/./././
+msgid "TOME_FATEWEAVERS@TOME@LORE_DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TGridSkillGroup/./
+msgid "TOME_FATEWEAVERS@TOME@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+msgid "TOME_FATEWEAVERS@UNIT1@ABILITY2@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+msgid "TOME_FATEWEAVERS@UNIT1@ABILITY2@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+msgid "TOME_FATEWEAVERS@UNIT2@ABILITY1@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+msgid "TOME_FATEWEAVERS@UNIT2@ABILITY1@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TBaseUnitR/./
+msgid "TOME_FATEWEAVERS@UNIT2@ABILITY2@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TBaseUnitR/./
+msgid "TOME_FATEWEAVERS@UNIT2@ABILITY2@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+msgid "TOME_FATEWEAVERS@UNIT2@ABILITY3@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+msgid "TOME_FATEWEAVERS@UNIT2@ABILITY3@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TTacticalUnitRandomizerEffect/./
+msgid "TOME_PANDEMONIUM@NEGATIVE_STATUS@PROP"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+msgid "TOME_SKULLS@UNIT1@ABILITY1@NAME"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TUnitProperty/./
+msgid "TOME_WILD_MAGIC@UNIT1@ABILITY2@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TStrategicOperationR/./
+msgid "VISIT_PROVINCE@EVASION@DESCRIPTION"
+msgstr ""
+
+#: TOME OF THE FATEWEAVER.RPK:././././TStrategicOperationR/./
+msgid "VISIT_PROVINCE@EVASION@NAME"
+msgstr ""
+
