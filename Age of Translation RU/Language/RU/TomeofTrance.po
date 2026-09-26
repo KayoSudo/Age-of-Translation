@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Age of Translation RU 1.1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-09-27 00:00+0000\n"
+"Last-Translator: Age of Translation RU\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GNU gettext 0.23.1\n"
+
+
+msgid "TOME@TRANCE@NAME"
+msgstr "Книга освобождённой ярости"
+
+msgid "TOME@TRANCE@DESC"
+msgstr "Погрузитесь в завораживающий боевой транс, где страх отступает, а ярость обостряется. Усильте {GLOBAL.PROPERTIES.WARCRY.Hyperlink} и поднимите {GLOBAL.UnitMoraleConcept.Hyperlink}, чтобы лучше сражаться."
+
+msgid "TOME@TRANCE@AUTHOR@NAME"
+msgstr "Ульдра Ткач Приливов, объединительница Неукротимого Севера"
+
+msgid "TOME@TRANCE@AUTHOR@DESC"
+msgstr "«Ярость — не бесцельный хаос, а буря, ожидающая своего горизонта. В трансе эти воины отбрасывают страх и разум… но под чуткой рукой ведущего даже они находят цель»."
+
+msgid "TOME@TRANCE@Skill1@Name"
+msgstr "Ритм ярости"
+
+msgid "TOME@TRANCE@Skill1@DESC"
+msgstr "Отряды в радиусе 1 клетки: [bulletlist][bullet/]С вероятностью 60% получают {GLOBAL.PROPERTIES.BERSERK.Hyperlink} на 1 ход. [bullet/]Союзные отряды всегда получают этот эффект."
+
+msgid "TOME@TRANCE@Skill1@Unit@Skill"
+msgstr "Боевые песнопения"
+
+msgid "TOME@TRANCE@Skill1@Unit@Skill2@DESC"
+msgstr "Свяжите армию ритмом и яростью: [bulletlist][bullet/]Отряды получают {GLOBAL.PROPERTIES.WARCRY.Hyperlink}, активную способность, накладывающую на себя {GLOBAL.PROPERTIES.BERSERK.Hyperlink} на 1 {GLOBAL.TurnConcept.Hyperlink}."
+
+msgid "TOME@TRANCE@Skill1@Unit@Skill@DESC"
+msgstr "Обряд богов войны"
+
+msgid "TOME@TRANCE@Skill1@Unit@Skill2"
+msgstr "Проведите ритуал накануне битвы: [bulletlist][bullet/]В начале боя отряды исцеляются на 10 {GLOBAL.TemporaryHitPointConcept.Hyperlink}. [bullet/]Когда стены проломлены, получите 50 {GLOBAL.ManaConcept.Hyperlink} за каждый ранг осаждённого города."
+
+msgid "TOME@TRANCE@Skill1@Unit"
+msgstr "Медвежий берсерк"
+
+msgid "TOME@TRANCE@Skill2@Name"
+msgstr "{GLOBAL.PROPERTIES.FIGHTER.Hyperlink}, превращающийся в {GLOBAL.UNITS.MIDNIGHTBEAR_UNIT.Hyperlink} посреди хаоса битвы."
+
+msgid "TOME@TRANCE@Skill2@SKILL@Name"
+msgstr "Транс берсерка"
+
+msgid "TOME@TRANCE@Skill2@DESC"
+msgstr "Усиливает отряды {GLOBAL.PROPERTIES.BERSEKER_TRANCE.Hyperlink} — пассивной способностью, которая исцеляет и даёт уникальное активное умение союзным отрядам с {GLOBAL.PROPERTIES.BERSERK.Hyperlink}."
+
+msgid "TOME@TRANCE@Skill3@Name"
+msgstr "[happiness/] Разделение"
+
+msgid "TOME@TRANCE@Skill3@Skill@Name"
+msgstr "[bulletlist][bullet/]+10 {GLOBAL.ManaConcept.Hyperlink}. [bullet/]Отряды в провинции получают 65 {GLOBAL.HitPointConcept.Hyperlink} урона в обмен на 30 {GLOBAL.ExperienceConcept.Hyperlink} за {GLOBAL.TurnConcept.Hyperlink}. [bullet/]Считается {GLOBAL.ConduitConcept.Hyperlink}."
+
+msgid "TOME@TRANCE@Skill3@Skill@DESC"
+msgstr "Свирепый медведь"
+
+msgid "TOME@TRANCE@Skill3@Desc"
+msgstr "Транс берсерка"
+
+msgid "TOME@TRANCE@Skill2@Unit@Skill@DESC"
+msgstr "ВРЕМЕННО"
+
+msgid "TOME@TRANCE@Skill4@Name"
+msgstr "Разделение:"
+
+msgid "TOME@TRANCE@Skill4@DESC"
+msgstr "Ярость берсерка"
+
+msgid "TOME@TRANCE@Skill5@Name"
+msgstr "Обрушьте град яростных ударов в конус длиной 1 клетка; эффективность против вторичных целей снижена."
+
+msgid "TOME@TRANCE@Skill5@DESC"
+msgstr "Сумеречный медведь"
+
+msgid "TOME@TRANCE@Skill6@Name"
+msgstr "Смена облика: сумеречный медведь"
+
+msgid "TOME@TRANCE@Skill6@DESC"
+msgstr "Превращение в сумеречного медведя"
+
+msgid "TOME@TRANCE@Skill6@Group"
+msgstr "Исцеляет на 25 {GLOBAL.TemporaryHitPointConcept.Hyperlink} и превращает в {GLOBAL.PROPERTIES.BERSERK.Hyperlink} {GLOBAL.UNITS.MIDNIGHTBEAR_UNIT.Hyperlink} на 3 {GLOBAL.TurnConcept.Hyperlink}."
+
+msgid "TOME@TRANCE@PANTHEON@NAME"
+msgstr "Вознесение: Вождь войны"
+
+msgid "TOME@TRANCE@PANTHEON@NAME2"
+msgstr "Когда этот отряд получает {GLOBAL.PROPERTIES.BERSERK.Hyperlink}, он исцеляется на 25 {GLOBAL.TemporaryHitPointConcept.Hyperlink} и получает {GLOBAL.PROPERTIES.BERSERKER_FURY.Hyperlink} на 1 ход."
+
+msgid "TOME@TRANCE@PANTHEON@NAME3"
+msgstr "Получает ярость берсерка и удары берсерка"
+
+msgid "TOME@TRANCE@PANTHEON@NAME4"
+msgstr "=="
+
+msgid "TOME@TRANCE@PANTHEON@NAME5"
+msgstr "Боевой клич"
+
+msgid "TOME@TRANCE@EXTRA@NAME"
+msgstr "Наносит урон вражеским отрядам в радиусе 1 клетки: [bulletlist][bullet/]+10 {GLOBAL.UnitMoraleConcept.Hyperlink}. [bullet/]Получает {GLOBAL.PROPERTIES.BERSERK.Hyperlink}."
+
+msgid "TOME@TRANCE@EXTRA@NAME2"
+msgstr "Вождь войны"
+
+msgid "TOME@TRANCE@EXTRA@NAME3"
+msgstr "=="
+
+msgid "TOME@TRANCE@EXTRA@NAME4"
+msgstr "=="
+
+msgid "TOME@TRANCE@EXTRA@NAME5"
+msgstr "Азарт битвы"
+
+msgid "TOME@TRANCE@EXTRA@NAME6"
+msgstr "В конце каждого {GLOBAL.TurnConcept.Hyperlink} получает: [bulletlist][bullet/]+1 {GLOBAL.PROPERTIES.RALLYING.Hyperlink}. [bullet/]+1 {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink}."
+
+msgid "TOME@TRANCE@EXTRA@NAME7"
+msgstr "Разделение"
+

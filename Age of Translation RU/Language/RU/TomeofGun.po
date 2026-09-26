@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Age of Translation RU 1.1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-09-27 00:00+0000\n"
+"Last-Translator: Age of Translation RU\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GNU gettext 0.23.1\n"
+
+
+msgid "TOME@Gun@NAME"
+msgstr "Книга изобретательности"
+
+msgid "TOME@Gun@DESC"
+msgstr "Раскройте промышленную мощь старого Содружества, облачите отряды в броню, отражающую {GLOBAL.PhysicalDamageConcept.Hyperlink}, и используйте всю силу нового развивающегося {GLOBAL.PROPERTIES.RANGED_UNIT.Hyperlink}."
+
+msgid "TOME@Gun@AUTHOR@NAME"
+msgstr "Император Насир Преемник"
+
+msgid "TOME@Gun@AUTHOR@DESC"
+msgstr "«Три вещи делают эту Империю великой: вера, сталь и маглоки»."
+
+msgid "TOME@Gun@Skill1@Unit1"
+msgstr "Стрелки с маглоками"
+
+msgid "TOME@Gun@Skill1@Unit2"
+msgstr "Линейная пехота"
+
+msgid "TOME@Gun@Skill1@DESC"
+msgstr "{GLOBAL.PROPERTIES.RANGED_UNIT.Hyperlink}, вооружённый новейшей винтовкой-маглоком. Со временем этот отряд станет грозной силой."
+
+msgid "TOME@Gun@Skill1@Unit@Skill"
+msgstr "Развернуть полевую пушку"
+
+msgid "TOME@Gun@Skill1@Unit@Skill2@DESC"
+msgstr "Этот отряд наносит на +20% больше урона и накладывает {GLOBAL.PROPERTIES.DEMORALIZED.Hyperlink}, если рядом есть отряды с залповым огнём."
+
+msgid "TOME@Gun@Skill1@Unit@Skill@DESC"
+msgstr "В начале боя призывает {GLOBAL.UNITS.OBSERVER.Hyperlink} — конструкта, накладывающего {GLOBAL.PROPERTIES.MARKED.Hyperlink}."
+
+msgid "TOME@Gun@Skill1@Unit@Skill2"
+msgstr "Залповый огонь"
+
+msgid "TOME@Gun@Skill1@Unit"
+msgstr "Боевой инженер"
+
+msgid "TOME@Gun@Skill2@Name"
+msgstr "[Mine/] Кузнечная мастерская"
+
+msgid "TOME@Gun@Skill2@SKILL@Name"
+msgstr "Наблюдательный отряд"
+
+msgid "TOME@Gun@Skill2@DESC"
+msgstr "[bulletlist] [bullet/]+5 {GLOBAL.GoldConcept.Hyperlink}. [bullet/]+15 {GLOBAL.GoldConcept.Hyperlink}, если находится рядом с другой кузнечной мастерской. [bullet/]+3 {GLOBAL.StructureProductionConcept.Hyperlink} за каждую соседнюю {GLOBAL.QuarryConcept.Hyperlink}. [bullet/]Считается {GLOBAL.MineConcept.Hyperlink}."
+
+msgid "TOME@Gun@Skill3@Name"
+msgstr "Реактивные сплавы"
+
+msgid "TOME@Gun@Skill3@Skill@Name"
+msgstr "Снарядите войска новым видом улучшенной брони, возможной лишь благодаря изобретательности народа: [bulletlist] [bullet/]Отражает 3 {GLOBAL.PhysicalDamageConcept.Hyperlink} при каждой рукопашной атаке. [bullet/]+1 {GLOBAL.DefenseConcept.Hyperlink}."
+
+msgid "TOME@Gun@Skill3@Skill@DESC"
+msgstr "Уникальный {GLOBAL.PROPERTIES.SUPPORT_UNIT.Hyperlink}, который может развёртывать конструктов до конца боя."
+
+msgid "TOME@Gun@Skill3@Desc"
+msgstr "Развёртывает конструкт, наносящий дальний {GLOBAL.PhysicalDamageConcept.Hyperlink}."
+
+msgid "TOME@Gun@Skill2@Unit@Skill@DESC"
+msgstr "Боевой инженер"
+
+msgid "TOME@Gun@Skill4@Name"
+msgstr "Загоризонтный обстрел"
+
+msgid "TOME@Gun@Skill4@DESC"
+msgstr "Развёртывает слабый обстрел на 3 {GLOBAL.TurnConcept.Hyperlink}. Каждый ход попадание получают 2 случайных отряда: [bulletlist] [bullet/]1 {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}. [bullet/]-3 {GLOBAL.UnitMoraleConcept.Hyperlink}."
+
+msgid "TOME@Gun@Skill5@Name"
+msgstr "Примкнуть штыки"
+
+msgid "TOME@Gun@Skill5@DESC"
+msgstr "Прикажите всем {GLOBAL.PROPERTIES.RANGED_UNIT.Hyperlink} обнажить оружие ближнего боя и атаковать; на 1 ход: [bulletlist][bullet/]Восстанавливают 100% <<m:{GLOBAL.ActionPointConcept.Hyperlink}>>. [bullet/]Получают {GLOBAL.ChargeConcept.Hyperlink}, наносящую тем больше урона, чем больше {GLOBAL.HitPointConcept.Hyperlink} потеряла цель. [bullet/]Все способности {GLOBAL.RangedConcept.Hyperlink} отключаются на 1 ход."
+
+msgid "TOME@Gun@Skill6@Name"
+msgstr "Этот отряд достиг максимальной огневой мощи."
+
+msgid "TOME@Gun@Skill6@DESC"
+msgstr "Стандартизируйте для войск новые особые боеприпасы: [bulletlist] [bullet/]Добавляет {GLOBAL.PROPERTIES.EXPLOSIVE_AMMO.Hyperlink} всем {GLOBAL.PROPERTIES.RANGED_UNIT.Hyperlink}."
+
+msgid "TOME@Gun@Skill6@Group"
+msgstr "Группа «Сталь и маглок»"
+
+msgid "TOME@Gun@Skill7@DESC"
+msgstr "Выпускает залп разрывных боеприпасов."
+
+msgid "TOME@Gun@Skill7@Name"
+msgstr "Разрывные боеприпасы"
+
+msgid "TOME@DISC@PANTHEON@NAME"
+msgstr "Вознесение: Железный маршал (старое)"
+
+msgid "TOME@DISC@PANTHEON@NAME2"
+msgstr "В атаку!"
+
+msgid "TOME@DISC@PANTHEON@NAME3"
+msgstr "[bulletlist][bullet/]Получает {GLOBAL.ChargeConcept.Hyperlink}, наносящую тем больше урона, чем больше {GLOBAL.HitPointConcept.Hyperlink} потеряла цель. [bullet/]Все способности {GLOBAL.RangedConcept.Hyperlink} отключаются на 1 ход."
+
+msgid "TOME@DISC@PANTHEON@NAME4"
+msgstr "Штыковая атака"
+
+msgid "TOME@DISC@PANTHEON@NAME5"
+msgstr "Наносит рукопашный урон, зависящий от потерянных целью {GLOBAL.HitPointConcept.Hyperlink}."
+
+msgid "TOME@DISC@PANTHEON@NAME6"
+msgstr "Штыки примкнуты"
+
+msgid "TOME@DISC@PANTHEON@NAME22"
+msgstr "Полевая пушка"
+
+msgid "TOME@DISC@PANTHEON@NAME33"
+msgstr "Наносит урон по линии длиной в 2 клетки. При попадании снимает {GLOBAL.DefenseModeConcept.Hyperlink} и {GLOBAL.RetaliationConcept.Hyperlink}."
+
+msgid "TOME@DISC@PANTHEON@NAME44"
+msgstr "Полевой ремонт"
+
+msgid "TOME@DISC@PANTHEON@NAME55"
+msgstr "Исцеляет целевой отряд на 15 {GLOBAL.TemporaryHitPointConcept.Hyperlink}; вдвое больше, если это {GLOBAL.PROPERTIES.CONSTRUCT.Hyperlink}."
+
+msgid "TOME@GUNNEW@PANTHEON@NAME55"
+msgstr "Вознесение: Железный маршал"
+

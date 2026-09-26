@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Age of Translation RU 1.1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-09-27 00:00+0000\n"
+"Last-Translator: Age of Translation RU\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GNU gettext 0.23.1\n"
+
+
+msgid "THYRON_TOME_FRACTURE@TOME@NAME"
+msgstr "Книга раскалывания"
+
+msgid "THYRON_TOME_FRACTURE@TOME@DESCRIPTION"
+msgstr "Призывайте {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink} чудовищ и сокрушайте врагов опустошением {GLOBAL.AstralBarrensConcept.Hyperlink}."
+
+msgid "THYRON_TOME_FRACTURE@TOME@LORE_DESCRIPTION"
+msgstr "-\\\\ стёртые \\\\- идут. Никто не уйдёт от них —\\\\ мы \\\\-. НЕНАВИДЯТ МАГИЮ. Не дайте магии расцвести против них —\\\\ н а с\\\\-, -\\\\ стёртые \\\\- ПОГЛОЩАЮТ. ОПУСТОШАЮТ. РАСЩЕПЛЯЮТ. НИЧЕГО НЕ ОСТАНЕТСЯ. -\\\\ стёртые \\\\-"
+
+msgid "THYRON_TOME_FRACTURE@TOME@AUTHOR_NAME"
+msgstr "Бдзжк Дрзж, -\\\\ ТИТУЛ с--тё--р--тый \\\\-"
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_01@NAME"
+msgstr "Призвать расколотых существ"
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_01@DESCRIPTION"
+msgstr "[bulletlist][bullet/]Выберите {GLOBAL.PROPERTIES.MANA_STARVED.Hyperlink} отряд III, IV или V ранга для добавления в армию. [bullet/]Если заклинание применено на {GLOBAL.AstralBarrensConcept.Hyperlink}, повышается шанс получить {GLOBAL.UNITS.FRACTURED_DRAGON.Hyperlink} или {GLOBAL.UNITS.FRACTURED_WORM.Hyperlink}.[/bulletlist]"
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_01@DIALOG_SUBHEADER_NORMAL"
+msgstr "Из окрестностей выходят несколько расколотых существ, жаждущих ещё больше маны."
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_01@DIALOG_SUBHEADER_BARRENS"
+msgstr "Из пустошей выходят несколько расколотых обитателей, готовых убивать и опустошать."
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_02@NAME"
+msgstr "Неистовое раскалывание"
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_02@DESCRIPTION"
+msgstr "Целевая {GLOBAL.ProvinceConcept.Hyperlink}: [bulletlist][bullet/]Вражеские <<m:{GLOBAL.UnitConcept.Hyperlink}>> получают 25 {GLOBAL.PhysicalDamageConcept.Hyperlink}.[/bulletlist][br/]Целевая {GLOBAL.ProvinceConcept.Hyperlink} и соседние провинции: [bulletlist][bullet/]Получают {GLOBAL.AstralBarrensConcept.Hyperlink}. [bullet/]Теряют {GLOBAL.RiverConcept.Hyperlink}, {GLOBAL.FertilePlainsConcept.Hyperlink}, {GLOBAL.SwampConcept.Hyperlink}, {GLOBAL.SnowConcept.Hyperlink}, {GLOBAL.FrozenWasteConcept.Hyperlink}, {GLOBAL.CavernFloorConcept.Hyperlink} и {GLOBAL.GloomTerrainConcept.Hyperlink}. [bullet/]Создают {GLOBAL.STRUCTURES.FLEETING_FRACTURED_INFESTATION.Hyperlink}, где это возможно.[/bulletlist]"
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_03@NAME"
+msgstr "Метки разлома"
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_03@DESCRIPTION"
+msgstr "Отряд получает: [bulletlist][bullet/]{GLOBAL.PROPERTIES.THYRON_BARREN_TOUCH.Hyperlink}.[/bulletlist]"
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_03@SPELL@DESCRIPTION"
+msgstr "Зачарованные отряды получают: [bulletlist][bullet/]{GLOBAL.PROPERTIES.THYRON_BARREN_TOUCH.Hyperlink}.[/bulletlist]"
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_03@ABILITY@NAME"
+msgstr "Касание пустоши"
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_03@ABILITY@DESCRIPTION"
+msgstr "При выборе вражеского отряда: [bulletlist][bullet/]Накладывает {GLOBAL.PROPERTIES.MANA_DRAINED.Hyperlink} на 1 {GLOBAL.TurnConcept.Hyperlink}.[/bulletlist][br/]При выборе союзного отряда: [bulletlist][bullet/]Снимает случайный {GLOBAL.NegativeStatusEffectConcept.Hyperlink}.[/bulletlist]"
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_04@NAME"
+msgstr "Пожать магию"
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_04@DESCRIPTION"
+msgstr "Вражеские отряды в радиусе {THYRON_REAP_MAGIC_UNIT_TARGETER_CIRCLE>AREA>Radius} клеток: [bulletlist][bullet/]Получают {THYRON_REAP_MAGIC_UNIT_DAMAGE>DAMAGE>Fire} {GLOBAL.FireDamageConcept.Hyperlink} и {THYRON_REAP_MAGIC_UNIT_DAMAGE>DAMAGE>Shock} {GLOBAL.LightningDamageConcept.Hyperlink}. [bullet/]Получают {GLOBAL.PROPERTIES.MANA_DRAINED.Hyperlink} на 1 {GLOBAL.TurnConcept.Hyperlink}. [bullet/]Создают в области случайные препятствия «Астральный разлом».[/bulletlist][br/]Это заклинание не может [hyperlink,GLOBAL.BackfireConcept]дать обратный эффект[/hyperlink]."
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_05@NAME"
+msgstr "Расколотая ярость"
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_05@DESCRIPTION"
+msgstr "Расколотые отряды и отряды с «Расколотой трансформацией» под вашим контролем получают: [bulletlist][bullet/]{GLOBAL.PROPERTIES.FRENZY.Hyperlink}.[/bulletlist]"
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_06@NAME"
+msgstr ""
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_06@DESCRIPTION"
+msgstr ""
+
+msgid "THYRON_TOME_FRACTURE@TOME@SKILL_06@UNIT_PROPERTY_DESCRIPTION"
+msgstr ""
+
+msgid "THYRON_TOME_FRACTURE@TOME@PASSIVE@NAME"
+msgstr "Выносливость пустошей"
+
+msgid "THYRON_TOME_FRACTURE@TOME@PASSIVE@DESCRIPTION"
+msgstr "Отряды, не являющиеся {GLOBAL.PROPERTIES.MAGIC_ORIGIN.Hyperlink}, на местности {GLOBAL.AstralBarrensConcept.Hyperlink} дополнительно [hyperlink,GLOBAL.WorldMapRegeneration]восстанавливают[/hyperlink] 10 <<m:{GLOBAL.HitPointConcept.Hyperlink}>> за {GLOBAL.TurnConcept.Hyperlink}."
+
+msgid "THYRON_TOME_FRACTURE@TOME@PASSIVE@PROPERTY@NAME"
+msgstr "Выносливость пустошей"
+
+msgid "THYRON_TOME_FRACTURE@TOME@PASSIVE@PROPERTY@DESCRIPTION"
+msgstr "Отряд [hyperlink,GLOBAL.WorldMapRegeneration]восстанавливает[/hyperlink] +{THYRON_BARREN_HEALING_REGEN_PROP>BONUS>Regen} <<m:{GLOBAL.HitPointConcept.Hyperlink}>> за {GLOBAL.TurnConcept.Hyperlink} на местности {GLOBAL.AstralBarrensConcept.Hyperlink}."
+
+msgid "THYRON_TOME_FRACTURE@TOME@PASSIVE2@NAME"
+msgstr "Предпочтение астральных пустошей"
+
+msgid "THYRON_TOME_FRACTURE@TOME@PASSIVE2@DESCRIPTION"
+msgstr "<<m: {GLOBAL.ProvinceConcept.Hyperlink}>> с {GLOBAL.AstralBarrensConcept.Hyperlink} дают +2 {GLOBAL.GoldConcept.Hyperlink} и +2 {GLOBAL.CityStabilityConcept.Hyperlink}."
+
+msgid "THYRON_TOME_FRACTURE@ASCENSION_TRAIT@NAME"
+msgstr "Вознесение: Раскалывание"
+
+msgid "THYRON_TOME_FRACTURE@ASCENSION_TRAIT@PASSIVE_NAME"
+msgstr "Вознесённый раскалыватель"
+
+msgid "THYRON_TOME_FRACTURE@ASCENSION_TRAIT@ABILITY_NAME"
+msgstr "Вознесённое касание пустоши"
+
+msgid "THYRON_TOME_FRACTURE@ASCENSION_TRAIT@DESCRIPTION"
+msgstr "При выборе вражеского отряда: [bulletlist][bullet/]Накладывает {GLOBAL.PROPERTIES.MANA_DRAINED.Hyperlink} на 1 {GLOBAL.TurnConcept.Hyperlink}.[/bulletlist][br/]При выборе союзного отряда: [bulletlist][bullet/]Снимает случайный {GLOBAL.NegativeStatusEffectConcept.Hyperlink} и даёт его [hyperlink,GLOBAL.PositiveStatusEffectConcept]положительный[/hyperlink] [hyperlink,GLOBAL.OpposingStatusEffectsConcept]противоэффект[/hyperlink].[/bulletlist]"
+

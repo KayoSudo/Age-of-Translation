@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Age of Translation RU 1.1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-09-27 00:00+0000\n"
+"Last-Translator: Age of Translation RU\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GNU gettext 0.23.1\n"
+
+
+msgid "TOME_SWAMPS@TOME@NAME"
+msgstr "Книга болот"
+
+msgid "TOME_SWAMPS@TOME@LORE_DESCRIPTION"
+msgstr "\"Немейн, Болотная Ведьма, заманивает в ловушку любого, кто осмелится вторгнуться в ее владения, под трясину, чтобы никогда больше не вернуться. Она специализируется на том, чтобы с течением времени изнурять своих врагов, беспокоить и замедлять их, пока яд и болезни не заставят их рухнуть в грязи и навозе.\""
+
+msgid "TOME_SWAMPS@TOME@LORE_AUTHOR"
+msgstr "Сол'канар Болотный король"
+
+msgid "TOME_SWAMPS@TOME@GAMEPLAY_DESCRIPTION"
+msgstr "Обуздайте силу болота, замедлите любого, кто настолько глуп, что проникнет в ваши владения, и утопите его в ихоре."
+
+msgid "TOME_SWAMPS@SKILL_1@NAME"
+msgstr "Болотный"
+
+msgid "TOME_SWAMPS@SKILL_1@DESCRIPTION"
+msgstr "Станьте единым целым с тем, что лежит под болотом, и получите возможность расы: [Bulletlist][bullet/]2 {Blight} {GLOBAL.BlightResistanceConcept.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SWAMP_CAMOUFLAGE.Hyperlink} в болотах и реки[bullet/]{GLOBAL.PROPERTIES.SWAMP_WALK.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SWIFT.Hyperlink}[/bulletlist]"
+
+msgid "TOME_SWAMPS@UNIT1@ABILITY1@NAME"
+msgstr "Тестирование"
+
+msgid "TOME_SWAMPS@SKILL_2@NAME"
+msgstr "Призвать речного тролля"
+
+msgid "TOME_SWAMPS@SKILL_2@DESCRIPTION"
+msgstr "Вызывает речного тролля на целевом шестиугольнике болота или клетке реки."
+
+msgid "TOME_SWAMPS@SKILL_3@NAME"
+msgstr "Навести гниение"
+
+msgid "TOME_SWAMPS@SKILL_3@DESCRIPTION"
+msgstr "Юниты в радиусе 1 гекса: [bulletlist][bullet/]10 {GLOBAL.BlightDamageConcept.Hyperlink}[bullet/]Suffer {GLOBAL.PROPERTIES.POISONED.Hyperlink}[bullet/]Suffer {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.DECAYING.Hyperlink}.[/bulletlist]"
+
+msgid "TOME_SWAMPS@SKILL_4@NAME"
+msgstr "Приведите в порядок поймы"
+
+msgid "TOME_SWAMPS@SKILL_4@DESCRIPTION"
+msgstr "Целевой дружественный наземный город начинает превращать ландшафт в Болотную 1 провинцию за каждую {GLOBAL.TurnConcept}.[bulletlist][bullet/]Заклинание распространяется на 1 <<m:{GLOBAL.ProvinceConcept.Hyperlink}>> за пределы {GLOBAL.DomainConcept.Hyperlink}.[bullet/]Пока заклинание активно, провинции с Болотом дают +1 {GLOBAL.FoodConcept.Hyperlink} и +1 доход {GLOBAL.UnitProductionConcept.Hyperlink}.[/bulletlist]\nЭтот эффект терраформирования медленно исчезает, если заклинание города удалить."
+
+msgid "TOME_SWAMPS@SKILL_5@NAME"
+msgstr "Утонуть в трясине"
+
+msgid "TOME_SWAMPS@SKILL_5@DESCRIPTION"
+msgstr "Все юниты в целевой вражеской армии: [bulletlist][bullet/]Поддерживать {blightDamage} {GLOBAL.BlightDamageConcept.Hyperlink}.[bullet/]Получить статус {GLOBAL.PROPERTIES.POISONED.Hyperlink} эффект.[/bulletlist][br/][br/]Армии на болоте дополнительно поддерживают: [bulletlist][bullet/]Дополнительный {additional} {GLOBAL.BlightDamageConcept.Hyperlink}[bullet/]Дополнительно 2x {GLOBAL.PROPERTIES.POISONED.Hyperlink} Эффект статуса"
+
+msgid "TOME_SWAMPS@SKILL_6@NAME"
+msgstr "Выстрелы ведьмы"
+
+msgid "TOME_SWAMPS@SKILL_6@DESCRIPTION"
+msgstr "Прирост зачарованных юнитов:[bulletlist][bullet/]{GLOBAL.PROPERTIES.SWIFT.Hyperlink}.[/bulletlist]\nСовершает базовые атаки {GLOBAL.MagicConcept.Hyperlink} и {GLOBAL.RangedConcept.Hyperlink} зачарованных юнитов: [bulletlist][bullet/]Deal +1 {GLOBAL.BlightDamageConcept.Hyperlink}.[bullet/]Базовый шанс нанесения 30%. {GLOBAL.PROPERTIES.STATUS_VULNERABILITY.Hyperlink}.[/bulletlist]\nЭффекты [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]a увеличены[/hyperlink] для неповторяющихся атак."
+
+msgid "TOME_SWAMPS@HERO_SKILL@NAME"
+msgstr "Проклятие ведьм"
+
+msgid "TOME_SWAMPS@HERO_SKILL@DESCRIPTION"
+msgstr "Базовое усиление атак: [bulletlist][bullet/]+1{GLOBAL.BlightDamageConcept.Hyperlink}.[bullet/]A базовый 30% шанс нанести {GLOBAL.PROPERTIES.STATUS_VULNERABILITY.Hyperlink},\nЭффекты [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]a увеличены[/hyperlink] для неповторяющихся атак."
+
+msgid "TOME_SWAMPS@PROVINCE_IMPROVEMENT1@NAME"
+msgstr "[farm/] Коттедж ведьмы"
+
+msgid "TOME_SWAMPS@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr "[bulletlist][bullet/]+{knowledgeamount} {GLOBAL.KnowledgeConcept.Hyperlink}.[bullet/]+{manaamount} {GLOBAL.ManaConcept.Hyperlink} для каждого соседнего болота {GLOBAL.ProvinceConcept.Hyperlink}.[bullet/] считается как {GLOBAL.FarmConcept.Hyperlink}.[/bulletlist]"
+
+msgid "TOME_MIRE@TOME@NAME"
+msgstr "Книга Великого болота"
+
+msgid "TOME_MIRE@TOME@LORE_DESCRIPTION"
+msgstr "В моем королевстве все вещи возвращаются в болото. Мы рождены из болота. Болото питает нас. Мы увядаем и питаем её взамен. Ты не здешний, интервент, но всё равно станешь отличным удобрением для личинок, копошащихся в моей земле."
+
+msgid "TOME_MIRE@TOME@LORE_AUTHOR"
+msgstr "Немайн, болотная ведьма"
+
+msgid "TOME_MIRE@TOME@GAMEPLAY_DESCRIPTION"
+msgstr "Сократите передвижение противника до медленного поползновения, пока болезнь и мор не поставят его на колени. Болото заберет всех, кто осмелится войти в его мутные воды."
+
+msgid "TOME_MIRE@SKILL_1@NAME"
+msgstr "Призвать болотного тролля"
+
+msgid "TOME_MIRE@SKILL_1@DESCRIPTION"
+msgstr "Призывает болотного тролля на целевой шестиугольник болота или клетку реки."
+
+msgid "TOME_MIRE@UNIT1@ABILITY1@NAME"
+msgstr "PLACEHOLDER"
+
+msgid "TOME_MIRE@SKILL_2@NAME"
+msgstr "Затопить землю"
+
+msgid "TOME_MIRE@SKILL_2@DESCRIPTION"
+msgstr "Целевой {GLOBAL.ProvinceConcept.Hyperlink}:[bulletlist][bullet/]Уничтожен.[bullet/]Превращается в болото.[bullet/]Юниты внутри страдают {GLOBAL.PROPERTIES.POISONED.Hyperlink} и {GLOBAL.PROPERTIES.BOGGED.Hyperlink}.[/bulletlist]"
+
+msgid "TOME_MIRE@SKILL_3@NAME"
+msgstr "Кипение от болезни"
+
+msgid "TOME_MIRE@SKILL_3@DESCRIPTION"
+msgstr "Вражеский юнит, страдающий от {GLOBAL.PROPERTIES.POISONED.Hyperlink} взрывается ливнем токсинов, нанося {blightDamage} {GLOBAL.BlightDamageConcept.Hyperlink} себе и соседним врагам и распространяет {GLOBAL.PROPERTIES.POISONED.Hyperlink} на них."
+
+msgid "TOME_MIRE@SKILL_4@NAME"
+msgstr "Троллиная шкура"
+
+msgid "TOME_MIRE@SKILL_4@DESCRIPTION"
+msgstr "Проглотите кровь троллей, чтобы получить расу: [bulletlist][bullet/]+2 {GLOBAL.DefenseConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.TROLL_REGENERATION.Hyperlink}. [bullet/]-3 [defensefire/] [hyperlink,GLOBAL.FireResistanceConcept]Огнестойкость[/hyperlink][bullet/]{GLOBAL.PROPERTIES.DEMOLISHER.Hyperlink}[bullet/]Иммунитет к состоянию {GLOBAL.PROPERTIES.DISEASED.Hyperlink}."
+
+msgid "TOME_MIRE@SKILL_5@NAME"
+msgstr "Массовое истощение"
+
+msgid "TOME_MIRE@SKILL_5@DESCRIPTION"
+msgstr "Все вражеские отряды страдают от {GLOBAL.PROPERTIES.POISONED.Hyperlink}, {GLOBAL.PROPERTIES.WEAKENED.Hyperlink} и {GLOBAL.PROPERTIES.BOGGED.Hyperlink}."
+
+msgid "TOME_MIRE@SKILL_6@NAME"
+msgstr "Заварить чуму"
+
+msgid "TOME_MIRE@SKILL_6@DESCRIPTION"
+msgstr "В начале боя вражеские юниты:[bulletlist][bullet/]Поддерживают 5 {GLOBAL.BlightDamageConcept.Hyperlink}.[bullet/]Страдают {GLOBAL.PROPERTIES.POISONED.Hyperlink} и {GLOBAL.PROPERTIES.DECAYING.Hyperlink}."
+
+msgid "TOME_MIRE@HERO_SKILL@NAME"
+msgstr "Болотный лидер"
+
+msgid "TOME_MIRE@HERO_SKILL@DESCRIPTION"
+msgstr "На целевой вражеский отряд наносится эффект: [bulletlist][bullet/]{GLOBAL.PROPERTIES.DECAYING.Hyperlink} с вероятностью 90%. Нанесите 3x {GLOBAL.PROPERTIES.POISONED.Hyperlink}, если не удалось [bullet/]{GLOBAL.PROPERTIES.BOGGED.Hyperlink} с вероятностью 90%. Примените {GLOBAL.PROPERTIES.SLOWED.Hyperlink}, если не удалось."
+
+msgid "TOME_MIRE@PROVINCE_IMPROVEMENT1@NAME"
+msgstr "[Conduit/] Фен Аптекарь"
+
+msgid "TOME_MIRE@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr "[bulletlist][bullet/]+{manaamount} {GLOBAL.ManaConcept.Hyperlink}.[bullet/]+{manaamount2} {GLOBAL.ManaConcept.Hyperlink} и +{foodamount} {GLOBAL.FoodConcept.Hyperlink} за прилегающее болото {GLOBAL.ProvinceConcept.Hyperlink}.[bullet/]Считается как {GLOBAL.ConduitConcept.Hyperlink}.[/bulletlist]"
+
+msgid "TOME_MIRE@BOGGED@NAME"
+msgstr "Увязший"
+
+msgid "TOME_MIRE@BOGGED@MODIFIER"
+msgstr "Основа {BOGGED_RESISTANCE>ResolvedStrength}% шанс нанести {GLOBAL.PROPERTIES.BOGGED.Hyperlink}, для 3 <<m:{GLOBAL.TurnConcept}>>."
+
+msgid "TOME_MIRE@BOGGED@Description"
+msgstr "Этот отряд получает сверхмедленное движение. (Set to 16.)"
+
+msgid "TOME_MIRE@SKILL_4@ALTERNATE_NAME"
+msgstr "Шкура тролля – без визуальных эффектов"
+
+msgid "TOME_MIRE@NEMAIN@NAME"
+msgstr "Немейн Скатанна"
+
+msgid "TOME_MIRE@NEMAIN@LASTNAME"
+msgstr "Скатанна"
+
+msgid "TOME_MIRE@NEMAIN@TITLE"
+msgstr "Болотная ведьма"
+
+msgid "TOME_MIRE@NEMAIN@RACE"
+msgstr "Утопленник болота"
+
+msgid "TOME_SWAMPS@TOME@PASSIVE_NAME"
+msgstr "Болотные предпочтения"
+
+msgid "TOME_SWAMPS@TOME@PASSIVE_DESC"
+msgstr "Принцы с Болотом дают +2 {GLOBAL.CityStabilityConcept.Hyperlink}."
+
+msgid "TOME_SWAMPS@TOME@PASSIVE2_NAME"
+msgstr "Болотное земледелие"
+
+msgid "TOME_SWAMPS@TOME@PASSIVE2_DESC"
+msgstr "Убрать штраф {GLOBAL.FoodConcept.Hyperlink} с <<m:{GLOBAL.FarmConcept.Hyperlink}>> в Болотных провинциях.\n\n<<m:{GLOBAL.FarmConcept.Hyperlink}>> на болотистой местности получает +5 {GLOBAL.FoodConcept.Hyperlink}, если у вашей расы есть адаптация к болоту."
+

@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Age of Translation RU 1.1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-09-27 00:00+0000\n"
+"Last-Translator: Age of Translation RU\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GNU gettext 0.23.1\n"
+
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@NAME"
+msgstr "Книга вечной зимы"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@GAMEPLAY_DESCRIPTION"
+msgstr "Принесите вечную зиму и обреките врагов на гибель от {GLOBAL.PROPERTIES.FROZEN.Hyperlink}."
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@LORE_DESCRIPTION"
+msgstr "«Пришло время приветствовать вечную зиму. Распространите её холодные объятия по всему миру и завладейте всем, что встретится на пути. Не будет гореть огонь, не взойдёт тепло; останется лишь мороз. Замёрзшие станут безмолвными, безжизненными памятниками вечному владычеству зимы»."
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@LORE_AUTHOR"
+msgstr "Арктика, королева морозников"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@ASCENSION@TRAIT@NAME"
+msgstr "Вознесение: Вестник зимы"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@ASCENSION@PROPERTY@NAME"
+msgstr "Вознесённый вестник зимы"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@ASCENSION@PROPERTY@DESCRIPTION"
+msgstr "Даёт: [bulletlist][bullet/]Базовые атаки с вероятностью {FROZEN_RESISTANCE>ResolvedStrength}% накладывают {GLOBAL.PROPERTIES.FROZEN.Hyperlink}. При неудаче накладывают {GLOBAL.PROPERTIES.SLOWED.Hyperlink}. [bullet/]Иммунитет к {GLOBAL.PROPERTIES.FROZEN.Hyperlink}.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@ASCENSION@SPELL@NAME"
+msgstr "Призвать ледяного скакуна Бича"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@ASCENSION@SPELL@DESCRIPTION"
+msgstr "Призывает {GLOBAL.EQUIPMENT.TEW_SCOURGE_OF_ICE_MOUNT.Hyperlink}, могучего скакуна для [hyperlink,GLOBAL.HeroConcept]героев[/hyperlink]."
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@MOUNT@NAME"
+msgstr "Ледяной скакун Бича^n"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@PROVINCE_IMPROVEMENT@NAME"
+msgstr "[researchpost/] Ледяной дворец"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@PROVINCE_IMPROVEMENT@DESCRIPTION"
+msgstr "[bulletlist][bullet/]При размещении меняет местность на арктическую. [bullet/]+10 {GLOBAL.KnowledgeConcept.Hyperlink}. [bullet/]+3 {GLOBAL.KnowledgeConcept.Hyperlink} за каждую соседнюю снежную или ледяную {GLOBAL.ProvinceConcept.Hyperlink}. [bullet/]Когда враг с {GLOBAL.PROPERTIES.FROZEN.Hyperlink} погибает в бою, получите 10 {GLOBAL.ManaConcept} за ранг отряда. Эффект не складывается. [bullet/]Считается {GLOBAL.ResearchPostConcept.Hyperlink}.[/bulletlist]"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@SKILL1@NAME"
+msgstr "Ледяная сосредоточенность"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@SKILL1@DESCRIPTION"
+msgstr "Зачарованные отряды получают: [bulletlist][bullet/]Базовые {GLOBAL.MagicConcept.Hyperlink} атаки наносят +{VM_TEW_ICY_FOCUS_EXTRA_DAMAGE>DAMAGE>Frost} {GLOBAL.FrostDamageConcept.Hyperlink}. [bullet/]{GLOBAL.PROPERTIES.VM_TEW_FROZEN_FURY.Hyperlink}, увеличивающую урон базовых атак против отрядов с {GLOBAL.PROPERTIES.FROZEN.Hyperlink} и {GLOBAL.PROPERTIES.SLOWED.Hyperlink}. [bullet/]Способность {GLOBAL.PROPERTIES.VM_TEW_ICE_COMET.Hyperlink}.[/bulletlist]"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@SKILL1@ACTIVE_ABILITY@NAME"
+msgstr "Ледяная комета"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@SKILL1@ACTIVE_ABILITY@DESCRIPTION"
+msgstr "Отряды в радиусе {VM_TEW_ICE_COMET_UNIT_TARGETER_CIRCLE>AREA>Radius} клеток получают урон."
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@SKILL2@NAME"
+msgstr "Владения вечной зимы"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@SKILL2@DESCRIPTION"
+msgstr "В арктических <<m:{GLOBAL.ProvinceConcept.Hyperlink}>> домена: [bulletlist][bullet/]Вражеские отряды в конце каждого хода на {GLOBAL.WorldMapConcept.Hyperlink} получают урон истощения от {GLOBAL.PROPERTIES.VM_TEW_DOMAN_OF_WINTER_ENEMY_PROPERTY_GROUP.Hyperlink}. [bullet/]Во время {GLOBAL.CombatConcept.Hyperlink} на стороне владельца появляется Снежный дух.[/bulletlist]"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@SKILL2@COMBAT_PROPERTY@DESCRIPTION"
+msgstr "Во время {GLOBAL.CombatConcept.Hyperlink} в арктических провинциях призывает на стороне владельца {GLOBAL.UNITS.SNOW_SPIRIT.Hyperlink}."
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@SKILL2@DISPLAY_PROPERTY@DESCRIPTION"
+msgstr "В арктических <<m:{GLOBAL.ProvinceConcept.Hyperlink}>> домена: [bulletlist][bullet/]Вражеские отряды в конце каждого хода на {GLOBAL.WorldMapConcept.Hyperlink} получают урон истощения от {GLOBAL.PROPERTIES.VM_TEW_DOMAN_OF_WINTER_ENEMY_PROPERTY_GROUP.Hyperlink}. [bullet/]Во время {GLOBAL.CombatConcept.Hyperlink} на стороне владельца появляется Снежный дух.[/bulletlist]"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@SKILL2@ENEMY_PROPERTY@DESCRIPTION"
+msgstr "Этот отряд: [bulletlist][bullet/]Не может восстанавливать <<m:{GLOBAL.HitPointConcept.Hyperlink}>> на {GLOBAL.WorldMapConcept.Hyperlink}. [bullet/]В конце каждого {GLOBAL.TurnConcept.Hyperlink} на мировой карте теряет 6 [hp/] здоровья. Здоровье отряда не может упасть ниже 50%.[/bulletlist]"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@SKILL3@NAME"
+msgstr "Призвать воплощение мороза"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@SKILL3@DESCRIPTION"
+msgstr "Выберите и призовите на целевую клетку {GLOBAL.PROPERTIES.MYTHIC_UNIT.Hyperlink} V ранга со способностями мороза и заморозки: [bulletlist][bullet/]{GLOBAL.UNITS.VM_TEW_FROST_QUEEN.Hyperlink}[bullet/]{GLOBAL.UNITS.BLUE_DRAGON.Hyperlink}[/bulletlist]"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@SKILL4@NAME"
+msgstr "Наступающая зима"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@SKILL4@DESCRIPTION"
+msgstr "Целевая {GLOBAL.ProvinceConcept.Hyperlink} и соседние провинции: [bulletlist][bullet/]Вражеские <<m:{GLOBAL.UnitConcept.Hyperlink}>> получают 20 {GLOBAL.FrostDamageConcept.Hyperlink}. [bullet/]Провинции получают {GLOBAL.SnowConcept.Hyperlink} и {GLOBAL.FrozenWasteConcept.Hyperlink}. [bullet/]Провинции теряют {GLOBAL.RiverConcept.Hyperlink}, {GLOBAL.FertilePlainsConcept.Hyperlink}, {GLOBAL.SwampConcept.Hyperlink}, {GLOBAL.SnowConcept.Hyperlink}, {GLOBAL.FrozenWasteConcept.Hyperlink}, {GLOBAL.SandConcept.Hyperlink}, {GLOBAL.CavernFloorConcept.Hyperlink}, {GLOBAL.FungusFieldsConcept.Hyperlink} и {GLOBAL.GloomTerrainConcept.Hyperlink}. [bullet/]Призывает {GLOBAL.UNITS.SNOW_SPIRIT.Hyperlink} на целевую клетку.[/bulletlist]"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@SKILL5@NAME"
+msgstr "Град"
+
+msgid "VM@TOME_ENDLESS_WINTER@TOME@SKILL5@DESCRIPTION"
+msgstr "До {VM_TEW_HAILSTORM_AUTO_SPELL>MaxCastCount} случайных вражеских отрядов и соседние с ними враги: [bulletlist][bullet/]Получают {VM_TEW_HAILSTORM_UNIT_DAMAGE>DAMAGE>Frost} {GLOBAL.FrostDamageConcept.Hyperlink}. [bullet/]Получают {GLOBAL.PROPERTIES.SLOWED.Hyperlink} на {SLOWED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]Заклинание повторяется в начале каждого хода ещё {VM_TEW_HAILSTORM_AUTO_SPELL>TimeToLive} <<m:{GLOBAL.TurnConcept}>>."
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@NAME"
+msgstr "Ледяная королева"
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@BASE_ABILITY@NAME"
+msgstr "Ледяной взрыв"
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@ABILITY@NAME"
+msgstr "Буря осколков"
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@ABILITY@DESCRIPTION"
+msgstr "Отряды в радиусе {VM_TEW_FREEZING_BLIZZARD_UNIT_TARGETER>AREA>Radius} клеток получают урон."
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@ABILITY2@NAME"
+msgstr "Проклятие зимы"
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@ABILITY2@DESCRIPTION"
+msgstr "Накладывает на целевой отряд 2 уровня {GLOBAL.PROPERTIES.STATUS_VULNERABILITY.Hyperlink}."
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@ABILITY3@NAME"
+msgstr "Расколоть лёд"
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@ABILITY3@DESCRIPTION"
+msgstr "Наносит урон целевому отряду с {GLOBAL.PROPERTIES.FROZEN.Hyperlink}, игнорируя защиту."
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@ABILITY3@MODIFIER_DESCRIPTION"
+msgstr "Если цель погибает: [bulletlist][bullet/]Она взрывается, нанося {VM_TEW_ICESHATTER_RENEWAL_CIRCLE_DAMAGE>DAMAGE>Frost}{GLOBAL.FrostDamageConcept.Hyperlink} соседним отрядам. [bullet/]Получает {CP_BONUS_OPERATION>PointsToGive} <<m:{GLOBAL.CombatCastingPointConcept.Hyperlink}>>. [bullet/]Заклинатель сбрасывает перезарядки всех способностей.[/bulletlist]"
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@ABILITY3@UPGRADE@NAME"
+msgstr "Улучшенное раскалывание льда"
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@ABILITY3@UPGRADE@DESCRIPTION"
+msgstr "{GLOBAL.PROPERTIES.TEW_ICESHATTER_RENEWAL.Hyperlink} наносит на 50% больше урона целевому отряду с {GLOBAL.PROPERTIES.FROZEN.Hyperlink}."
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@PASSIVE@NAME"
+msgstr "Леденящая аура"
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@PASSIVE@DESCRIPTION"
+msgstr "В конце хода этого отряда соседние враги: [bulletlist][bullet/]С базовой вероятностью {SLOWED_RESISTANCE>ResolvedStrength}% получают {GLOBAL.PROPERTIES.SLOWED.Hyperlink}. [bullet/]С базовой вероятностью {SUNDERED_RESISTANCE_RESISTANCE>ResolvedStrength}% получают {GLOBAL.PROPERTIES.SUNDERED_RESISTANCE.Hyperlink}.[/bulletlist]"
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@PASSIVE2@NAME"
+msgstr "Присутствие зимы"
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@PASSIVE2@DESCRIPTION"
+msgstr "Пока этот отряд находится в бою, все союзные отряды получают: [bulletlist][bullet/]{GLOBAL.PROPERTIES.VM_TEW_PRESENCE_OF_WINTER_PROPERTY_GROUP.Hyperlink}[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "VM@TOME_ENDLESS_WINTER@UNIT@PASSIVE2@COMBAT_ENCHANTMENT@DESCRIPTION"
+msgstr "Отряды владельца эффекта получают: [bulletlist][bullet/]{GLOBAL.PROPERTIES.VM_TEW_PRESENCE_OF_WINTER_PROPERTY_GROUP.Hyperlink}[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "VM@TOME_ENDLESS_WINTER@PASSIVE@FROZEN_FURY@NAME"
+msgstr "Ярость мороза"
+
+msgid "VM@TOME_ENDLESS_WINTER@PASSIVE@FROZEN_FURY@DESCRIPTION"
+msgstr "Базовые атаки наносят на +{VM_TEW_FROZEN_FURY_DAMAGE_MULTIPLIER>ResolvedMultiplier}% больше урона против отрядов с {GLOBAL.PROPERTIES.FROZEN.Hyperlink} и {GLOBAL.PROPERTIES.SLOWED.Hyperlink}."
+

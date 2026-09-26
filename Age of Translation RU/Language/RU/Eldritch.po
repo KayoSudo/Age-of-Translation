@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Age of Translation RU 1.1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-09-27 00:00+0000\n"
+"Last-Translator: Age of Translation RU\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GNU gettext 0.23.1\n"
+
+
+msgid "MOD@ELDRITCH_TOME@TOME@NAME"
+msgstr "Книга потусторонних тайн"
+
+msgid "MOD@ELDRITCH_TOME@TOME@LORE_DESCRIPTION"
+msgstr "«Через потустороннее знание истончается завеса и отвечает Сумрачная Бездна, даруя власть над тенями и незримыми путями. Из этих глубин выходят сумрачные демоны, чтобы изводить и сокрушать врага; их присутствие подтачивает боевой дух и искажает ход битвы. Владеть этим знанием — значит превратить поле боя в царство ползучего ужаса, где рушится уверенность и незримое обретает власть»."
+
+msgid "MOD@ELDRITCH_TOME@TOME@LORE_AUTHOR"
+msgstr "Книга кристаллов"
+
+msgid "MOD@ELDRITCH_TOME@TOME@GAMEPLAY_DESCRIPTION"
+msgstr "Подчините магию Сумрачной Бездны, распространяйте {GLOBAL.GloomTerrainConcept.Hyperlink} и повелевайте обитающими там ужасными существами."
+
+msgid "MOD@ELDRITCH_TOME@SPI@NAME"
+msgstr "[conduit/] Сумрачное семя"
+
+msgid "MOD@ELDRITCH_TOME@SPI@DESCRIPTION"
+msgstr "[bulletlist][bullet/]При размещении меняет местность на мрак. [bullet/]+10 {GLOBAL.ManaConcept.Hyperlink}. [bullet/]За каждую соседнюю {GLOBAL.ProvinceConcept.Hyperlink} с {GLOBAL.GloomTerrainConcept.Hyperlink}: [bulletlist][bullet/]+2 {GLOBAL.ManaConcept.Hyperlink}. [bullet/]+2 {GLOBAL.KnowledgeConcept.Hyperlink}.[/bulletlist][bullet/]Позволяет нанимать различных сумрачных демонов <<m:{GLOBAL.UnitConcept.Hyperlink}>>. [bullet/]Считается {GLOBAL.ConduitConcept.Hyperlink}.[/bulletlist]"
+
+msgid "MOD@ELDRITCH_TOME@DEFENSE@DESCRIPTION"
+msgstr "Добавляет 4 <<m:{GLOBAL.UNITS.UMBRAL_RIFTTOWER.Hyperlink}>> в {GLOBAL.CombatConcept.Hyperlink} во время {GLOBAL.SiegeConcept.Hyperlink}."
+
+msgid "MOD@ELDRITCH_TOME@SKILL@NAME"
+msgstr "Создать плотников"
+
+msgid "MOD@ELDRITCH_TOME@SKILL@DESCRIPTION"
+msgstr "Поднимает трупы в радиусе 1 клетки как отряды {GLOBAL.UNITS.FLESHLING.Hyperlink}, погибающие в конце боя.[br/][br/]{LOC.TACTICAL@ABILITY@NEVER_IN_WATER}"
+

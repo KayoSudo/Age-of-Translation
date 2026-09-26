@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Age of Translation RU 1.1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-09-27 00:00+0000\n"
+"Last-Translator: Age of Translation RU\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GNU gettext 0.23.1\n"
+
+
+msgid "TOME@Crusader@NAME"
+msgstr "Книга крестоносца"
+
+msgid "TOME@Crusader@DESC"
+msgstr "Сокрушите всех врагов, привив своему народу идею священной миссии. Откройте новые способы использования {GLOBAL.PROPERTIES.SUPPORT_UNIT.Hyperlink} и {GLOBAL.SpiritDamageConcept.Name}."
+
+msgid "TOME@Crusader@AUTHOR@NAME"
+msgstr "Йохан Аарнес Магнус, XIV великий магистр Золотого Ордена"
+
+msgid "TOME@Crusader@AUTHOR@DESC"
+msgstr "«Не ведайте страха перед лицом врагов. Будьте храбры и праведны, дабы святые возлюбили вас. Всегда говорите правду, даже если она ведёт к смерти. Такова наша миссия»."
+
+msgid "TOME@Crusader@Skill1@Name"
+msgstr "Бронированный крестоносец"
+
+msgid "TOME@Crusader@Skill1@DESC"
+msgstr "{GLOBAL.PROPERTIES.SHIELD_UNIT.Hyperlink}, специализирующийся на удержании строя и {GLOBAL.SpiritDamageConcept.Name}."
+
+msgid "TOME@Crusader@Skill1@Unit@Skill"
+msgstr "Штурм крестоносца"
+
+msgid "TOME@Crusader@Skill1@Unit@Skill2@DESC"
+msgstr "Базовый шанс 120% наложить на целевой отряд {GLOBAL.PROPERTIES.STUNNED.Hyperlink}. После применения переходит в {GLOBAL.DefenseModeConcept.Hyperlink}."
+
+msgid "TOME@Crusader@Skill1@Unit@Skill@DESC"
+msgstr "Наделяет отряд святой силой: [bulletlist] [bullet/]Добавляет {GLOBAL.PROPERTIES.SMITE_OF_GOD.Hyperlink} всем {GLOBAL.PROPERTIES.SUPPORT_UNIT.Hyperlink}."
+
+msgid "TOME@Crusader@Skill1@Unit@Skill2"
+msgstr "Яростная преданность"
+
+msgid "TOME@Crusader@Skill1@Unit"
+msgstr "Бронированный крестоносец"
+
+msgid "TOME@Crusader@Skill2@Name"
+msgstr "Клятва победителя"
+
+msgid "TOME@Crusader@Skill2@SKILL@Name"
+msgstr "В нас горит пыл нашей миссии: [bulletlist] [bullet/]Этот отряд получает +2 {GLOBAL.FireDamageConcept.Hyperlink} ко всем атакам на 2 {GLOBAL.TurnConcept.Hyperlink}."
+
+msgid "TOME@Crusader@Skill2@DESC"
+msgstr "Выберите союзный отряд: [bulletlist][bullet/]На 3 хода он получает +20% урона против отрядов {GLOBAL.PROPERTIES.DRAGON.Hyperlink}, {GLOBAL.PROPERTIES.UNDEAD.Hyperlink}, {GLOBAL.PROPERTIES.FEY.Hyperlink}, {GLOBAL.PROPERTIES.FIEND.Hyperlink} и {GLOBAL.PROPERTIES.MAGIC_ORIGIN.Hyperlink}. [bullet/]Затем эффект применяется к соседним союзным отрядам и повторяется."
+
+msgid "TOME@Crusader@Skill3@Name"
+msgstr "+20% урона против отрядов {GLOBAL.PROPERTIES.DRAGON.Hyperlink}, {GLOBAL.PROPERTIES.UNDEAD.Hyperlink}, {GLOBAL.PROPERTIES.FEY.Hyperlink}, {GLOBAL.PROPERTIES.FIEND.Hyperlink} и {GLOBAL.PROPERTIES.MAGIC_ORIGIN.Hyperlink}."
+
+msgid "TOME@Crusader@Skill3@Skill@Name"
+msgstr "Выберите союзный отряд; на 2 хода: [bulletlist] [bullet/]Его базовые атаки получают +4 {GLOBAL.SpiritDamageConcept.Hyperlink}. [bullet/]Базовые атаки распространяются на клетку за целью и наносят там 30% исходного урона."
+
+msgid "TOME@Crusader@Skill3@Skill@DESC"
+msgstr "Меч света"
+
+msgid "TOME@Crusader@Skill3@Desc"
+msgstr "Пламя духа"
+
+msgid "TOME@Crusader@Skill2@Unit@Skill@DESC"
+msgstr "Чтобы исполнить священную миссию, все мы должны взяться за меч: [bulletlist] [bullet/]Добавляет {GLOBAL.PROPERTIES.MASTER_SUPPORT.Hyperlink} всем {GLOBAL.PROPERTIES.SUPPORT_UNIT.Hyperlink}."
+
+msgid "TOME@Crusader@Skill4@Name"
+msgstr "Нестихающий пыл"
+
+msgid "TOME@Crusader@Skill4@DESC"
+msgstr "Даже перед лицом неминуемой смерти наша миссия придаёт нам сил: [bulletlist] [bullet/]Штрафы к урону от {GLOBAL.CasualtyConcept.Hyperlink} уменьшаются вдвое. [bullet/]Когда {GLOBAL.HitPointConcept.Hyperlink} этого отряда опускаются до 40% или ниже, он получает +2 {GLOBAL.FireDamageConcept.Hyperlink} на 2 {GLOBAL.TurnConcept.Hyperlink}."
+
+msgid "TOME@Crusader@Skill5@Name"
+msgstr "Священная миссия"
+
+msgid "TOME@Crusader@Skill5@DESC"
+msgstr "Стреляет по линии длиной в 2 клетки."
+
+msgid "TOME@Crusader@Skill6@Name"
+msgstr "Боевые жрецы"
+
+msgid "TOME@Crusader@Skill6@DESC"
+msgstr "Этот отряд обучен сражаться мечом и верой. После применения способности поддержки: [bulletlist] [bullet/]Восстанавливает половину {GLOBAL.ActionPointConcept.Hyperlink}. [bullet/]Все способности {GLOBAL.SupportConcept.Hyperlink} отключаются на 1 ход."
+
+msgid "TOME@Crusader@Skill6@Group"
+msgstr "Боевой жрец"
+
+msgid "TOME@Crusader@DEBUFF@DESC"
+msgstr "Все способности поддержки заблокированы эффектом «Боевой жрец»."
+
+msgid "TOME@Crusader@DEBUFF@NAME"
+msgstr "Боевой жрец"
+
+msgid "TOME@Crusader@SPI@DESC"
+msgstr "[bulletlist] [bullet/]+2 {GLOBAL.ImperiumConcept.Hyperlink}. [bullet/]+2 {GLOBAL.ImperiumConcept.Hyperlink} за каждый уровень {GLOBAL.AlignmentConcept.Hyperlink}. [bullet/]+3 {GLOBAL.ManaConcept.Hyperlink} за каждую соседнюю {GLOBAL.FarmConcept.Hyperlink}. [bullet/]Считается {GLOBAL.ResearchPostConcept.Hyperlink}."
+
+msgid "TOME@Crusader@SPI@NAME"
+msgstr "[influence/] Святое место"
+
+msgid "TOME@Crusader@PANTHEON@NAME"
+msgstr "Вознесение: Защитник веры"
+
+msgid "TOME@Crusader@PANTHEON@NAME2"
+msgstr "Боевой жрец"
+
+msgid "TOME@Crusader@PANTHEON@NAME3"
+msgstr "Этот отряд обучен сражаться мечом и верой. После применения способности поддержки: [bulletlist] [bullet/]Восстанавливает половину {GLOBAL.ActionPointConcept.Hyperlink}. [bullet/]Все способности {GLOBAL.SupportConcept.Hyperlink} отключаются на 1 ход. [bullet/]Постоянно получает на 20% больше эффективности лечения от способностей {GLOBAL.SupportConcept.Hyperlink}."
+
+msgid "TOME@Crusader@PANTHEON@NAME4"
+msgstr "3"
+
+msgid "TOME@Crusader@PANTHEON@NAME5"
+msgstr "4"
+

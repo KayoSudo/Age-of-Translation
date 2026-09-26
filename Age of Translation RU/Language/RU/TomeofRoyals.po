@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Age of Translation RU 1.1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-09-27 00:00+0000\n"
+"Last-Translator: Age of Translation RU\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GNU gettext 0.23.1\n"
+
+
+msgid "TOME@ROYALS@NAME"
+msgstr "Книга правящей короны"
+
+msgid "TOME@ROYALS@DESC"
+msgstr "Раскройте истинный потенциал своей власти с помощью Железного правления и Божественного права; используйте мощь баронов и рыцарей, чтобы вершить волю истинного {GLOBAL.PROPERTIES.KING_OF_KINGS.Hyperlink}."
+
+msgid "TOME@ROYALS@AUTHOR@NAME"
+msgstr "Холден, новокоронованный король Островов"
+
+msgid "TOME@ROYALS@AUTHOR@DESC"
+msgstr "«Невежество едва ли необычно, леди Денвер. Чем дольше я живу, тем яснее понимаю: это естественное состояние человеческого разума. Многие пытаются бороться с его святостью, я же понимаю, что истинный путь к короне — использовать его»."
+
+msgid "TOME@ROYALS@Skill1@Name"
+msgstr "Пешие рыцари"
+
+msgid "TOME@ROYALS@Skill1@DESC"
+msgstr "{GLOBAL.PROPERTIES.SHOCK_UNIT.Hyperlink}, сокрушающий вражескую защиту своим молотом."
+
+msgid "TOME@ROYALS@Skill1@Unit@Skill"
+msgstr "Удар сверху"
+
+msgid "TOME@ROYALS@Skill1@Unit@Skill2@DESC"
+msgstr "Атака с разбега, пробивающая защиту врага."
+
+msgid "TOME@ROYALS@Skill1@Unit@Skill@DESC"
+msgstr "Защита ветерана"
+
+msgid "TOME@ROYALS@Skill1@Unit@Skill2"
+msgstr "2"
+
+msgid "TOME@ROYALS@Skill1@Unit"
+msgstr "Корона благословляет наши дела: [bulletlist] [bullet/]+4 {GLOBAL.FrostDamageConcept.Hyperlink} к базовым атакам. [bullet/]Базовые атаки распространяются на круг радиусом 1 клетка вокруг цели и наносят там 30% исходного урона. [bullet/]Получает {GLOBAL.PROPERTIES.DIVINE_RIGHT_BUFF_REBIRTH.Hyperlink}."
+
+msgid "TOME@ROYALS@Skill2@Name"
+msgstr "Когда этот отряд погибает: [bulletlist][bullet/]Враги в радиусе {REIGN_TERROR_ON_DEATH_TARGETER_CIRCLE>AREA>Radius} клеток получают -5 {GLOBAL.UnitMoraleConcept.Hyperlink}. [bullet/]{GLOBAL.PROPERTIES.HEAVYCROWNDEATH} передаётся другому вражескому отряду в пределах {REIGN_TERROR_ON_DEATH_TARGETER_JUMP>MaxDistance} клеток."
+
+msgid "TOME@ROYALS@Skill2@SKILL@Name"
+msgstr "Царство террора"
+
+msgid "TOME@ROYALS@Skill2@DESC"
+msgstr "Целевой вражеский отряд получает: [bulletlist][bullet/]{GLOBAL.PROPERTIES.HEAVYCROWNDEATH}. [bullet/]2 {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}. [bullet/]2 {GLOBAL.PROPERTIES.SUNDERED_RESISTANCE.Hyperlink}."
+
+msgid "TOME@ROYALS@Skill3@Name"
+msgstr "Железное правление"
+
+msgid "TOME@ROYALS@Skill3@Skill@Name"
+msgstr "Даруйте королевскую власть целевому {GLOBAL.CityConcept.Hyperlink}: [bulletlist][bullet/]Он игнорирует экономические штрафы от отрицательных уровней {GLOBAL.CityStabilityConcept.Hyperlink}. [bullet/]Предотвращает отделение провинций из-за низкой {GLOBAL.CityStabilityConcept.Hyperlink}. [bullet/]+5 {GLOBAL.GoldConcept.Hyperlink} и +5 {GLOBAL.UnitProductionConcept.Hyperlink} за каждый уровень {GLOBAL.CityStabilityConcept.Hyperlink} выше нейтрального."
+
+msgid "TOME@ROYALS@Skill3@Skill@DESC"
+msgstr "[influence/] Баронство"
+
+msgid "TOME@ROYALS@Skill3@Desc"
+msgstr "[bulletlist] [bullet/]+5 {GLOBAL.FortificationHealthConcept.Hyperlink}. [bullet/]+10 {GLOBAL.UnitProductionConcept.Hyperlink}. [bullet/]+2 {GLOBAL.ImperiumConcept.Hyperlink} за каждую соседнюю {GLOBAL.FarmConcept.Hyperlink}. [bullet/]-5 {GLOBAL.CityStabilityConcept.Hyperlink}. [bullet/]Считается {GLOBAL.FarmConcept.Hyperlink}."
+
+msgid "TOME@ROYALS@Skill2@Unit@Skill@DESC"
+msgstr "Благородный эшелон"
+
+msgid "TOME@ROYALS@Skill4@Name"
+msgstr "Используйте мощь элиты в обычной армии: зачарованные отряды получают [bulletlist] [bullet/]+10 {GLOBAL.HitPointConcept.Hyperlink}. [bullet/]+1 {GLOBAL.DefenseConcept.Hyperlink}."
+
+msgid "TOME@ROYALS@Skill4@DESC"
+msgstr "Божественное право"
+
+msgid "TOME@ROYALS@Skill5@Name"
+msgstr "Лидер фракции получает {GLOBAL.PROPERTIES.DIVINEWILL.Hyperlink} — бесплатную активную способность, дарующую {GLOBAL.FrostDamageConcept.Hyperlink} и {GLOBAL.PROPERTIES.DIVINE_RIGHT_BUFF_REBIRTH.Hyperlink} усиленному отряду."
+
+msgid "TOME@ROYALS@Skill5@DESC"
+msgstr "Даровать королевскую власть"
+
+msgid "TOME@ROYALS@Skill6@Name"
+msgstr "Целевой союзный отряд получает до конца боя: [bulletlist] [bullet/]+4 {GLOBAL.FrostDamageConcept.Hyperlink} к базовым атакам. [bullet/]Базовые атаки распространяются на круг радиусом 1 клетка вокруг цели и наносят там 30% исходного урона. [bullet/]Получает {GLOBAL.PROPERTIES.DIVINE_RIGHT_BUFF_REBIRTH.Hyperlink}."
+
+msgid "TOME@ROYALS@Skill6@DESC"
+msgstr "Королевская власть"
+
+msgid "TOME@ROYALS@Skill6@Group"
+msgstr "Отряд воскреснет через 1 {GLOBAL.TurnConcept.Hyperlink} после гибели со 100% {GLOBAL.HitPointConcept.Hyperlink}."
+
+msgid "TOME@ROYALS@PANTHEON@NAME"
+msgstr "Вознесение: Король королей"
+
+msgid "TOME@ROYALS@PANTHEON@NAME2"
+msgstr "Король королей"
+
+msgid "TOME@ROYALS@PANTHEON@NAME3"
+msgstr "Признанный людьми или богами истинным правителем всего золотого, он получает: [bulletlist] [bullet/]+1 к пределу {GLOBAL.CityConcept.Hyperlink}. [bullet/]+15 {GLOBAL.ImperiumConcept.Hyperlink} за ход."
+
+msgid "TOME@ROYALS@PANTHEON@NAME4"
+msgstr "Описание 7"
+
+msgid "TOME@ROYALS@PANTHEON@NAME5"
+msgstr "Описание 8"
+

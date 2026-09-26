@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Age of Translation RU 1.1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-09-27 00:00+0000\n"
+"Last-Translator: Age of Translation RU\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GNU gettext 0.23.1\n"
+
+
+msgid "TOME@MOUNTS@NAME"
+msgstr "Книга свободы"
+
+msgid "TOME@MOUNTS@DESC"
+msgstr "Превратите народ в непревзойдённых всадников. Том посвящён мобильной тактике с {GLOBAL.PROPERTIES.SCOUT_UNIT.Hyperlink} и {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink}."
+
+msgid "TOME@MOUNTS@AUTHOR@NAME"
+msgstr "Имани Балева, потомок древних азраков"
+
+msgid "TOME@MOUNTS@AUTHOR@DESC"
+msgstr "«Как трудно точно сказать, когда закончилось лето и полностью вступила в свои права осень, так и моё путешествие не завершилось разом в одном месте. Напротив, было много окончаний, а затем — много новых начал»."
+
+msgid "TOME@MOUNTS@Skill1@Name"
+msgstr "Степной всадник"
+
+msgid "TOME@MOUNTS@Skill1@DESC"
+msgstr "{GLOBAL.PROPERTIES.SCOUT_UNIT.Hyperlink}, специализирующийся на командовании другими кавалерийскими отрядами."
+
+msgid "TOME@MOUNTS@Skill1@Unit@Skill"
+msgstr "Кочевая смекалка II"
+
+msgid "TOME@MOUNTS@Skill1@Unit@Skill2@DESC"
+msgstr "Этот отряд повышает эффективность всей кавалерии в своей армии: [bulletlist] [bullet/]+15% уклонения. [bullet/]+15% дополнительного урона против {GLOBAL.PROPERTIES.RANGED_UNIT.Hyperlink} и {GLOBAL.PROPERTIES.BATTLE_MAGE.Hyperlink}."
+
+msgid "TOME@MOUNTS@Skill1@Unit@Skill@DESC"
+msgstr "Этот отряд — мастер застрельщиков, особенно хорош в бою против дальних отрядов."
+
+msgid "TOME@MOUNTS@Skill1@Unit@Skill2"
+msgstr "Воин степей"
+
+msgid "TOME@MOUNTS@Skill1@Unit"
+msgstr "Введение"
+
+msgid "TOME@MOUNTS@Skill2@Name"
+msgstr "Породистые скакуны"
+
+msgid "TOME@MOUNTS@Skill2@SKILL@Name"
+msgstr "Ветреный натиск"
+
+msgid "TOME@MOUNTS@Skill2@DESC"
+msgstr "Используя превосходных скакунов, наши всадники могут совершать атаки, не оставляющие врагу возможности ответить: [bulletlist][bullet/]Добавляет {GLOBAL.PROPERTIES.THOROUGHBRED_MOUNTS_CHARGE.Hyperlink} всем {GLOBAL.PROPERTIES.CAVALRY_GROUP.Hyperlink}."
+
+msgid "TOME@MOUNTS@Skill3@Name"
+msgstr "Стойкий народ"
+
+msgid "TOME@MOUNTS@Skill3@Skill@Name"
+msgstr "Стойкий народ"
+
+msgid "TOME@MOUNTS@Skill3@Skill@DESC"
+msgstr "За моей спиной дует лишь ветер. [bulletlist][bullet/]+1 {GLOBAL.StatusResistanceConcept.Hyperlink}. [bullet/]+5 {GLOBAL.HitPointConcept.Hyperlink}."
+
+msgid "TOME@MOUNTS@Skill3@Desc"
+msgstr "Культура вашего народа выросла из кочевников и странников, что сделало его исключительно стойким: [bulletlist] [bullet/]+1 {GLOBAL.StatusResistanceConcept.Hyperlink}. [bullet/]+5 {GLOBAL.HitPointConcept.Hyperlink}."
+
+msgid "TOME@MOUNTS@Skill2@Unit@Skill@DESC"
+msgstr "Неситесь со скоростью ветра; после попадания: [bulletlist] [bullet/]Восстанавливает все 3 {GLOBAL.ActionPointConcept.Hyperlink}. [bullet/]Все атакующие умения отключаются на 1 ход. [bullet/]Все {GLOBAL.DefenseModeConcept.Hyperlink} отключаются на 1 ход."
+
+msgid "TOME@MOUNTS@Skill4@Name"
+msgstr "Летящий клин"
+
+msgid "TOME@MOUNTS@Skill4@DESC"
+msgstr "Союзные отряды в радиусе 1 клетки на 1 ход получают: [bulletlist] [bullet/]Добавляет «Сместить и заменить» всем атакам {GLOBAL.ChargeConcept.Hyperlink}. [bullet/]Получают {GLOBAL.PROPERTIES.HASTENED.Hyperlink}."
+
+msgid "TOME@MOUNTS@Skill5@Name"
+msgstr "Присягнувшие свободе"
+
+msgid "TOME@MOUNTS@Skill5@DESC"
+msgstr "Привлеките свободные племена в границах владений в свиту {GLOBAL.PROPERTIES.SCOUT_UNIT.Hyperlink}; конные разведчики получают: [bulletlist] [bullet/]Обычный {GLOBAL.MeleeConcept.Hyperlink}. [bullet/]+4 {GLOBAL.RangedConcept.Hyperlink} {GLOBAL.PhysicalDamageConcept.Hyperlink}."
+
+msgid "TOME@MOUNTS@Skill6@Name"
+msgstr "Ветры, за мной!"
+
+msgid "TOME@MOUNTS@Skill6@DESC"
+msgstr "Соберите всю мощь Великого неба и устремитесь в {GLOBAL.ChargeConcept.Hyperlink}: [bulletlist] [bullet/]Наносит урон в радиусе 1 клетки. [bullet/]Смещает все отряды вокруг цели."
+
+msgid "TOME@MOUNTS@Skill6@Group"
+msgstr "Группа героев тома свободы"
+
+msgid "TOME@MOUNTS@DEBUFF@DESC"
+msgstr "Все атаки и {GLOBAL.DefenseModeConcept.Hyperlink} заблокированы эффектом «Ветреный натиск»."
+
+msgid "TOME@MOUNTS@DEBUFF@NAME"
+msgstr "Быстрее ветра"
+
+msgid "TOME@MOUNTS@SPI@DESC"
+msgstr "[bulletlist] [bullet/]+10 {GLOBAL.UnitProductionConcept.Hyperlink}. [bullet/]+5 {GLOBAL.UnitProductionConcept.Hyperlink}, если размещено на снегу, в пустыне или пепелищах. [bullet/]+4 {GLOBAL.KnowledgeConcept.Hyperlink} за каждую соседнюю {GLOBAL.HutConcept.Hyperlink}. [bullet/]Считается {GLOBAL.ResearchPostConcept.Hyperlink}."
+
+msgid "TOME@MOUNTS@SPI@NAME"
+msgstr "[unitprod/] Собрание кочевников"
+
+msgid "TOME@MONT@PANTHEON@NAME"
+msgstr "Вознесение: Чемпион небес"
+
+msgid "TOME@MONT@PANTHEON@NAME2"
+msgstr "1"
+
+msgid "TOME@MONT@PANTHEON@NAME3"
+msgstr "2"
+
+msgid "TOME@MONT@PANTHEON@NAME4"
+msgstr "3"
+
+msgid "TOME@MONT@PANTHEON@NAME5"
+msgstr "4"
+

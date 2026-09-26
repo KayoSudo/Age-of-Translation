@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Age of Translation RU 1.1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-09-27 00:00+0000\n"
+"Last-Translator: Age of Translation RU\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GNU gettext 0.23.1\n"
+
+
+msgid "TOME@SILVER@NAME"
+msgstr "Книга алой монеты"
+
+msgid "TOME@SILVER@DESC"
+msgstr "Подпитайте зарождающуюся торговую империю новыми предприятиями, приносящими {GLOBAL.PROPERTIES.FORTUNE.Hyperlink} и {GLOBAL.CityStabilityConcept.Hyperlink}; тратьте обретённое богатство на могучих наёмников и особые заклинания за {GLOBAL.GoldConcept.Hyperlink}."
+
+msgid "TOME@SILVER@AUTHOR@NAME"
+msgstr "Сахира Великолепная"
+
+msgid "TOME@SILVER@AUTHOR@DESC"
+msgstr "«Следовать по Алой дороге — значит следовать за призраком. Она течёт через сердце нашего мира, но официально исчезла, оставив после себя следы беспокойства: поддельные границы, ненанесённые на карту народы. Дорога разветвляется и блуждает там, где бы вы ни были. Это не один путь, а множество путей: сеть выборов»."
+
+msgid "TOME@SILVER@Skill1@Name"
+msgstr "Багровые ищейки"
+
+msgid "TOME@SILVER@Skill1@DESC"
+msgstr "{GLOBAL.PROPERTIES.FIGHTER.Hyperlink}, специализирующийся на высокой мобильности и кровотечении."
+
+msgid "TOME@SILVER@Skill1@Unit@Skill"
+msgstr "Вкус крови"
+
+msgid "TOME@SILVER@Skill1@Unit@Skill2@DESC"
+msgstr "Совершает свирепый укус по вражескому отряду с {GLOBAL.PROPERTIES.BLEEDING.Hyperlink}; при успехе сбрасывает все перезарядки."
+
+msgid "TOME@SILVER@Skill1@Unit@Skill@DESC"
+msgstr "[Mine/] Караван-сарай"
+
+msgid "TOME@SILVER@Skill1@Unit@Skill2"
+msgstr "[bulletlist][bullet/]+15 {GLOBAL.GoldConcept.Hyperlink}. [bullet/]Открывает производство {GLOBAL.UNITS.VARANGIAN_RANGED.Hyperlink} — могучего наёмника с характеристиками выше обычных для его ранга. [bullet/]Считается {GLOBAL.MineConcept.Hyperlink}."
+
+msgid "TOME@SILVER@Skill1@Unit"
+msgstr "Топорщик-гази"
+
+msgid "TOME@SILVER@Skill2@Name"
+msgstr "Развернуть винтовку"
+
+msgid "TOME@SILVER@Skill2@SKILL@Name"
+msgstr "Развернуть топор"
+
+msgid "TOME@SILVER@Skill2@DESC"
+msgstr "Развернуть топор (обратно)"
+
+msgid "TOME@SILVER@Skill3@Name"
+msgstr "Развернуть винтовку (обратно)"
+
+msgid "TOME@SILVER@Skill3@Skill@Name"
+msgstr "Алая дорога"
+
+msgid "TOME@SILVER@Skill3@Skill@DESC"
+msgstr "Откройте новое торговое предприятие в целевом союзном или независимом городе: [bulletlist][bullet/]+15 {GLOBAL.FoodConcept.Hyperlink} и +15 {GLOBAL.StructureProductionConcept.Hyperlink} в ход целевому городу. [bullet/]+2 {GLOBAL.GoldConcept.Hyperlink} в ход за каждую активную операцию."
+
+msgid "TOME@SILVER@Skill3@Desc"
+msgstr "Отблеск золота"
+
+msgid "TOME@SILVER@Skill2@Unit@Skill@DESC"
+msgstr "Покажите целевому отряду обещание несметных богатств; оно перескакивает ещё на 2 цели: [bulletlist] [bullet/]Союзные отряды получают 3 {GLOBAL.PROPERTIES.FORTUNE.Hyperlink} и +15 {GLOBAL.UnitMoraleConcept.Hyperlink}. [bullet/]Вражеские отряды получают {GLOBAL.PROPERTIES.DISTRACTED.Hyperlink} и -15 {GLOBAL.UnitMoraleConcept.Hyperlink}."
+
+msgid "TOME@SILVER@Skill4@Name"
+msgstr "Перечные ямы"
+
+msgid "TOME@SILVER@Skill4@DESC"
+msgstr "«Подходите, подходите, взгляните на многие чудеса этого мира». [bulletlist] [bullet/] +20 {GLOBAL.CityStabilityConcept.Hyperlink}. [bullet/]+1 {GLOBAL.GoldConcept.Hyperlink} за каждого {GLOBAL.PopulationConcept.Hyperlink} в принадлежащем городе."
+
+msgid "TOME@SILVER@Skill5@Name"
+msgstr "Привозные металлы"
+
+msgid "TOME@SILVER@Skill5@DESC"
+msgstr "Вложитесь в процветающую кузнечную отрасль; союзные отряды получают: [bulletlist][bullet/]+2 {GLOBAL.PhysicalDamageConcept.Hyperlink}. [bullet/]+1 {GLOBAL.DefenseConcept.Hyperlink}. [/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "TOME@SILVER@Skill6@Name"
+msgstr "Инвестиционный пузырь"
+
+msgid "TOME@SILVER@Skill6@DESC"
+msgstr "Через 1 ход отряды в радиусе 1 клетки: [bulletlist][bullet/]Получают 3 {GLOBAL.PROPERTIES.FORTUNE.Hyperlink}, если союзны. [bullet/]Получают 24 {GLOBAL.PhysicalDamageConcept.Hyperlink} и 2 {GLOBAL.PROPERTIES.BLEEDING.Hyperlink}, если враждебны."
+
+msgid "TOME@SILVER@Skill6@Group"
+msgstr "Откройте новое торговое предприятие в целевом союзном или независимом городе: [bulletlist][bullet/]+15 {GLOBAL.FoodConcept.Hyperlink} и +15 {GLOBAL.StructureProductionConcept.Hyperlink} в ход целевому городу. [bullet/]+2 {GLOBAL.GoldConcept.Hyperlink} в ход за каждую активную операцию."
+
+msgid "TOME@SILVER@PANTHEON@NAME"
+msgstr "Вознесение: Алая мантия"
+
+msgid "TOME@SILVER@PANTHEON@NAME2"
+msgstr "Алая мантия"
+
+msgid "TOME@SILVER@PANTHEON@NAME3"
+msgstr "Позолоченная столица"
+
+msgid "TOME@SILVER@PANTHEON@NAME4"
+msgstr "Я нашёл его городом кирпича, а оставил городом чудес. [bulletlist][bullet/]+5 {GLOBAL.CityStabilityConcept.Hyperlink} за каждого {GLOBAL.PopulationConcept.Hyperlink} в управляемом {GLOBAL.CityConcept.Hyperlink}. [bullet/]+25 {GLOBAL.GoldConcept.Hyperlink} за каждый уровень {GLOBAL.RenownConcept.Hyperlink}."
+
+msgid "TOME@SILVER@PANTHEON@NAME5"
+msgstr "2"
+
+msgid "TOME@SILVER@EXTRA@NAME"
+msgstr "Превращает отряд в {GLOBAL.UNITS.VARANGIAN_AXE.Hyperlink}."
+
+msgid "TOME@SILVER@EXTRA@NAME2"
+msgstr "Превращает отряд в {GLOBAL.UNITS.VARANGIAN_RANGED.Hyperlink}."
+
+msgid "TOME@SILVER@EXTRA@NAME3"
+msgstr "Стрелок-гази"
+
+msgid "TOME@SILVER@EXTRA@NAME4"
+msgstr "Откройте новое торговое предприятие в целевом союзном или независимом городе: [bulletlist][bullet/]+15 {GLOBAL.FoodConcept.Hyperlink} и +15 {GLOBAL.StructureProductionConcept.Hyperlink} в ход целевому городу. [bullet/]+2 {GLOBAL.GoldConcept.Hyperlink} в ход за каждую активную операцию."
+
+msgid "TOME@SILVER@EXTRA@NAME5"
+msgstr "Наносит дополнительные 12 {GLOBAL.PhysicalDamageConcept.Hyperlink} в радиусе 1 клетки."
+
+msgid "TOME@SILVER@EXTRA@NAME6"
+msgstr "Алая дорога"
+
+msgid "TOME@SILVER@EXTRA@NAME7"
+msgstr "Алая дорога"
+

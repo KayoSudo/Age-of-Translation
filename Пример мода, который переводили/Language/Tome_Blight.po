@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.1\n"
+
+msgid "[IDNAME]"
+msgstr ""
+
+msgid "TOME_BLIGHT@TOME@NAME"
+msgstr "Tome of Blight"
+
+msgid "TOME_BLIGHT@TOME@DESCRIPTION"
+msgstr ""
+"Unleash the virulent power of blight. Specialize in inflicting [hyperlink,"
+"GLOBAL.PROPERTIES.DISEASED]Disease[/hyperlink] and exploiting Diseased "
+"enemies."
+
+msgid "TOME_BLIGHT@BLIGHT_DOCTOR@NAME"
+msgstr "Blight Doctor"
+
+#, fuzzy
+msgid "TOME_BLIGHT@BLIGHT_DOCTOR@DESCRIPTION"
+msgstr "need to add Blight Doctor description"
+
+#, fuzzy
+msgid "TOME_BLIGHT@BLIGHT_SPORES@NAME"
+msgstr "Blight Scourge"
+
+#, fuzzy
+msgid "TOME_BLIGHT@BLIGHT_SPORES@DESCRIPTION"
+msgstr ""
+"Deals damage in a 1-hex radius.[bulletlist][bullet/]Inflict 3 {GLOBAL."
+"PROPERTIES.WEAKENED} if the target is {GLOBAL.PROPERTIES.DISEASED} or "
+"{GLOBAL.PROPERTIES.DECAYING}.[bullet/]Base 90% chance of inflicting Diseased "
+"if the target is not Diseased."
+
+msgid "TOME_BLIGHT@SKILL_01@NAME"
+msgstr "Contagion"
+
+msgid "TOME_BLIGHT@SKILL_01@DESCRIPTION"
+msgstr ""
+"Target a {GLOBAL.PROPERTIES.DISEASED} enemy unit. All adjacent enemy units:"
+"[bulletlist][bullet/]Suffer {GLOBAL.PROPERTIES.WEAKENED} per stack of "
+"Weakened on the target.[bullet/]Suffer {GLOBAL.PROPERTIES.POISONED} per "
+"stack of Poisoned on the target.[bullet/]Suffer {GLOBAL.PROPERTIES.DECAYING} "
+"per stack of Decaying on the target.[bullet/]This effect then spreads "
+"through all adjacent units and is repeated, applying the effect to enemy "
+"units it spreads to."
+
+msgid "TOME_BLIGHT@SKILL_02@NAME"
+msgstr "Unraveling"
+
+msgid "TOME_BLIGHT@SKILL_02@DESCRIPTION"
+msgstr ""
+"Target enemy {GLOBAL.PROPERTIES.UNDEAD.Hyperlink}, {GLOBAL.PROPERTIES."
+"CONSTRUCT.Hyperlink} or {GLOBAL.PROPERTIES.ETHEREAL.Hyperlink} unit:"
+"[bulletlist][bullet/]Suffers 2 {GLOBAL.PROPERTIES.DECAYING.Hyperlink}"
+"[bullet/]Suffers 4 {GLOBAL.PROPERTIES.SUNDERED_RESISTANCE.Hyperlink}."
+"[bullet/]This effect then spreads through all adjacent units and is "
+"repeated, applying the effect to enemy Undead, Construct and Ethereal units "
+"it spreads to."
+
+msgid "TOME_BLIGHT@SKILL_03@NAME"
+msgstr "Brew Plague"
+
+msgid "TOME_BLIGHT@SKILL_03@DESCRIPTION"
+msgstr ""
+"At the start of combat, units defending the city:[bulletlist][bullet/]Have "
+"base 90% chance to suffer {GLOBAL.PROPERTIES.DISEASED}.[bullet/]Have base "
+"90% chance to suffer {GLOBAL.PROPERTIES.DECAYING}."
+
+msgid "TOME_BLIGHT@SKILL_04@NAME"
+msgstr "Disease Vectors"
+
+msgid "TOME_BLIGHT@SKILL_04@DESCRIPTION"
+msgstr ""
+"Makes base attacks of enchanted units:[bulletlist][bullet/]Gain base 60% "
+"chance of inflicting {GLOBAL.PROPERTIES.DISEASED}.[/bulletlist]\n"
+"Effects [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]are increased[/"
+"hyperlink] for Single-Shot attacks."
+
+msgid "TOME_BLIGHT@SKILL_05@NAME"
+msgstr "Blight Doctor"
+
+msgid "TOME_BLIGHT@SKILL_05@DESCRIPTION"
+msgstr ""
+"Grants access to a {GLOBAL.PROPERTIES.BATTLE_MAGE.Hyperlink} that can "
+"inflict [hyperlink,GLOBAL.PROPERTIES.DISEASED]Disease[/hyperlink] and "
+"devastate Diseased enemies."
+
+msgid "TOME_BLIGHT@SKILL_05@ATTACK@NAME"
+msgstr "Plague Bolts"
+
+msgid "TOME_BLIGHT@SKILL_05@ATTACK@DESCRIPTION"
+msgstr ""
+"Unleashes a magical bolt at target enemy.[bulletlist][bullet/]Deal "
+"{PLAGUE_BOLT_JUMP_DAMAGE>DAMAGE>Blight} {GLOBAL.BlightDamageConcept."
+"Hyperlink} and base {DISEASE_RESISTANCE>ResolvedStrength}% chance to inflict "
+"{GLOBAL.PROPERTIES.DISEASED} to up to {PLAGUE_BOLT_JUMP_TARGETER>MaxJumps} "
+"other enemy units within {PLAGUE_BOLT_JUMP_TARGETER>MaxDistance} hexes."
+
+msgid "TOME_BLIGHT@SKILL_05@ABILITY@NAME"
+msgstr "Pestilence"
+
+msgid "TOME_BLIGHT@SKILL_05@ABILITY@DESCRIPTION"
+msgstr ""
+"Deals damage in a 1-hex radius.[bulletlist][bullet/]Inflicts double damage "
+"and an additional stack of {GLOBAL.PROPERTIES.WEAKENED} and {GLOBAL."
+"PROPERTIES.POISONED} if the target is {GLOBAL.PROPERTIES.DISEASED} or "
+"{GLOBAL.PROPERTIES.DECAYING}."
+
+msgid "TOME_BLIGHT@SKILL_05@ABILITY@NAME_MASTER"
+msgstr "Champion Pestilence"
+
+msgid "TOME_BLIGHT@SKILL_05@ABILITY@DESCRIPTION_MASTER"
+msgstr ""
+"Pestilence:[bulletlist][bullet/]Also targets units in a 2-hex radius, with "
+"50% reduced damage.[/bulletlist]"
+
+msgid "TOME_BLIGHT@SKILL_05@ABILITY@DESCRIPTION_2"
+msgstr ""
+"[bulletlist][bullet/]Inflicts double damage and an additional stack of "
+"{GLOBAL.PROPERTIES.WEAKENED} and {GLOBAL.PROPERTIES.POISONED} if the target "
+"is {GLOBAL.PROPERTIES.DISEASED} or {GLOBAL.PROPERTIES.DECAYING}."
+"[bullet/]Also targets units in a 2-hex radius, with 50% reduced damage.[/"
+"bulletlist]"
+
+msgid "TOME_BLIGHT@SKILL_05@ABILITY_02@NAME"
+msgstr "Blight Extraction"
+
+msgid "TOME_BLIGHT@SKILL_05@ABILITY_02@DESCRIPTION"
+msgstr ""
+"Target {GLOBAL.PROPERTIES.DISEASED} or {GLOBAL.PROPERTIES.DECAYING} friendly "
+"unit:[bulletlist][bullet/]Has its <<m:{GLOBAL.NegativeStatusEffectConcept."
+"Hyperlink}>> removed.[/bulletlist]\n"
+"The caster gains:[bulletlist][bullet/]2 {GLOBAL.PROPERTIES.STRENGTHENED} for "
+"{STRENGTHENED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
+
+msgid "TOME_BLIGHT@SKILL_05@ABILITY_02@NAME_MASTER"
+msgstr "Champion Plague Bolts"
+
+msgid "TOME_BLIGHT@SKILL_05@ABILITY_02@DESCRIPTION_MASTER"
+msgstr ""
+"Unleashes a magical bolt at target enemy.[bulletlist][bullet/]Deal "
+"{PLAGUE_BOLT_MASTER_JUMP_DAMAGE>DAMAGE>Blight} {GLOBAL.BlightDamageConcept."
+"Hyperlink} and base {DISEASE_RESISTANCE>ResolvedStrength}% chance to inflict "
+"{GLOBAL.PROPERTIES.DISEASED} to up to "
+"{PLAGUE_BOLT_MASTER_JUMP_TARGETER>MaxJumps} other enemy units within "
+"{PLAGUE_BOLT_MASTER_JUMP_TARGETER>MaxDistance} hexes."
+
+msgid "TOME_BLIGHT@SKILL_05@ABILITY_02@DESCRIPTION_MASTER_UPGRADE"
+msgstr ""
+"Plague Bolts:[bulletlist][bullet/]Always inflicts {GLOBAL.PROPERTIES."
+"DISEASED} to the primary target.[bullet/]Deal "
+"{PLAGUE_BOLT_MASTER_JUMP_DAMAGE>DAMAGE>Blight} {GLOBAL.BlightDamageConcept."
+"Hyperlink} and base {DISEASE_RESISTANCE>ResolvedStrength}% chance to inflict "
+"Diseased to up to {PLAGUE_BOLT_MASTER_JUMP_TARGETER>MaxJumps} other enemy "
+"units within {PLAGUE_BOLT_MASTER_JUMP_TARGETER>MaxDistance} hexes."
+
+msgid "TOME_BLIGHT@SKILL_06@NAME"
+msgstr "placeholder 6"
+
+msgid "TOME_BLIGHT@SKILL_06@DESCRIPTION"
+msgstr "placeholder 6"
+
+msgid "TOME_BLIGHT@SPECIAL_PROVINCE_IMPROVEMENT@NAME"
+msgstr "[researchpost/] Fungal Grove"
+
+msgid "TOME_BLIGHT@SPECIAL_PROVINCE_IMPROVEMENT@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/] +20 {GLOBAL.FoodConcept.Hyperlink}.[bullet/] +4 "
+"{GLOBAL.KnowledgeConcept.Hyperlink} and -4 {GLOBAL.FoodConcept.Hyperlink} "
+"per adjacent {GLOBAL.ProvinceImprovementConcept.Hyperlink}.[bullet/] Spawns "
+"2 {GLOBAL.PROPERTIES.DISEASED} {GLOBAL.UNITS.ENTWINED_THRALL_UNIT.Hyperlink} "
+"on the owner's side for {GLOBAL.CombatConcept.Hyperlink} in this {GLOBAL."
+"DomainConcept.Hyperlink}.[/bulletlist] [bullet/]Counts as a {GLOBAL."
+"ResearchPostConcept.Hyperlink}."
+
+msgid "TOME_BLIGHT@HERO_SKILL@NAME"
+msgstr "Plague Herald"
+
+msgid "TOME_BLIGHT@HERO_SKILL@DESCRIPTION"
+msgstr ""
+"Base attacks gain:[bulletlist][bullet/]+{PLAGUE_HERALD_DAMAGE>DAMAGE>Blight} "
+"{GLOBAL.BlightDamageConcept.Hyperlink}.[bullet/]Gain base 60% chance of "
+"inflicting {GLOBAL.PROPERTIES.DISEASED}.[/bulletlist]\n"
+"Hero starts combat permanently Diseased, spreading it to nearby units."
+
+msgid "TOME_BLIGHT@TOME@LORE_DESCRIPTION"
+msgstr ""
+"\"The villagers pray to the Shrine, as the newcomers have taught us. Still, "
+"the rotted trees with leafless branches bloated with tumors continue to "
+"spread. The animals have changed, as if the whole world is poisonous. My "
+"father died yesterday. He was hunting giant boar. The animal they tracked "
+"was infected. He weakened immediately; his flesh turned rancid. I pleaded at "
+"the Shrine, but no healing came.\""
+
+msgid "TOME_BLIGHT@TOME@LORE_AUTHOR"
+msgstr "Petition to Commonwealth, Josua Hearts, Refugee"
+
+msgid "TOME_BLIGHT@SKILL_01@STATUS_NAME"
+msgstr ""
+
+#, fuzzy
+msgid "TOME_BLIGHT@SKILL_01@SUMMON_NAME"
+msgstr "Blight Boil"

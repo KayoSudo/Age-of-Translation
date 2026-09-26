@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Age of Translation RU 1.1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-09-27 00:00+0000\n"
+"Last-Translator: Age of Translation RU\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GNU gettext 0.23.1\n"
+
+
+msgid "TOME@STORMSIREN@UURB@ONE@NAME"
+msgstr "Штормовой плащ"
+
+msgid "TOME@STORMSIREN@UURB@ONE@DESC"
+msgstr "+4 сопротивления молнии и имеет {GLOBAL.PROPERTIES.STATIC_CHARGE.Hyperlink}."
+
+msgid "TOME@STORMSIREN@UURB@TWO@NAME"
+msgstr "Наполненный бурей"
+
+msgid "TOME@STORMSIREN@UURB@TWO@DESC"
+msgstr "Ваши базовые магические атаки теперь цепляются за другую вражескую цель в пределах 3 гексов."
+
+msgid "TOME@UNDINE@UURB@ONE@NAME"
+msgstr "Любящие объятия моря"
+
+msgid "TOME@UNDINE@UURB@ONE@DESC"
+msgstr "Ваши базовые атаки увеличивают соседние дружественные отряды на 6 {GLOBAL.TemporaryHitPointConcept.Hyperlink}."
+
+msgid "TOME@UNDINE@UURB@TWO@NAME"
+msgstr "Защита моря"
+
+msgid "TOME@UNDINE@UURB@TWO@DESC"
+msgstr "Этот отряд получает {GLOBAL.PROPERTIES.SUPPORT_BOLSTERED_DEFENSE_ABILITY_MODIFIER.Hyperlink} и {GLOBAL.PROPERTIES.SUPPORT_BOLSTERED_RESISTANCE_ABILITY_MODIFIER.Hyperlink}."
+
+msgid "TOME@SHOCKSHELL@UURB@TWO@NAME"
+msgstr "Самоподдерживающаяся оболочка"
+
+msgid "TOME@SHOCKSHELL@UURB@TWO@DESC"
+msgstr "В начале и в конце хода этого отряда удалите все стопки {GLOBAL.PROPERTIES.SUNDERED_DEFENSE_DEFENSE.Hyperlink}."
+
+msgid "TOME@BEHEMOTH@UURB@ONE@NAME"
+msgstr "Большее запугивание"
+
+msgid "TOME@BEHEMOTH@UURB@ONE@DESC"
+msgstr "Получите 2 стека {GLOBAL.SKILLS.KNIGHT_TYRANT_DEMORALIZING_AURA.Hyperlink}."
+
+msgid "TOME@BEHEMOTH@UURB@TWO@NAME"
+msgstr "Монарх моря"
+
+msgid "TOME@BEHEMOTH@UURB@TWO@DESC"
+msgstr "Имеет {GLOBAL.PROPERTIES.VERY_FAST_MOVEMENT.Hyperlink} и {GLOBAL.PROPERTIES.BOLSTERING_REGENERATION.Hyperlink}."
+
+msgid "TOME@FLYINGNIMU@UURB@ONE@NAME"
+msgstr "Забота Ниму"
+
+msgid "TOME@FLYINGNIMU@UURB@ONE@DESC"
+msgstr "Этот отряд получает {GLOBAL.PROPERTIES.SUPPORT_STRENGTHENED_ABILITY_MODIFIER.Hyperlink} и {GLOBAL.PROPERTIES.SUPPORT_REGENERATION_ABILITY_MODIFIER.Hyperlink}."
+
+msgid "TOME@RUTHLESSRAIDER@UURB@ONE@NAME"
+msgstr "Радость рейдера"
+
+msgid "TOME@RUTHLESSRAIDER@UURB@ONE@DESC"
+msgstr "Когда этот отряд убивает другой отряд, этот отряд получает 2 {GLOBAL.UnitMoraleConcept.Hyperlink} за каждый уровень убитого отряда."
+
+msgid "TOME@RUTHLESSRAIDER@UURB@TWO@NAME"
+msgstr "Воплощение жадности"
+
+msgid "TOME@RUTHLESSRAIDER@UURB@TWO@DESC"
+msgstr "Базовые атаки этого отряда с вероятностью 30% нанесут {GLOBAL.PROPERTIES.GILDED.Hyperlink}.\nЭффекты [hyperlink,GLOBAL.EnchantingNonRepeatingConcept]a увеличены[/hyperlink] для неповторяющихся атак."
+

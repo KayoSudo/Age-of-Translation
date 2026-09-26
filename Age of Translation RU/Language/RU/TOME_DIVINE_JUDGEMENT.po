@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Age of Translation RU 1.1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-09-27 00:00+0000\n"
+"Last-Translator: Age of Translation RU\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GNU gettext 0.23.1\n"
+
+
+msgid "TOME_DIVINE_JUDGEMENT@TOME@NAME"
+msgstr "Книга Божественного суда"
+
+msgid "TOME_DIVINE_JUDGEMENT@TOME@LORE_DESCRIPTION"
+msgstr "\"Те, кто противится тебе, познают гнев небес. Поля и леса будут гореть, моря поднимутся и поглотят их, ветер будет срывать их народы с лица земли, молнии будут сыпаться с неба, они будут взывать к своим ложным богам и найдут молчание.\""
+
+msgid "TOME_DIVINE_JUDGEMENT@TOME@LORE_AUTHOR"
+msgstr "Андрасте 7:19"
+
+msgid "TOME_DIVINE_JUDGEMENT@TOME@GAMEPLAY_DESCRIPTION"
+msgstr "Направьте божественную молнию, чтобы осудить всех, кто противостоит вашей ревностной воле."
+
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_1@NAME"
+msgstr "Божественный водоворот"
+
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_1@DESCRIPTION"
+msgstr "В начале битвы вражеские отряды: [bulletlist][bullet/]Поддерживайте 10 {GLOBAL.SpiritDamageConcept.Hyperlink} и 10 {GLOBAL.LightningDamageConcept.Hyperlink}.[bullet/]3x {GLOBAL.PROPERTIES.ELECTRIFIED.Hyperlink}.[/br]"
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@ABILITY1@NAME"
+msgstr "Запутывание корней"
+
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_2@NAME"
+msgstr "Рвение судьи"
+
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_2@DESCRIPTION"
+msgstr "Дружественные отряды в радиусе 2 шестиугольников: [bulletlist][bullet/]Получите {GLOBAL.PROPERTIES.ZEAL.Hyperlink}. [bullet/]{GLOBAL.PROPERTIES.REGENERATION.Hyperlink}. [br/]\nУстройства с {GLOBAL.PROPERTIES.FAITHFUL.Hyperlink} или уже с {GLOBAL.PROPERTIES.ZEAL.Hyperlink} дополнительно получают: [bulletlist][bullet/]{GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.BOLSTERED_RESISTANCE.Hyperlink}"
+
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_3@NAME"
+msgstr "Окончательный приговор"
+
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_3@DESCRIPTION"
+msgstr "Враги в радиусе 1 гексагона получают 14 {GLOBAL.SpiritDamageConcept.Hyperlink} и 14 {GLOBAL.LightningDamageConcept.Hyperlink}:[bulletlist][bullet/]60% шанс быть {GLOBAL.PROPERTIES.BLINDED.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.CONDEMNED.Hyperlink} и Юниты {GLOBAL.PROPERTIES.ELECTRIFIED.Hyperlink} получают дополнительно 50% урона."
+
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_4@NAME"
+msgstr "Обет судьи"
+
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_4@DESCRIPTION"
+msgstr "Зачарованные юниты наносят 10 % дополнительного урона и получают {GLOBAL.PROPERTIES.JUDGEMENT_DIVINE_SMITE.Hyperlink} способность."
+
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_5@NAME"
+msgstr "Рыцарь-юстикар"
+
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_5@DESCRIPTION"
+msgstr "Рыцарь, который осуждает тех, кого считают виновными, и ведет других в славную битву со злом."
+
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_6@NAME"
+msgstr "Панцирные доспехи"
+
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_6@DESCRIPTION"
+msgstr "Описание панцирных доспехов"
+
+msgid "TOME_DIVINE_JUDGEMENT@HERO_SKILL@NAME"
+msgstr "Божественный удар"
+
+msgid "TOME_DIVINE_JUDGEMENT@HERO_SKILL@DESCRIPTION"
+msgstr "Целевой вражеский отряд имеет 16 {GLOBAL.SpiritDamageConcept.Hyperlink}, 16 {GLOBAL.LightningDamageConcept.Hyperlink}."
+
+msgid "TOME_DIVINE_JUDGEMENT@PROVINCE_IMPROVEMENT1@NAME"
+msgstr "[Conduit/] Судейский монастырь"
+
+msgid "TOME_DIVINE_JUDGEMENT@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr "[bulletlist][bullet/]+7 {GLOBAL.ManaConcept.Hyperlink}. [bullet/]+7 {GLOBAL.UnitProductionConcept.Hyperlink}. [bullet/]+1 ранг юнита для набранных отрядов поддержки и боевых магов. [bullet/]Считается как {GLOBAL.ConduitConcept.Hyperlink}."
+
+msgid "TOME_DIVINE_JUDGEMENT@ENTHRALLED@NAME"
+msgstr "Очарованный"
+
+msgid "TOME_DIVINE_JUDGEMENT@ENTHRALLED@DESCRIPTION"
+msgstr "Все атаки, направленные на этого юнита {GLOBAL.FlankingConcept.Hyperlink} attacks."
+
+msgid "TOME_DIVINE_JUDGEMENT@ABILITY1@DESCRIPTION"
+msgstr "Юниты в радиусе 1 шестиугольника поддерживают:[bulletlist][bullet/]22 {GLOBAL.PhysicalDamageConcept.Hyperlink}. [bullet/]Имеют базовый 40% шанс стать {GLOBAL.PROPERTIES.IMMOBILIZED.Hyperlink}. В случае неудачи они становятся {GLOBAL.PROPERTIES.SLOWED.Hyperlink}."
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@ABILITY2@NAME"
+msgstr "Божественный удар"
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@ABILITY2@DESCRIPTION"
+msgstr "Целевой вражеский отряд имеет 16 {GLOBAL.SpiritDamageConcept.Hyperlink}, 16 {GLOBAL.LightningDamageConcept.Hyperlink}."
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT2@ABILITY1@NAME"
+msgstr "Ледяное дыхание"
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT2@ABILITY1@DESCRIPTION"
+msgstr "Базовый 30% шанс нанести {GLOBAL.PROPERTIES.CONDEMNED.Hyperlink} до конца боя."
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT2@ABILITY2@NAME"
+msgstr "Терновые доспехи"
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT2@ABILITY2@DESCRIPTION"
+msgstr "Терновые доспехи"
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT2@ABILITY3@NAME"
+msgstr "Древнее благословение"
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT2@ABILITY3@DESCRIPTION"
+msgstr "[bulletlist][bullet/]Получает +30 {GLOBAL.TemporaryHitPointConcept.Hyperlink}.[bullet/]Снимает отрицательные эффекты статуса.[bullet/]Переходит в режим защиты."
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@NAME_OVERRIDE"
+msgstr "Терновый удар"
+
+msgid "TOME_DIVINE_JUDGEMENT@STATUS1@NAME"
+msgstr "Сжигание маны"
+
+msgid "TOME_DIVINE_JUDGEMENT@STATUS2@NAME"
+msgstr "Placeholder"
+
+msgid "TOME_DIVINE_JUDGEMENT@STATUS1@DESCRIPTION"
+msgstr "Жезл маны"
+
+msgid "TOME_DIVINE_JUDGEMENT@STATUS2@DESCRIPTION"
+msgstr "Сжигание маны"
+
+msgid "TOME_DIVINE_JUDGEMENT@STATUS1@BLOCK_STRING"
+msgstr "Заблокировано: иммунитет к сжиганию маны"
+
+msgid "TOME_DIVINE_JUDGEMENT@STATUS3@NAME"
+msgstr "Прогонная рампа I"
+
+msgid "TOME_DIVINE_JUDGEMENT@STATUS3@DESCRIPTION"
+msgstr "Прогонная рампа I"
+
+msgid "TOME_DIVINE_JUDGEMENT@STATUS4@NAME"
+msgstr "Прогонная рампа II"
+
+msgid "TOME_DIVINE_JUDGEMENT@STATUS4@DESCRIPTION"
+msgstr "Прогонная рампа II"
+
+msgid "TOME_DIVINE_JUDGEMENT@STATUS5@NAME"
+msgstr "Сжигание маны"
+
+msgid "TOME_DIVINE_JUDGEMENT@STATUS5@DESCRIPTION"
+msgstr "Рыцари Суда, получившие свой титул, пройдя «Священное испытание {GLOBAL.AstralSeaLoreConcept.Hyperlink}», в ходе которого их команда пересекает {GLOBAL.AstralSeaLoreConcept.Hyperlink} в течение длительного периода, сражаясь с {GLOBAL.AstralMonstersLoreConcept.Hyperlink}, чтобы показать свою преданность делу. Цель состоит в том, чтобы рыцари немного приспособились к его магии и использовали ее силу для служения своим правителям. Благодаря этому они узнают о {GLOBAL.PROPERTIES.JUDGEMENT_DIVINE_SMITE_MELEE.Hyperlink}, не будучи преданными боевыми магами."
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@ABILITY3@NAME"
+msgstr "Ниму Всплеска"
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@ABILITY3@DESCRIPTION"
+msgstr "Описание Ниму Всплеска"
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@ABILITY4@NAME"
+msgstr "Доспехи Правосудия"
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@ABILITY4@DESCRIPTION"
+msgstr "+1 {GLOBAL.DefenseConcept.Hyperlink} и {GLOBAL.ResistanceConcept.Hyperlink} против {GLOBAL.PROPERTIES.CONDEMNED.Hyperlink} юнитов."
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@ABILITY5@NAME"
+msgstr "Рыцарь-юстикар"
+
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@ABILITY5@DESCRIPTION"
+msgstr "Рыцарь-юстикар"
+
+msgid "TOME_DIVINE_JUDGEMENT@JUDGMENTDEFENSE@NAME"
+msgstr "Режим защиты: Правосудие"
+
+msgid "TOME_DIVINE_JUDGEMENT@JUDGMENTDEFENSE@DESCRIPTION"
+msgstr "Заканчивает свой ход и переходит в оборонительный режим: [bulletlist][bullet/] Распространяет свой {GLOBAL.ZoneOfControlConcept.Hyperlink} на все соседние гексы. [bullet/]+2 {GLOBAL.DefenseConcept.Hyperlink}[bullet/]+2 {GLOBAL.ResistanceConcept.Hyperlink}[bullet/]Иммунитет к {GLOBAL.FlankingConcept.Hyperlink}[bullet/]Все соседние дружественные отряды получают +3 {GLOBAL.ResistanceConcept.Hyperlink}, {GLOBAL.DefenseConcept.Hyperlink} и {GLOBAL.StatusResistanceConcept.Hyperlink}[/bulletlist]\nЭто не суммируется с «Стеной щитов» или «Защитой»."
+

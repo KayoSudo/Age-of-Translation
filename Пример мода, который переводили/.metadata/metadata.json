@@ -1,0 +1,10 @@
+{
+ "short_description": "Adds the Tome of Blight to the game, a level II nature/shadow tome that specializes in blight damage and exploiting the Diseased status effect.",
+ "name": "Tome of Blight",
+ "version": "1.8",
+ "id": "79b9f987-78a2-4bd1-913a-d19622a6fb8b",
+ "tags": [
+  "Mod",
+  "Tomes"
+ ]
+}

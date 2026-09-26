@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Age of Translation RU 1.1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-09-27 00:00+0000\n"
+"Last-Translator: Age of Translation RU\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GNU gettext 0.23.1\n"
+
+
+msgid "TOME_SHADOWFLAME@SHADOWMIST@NAME"
+msgstr "Теневой туман"
+
+msgid "TOME_SHADOWFLAME@SHADOWMIST@DESCRIPTION"
+msgstr "В начале боя этот юнит имеет номер {GLOBAL.PROPERTIES.OBSCURED.Hyperlink} на 3 хода."
+
+msgid "TOME_DESIRE@SHADOWFEY@NAME"
+msgstr "Даркфей Коварство"
+
+msgid "TOME_DESIRE@SHADOWFEY@DESCRIPTION"
+msgstr "Если в начале своего хода этот отряд {GLOBAL.PROPERTIES.OBSCURED.Hyperlink} или находится в облаке {GLOBAL.MistConcept.Hyperlink}, он получает {GLOBAL.PROPERTIES.HASTENED.Hyperlink} на 1 ход."
+
+msgid "TOME_DESIRE@SHADOWFLAME_AUTOSPELL@NAME"
+msgstr "Проклятие Теневого Пламени"
+
+msgid "TOME_DESIRE@SHADOWFLAME_AUTOSPELL@DESCRIPTION"
+msgstr "Если этому отряду в начале своего хода нанесено {GLOBAL.PROPERTIES.SHADOWFLAME.Hyperlink}, {GLOBAL.PROPERTIES.GHOSTFIRE.Hyperlink}, {GLOBAL.PROPERTIES.FROZEN.Hyperlink} или {GLOBAL.PROPERTIES.BURNING.Hyperlink}, все получаемое им исцеление уменьшается на 50%."
+
+msgid "TOME_DESIRE@UNIT_PROPERTY1@EXTRA"
+msgstr "Нанести {GLOBAL.PROPERTIES.SHADOWFLAME.Hyperlink}"
+
+msgid "TOME_DESIRE@HELLISH_UNDEAD@NAME"
+msgstr "Нежить пламени тени"
+
+msgid "TOME_DESIRE@HELLISH_UNDEAD@DESC"
+msgstr "Большинство нежити Теневого Пламени потеряли {GLOBAL.PROPERTIES.FLYING_MOVEMENT.Hyperlink}, но их близость дает им: [bulletlist][bullet/]{GLOBAL.PROPERTIES.CAVE_WALK.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.SHADOWFLAME.Hyperlink} Иммунитет[bullet/]{GLOBAL.PROPERTIES.STATUS_EFFECT_IMMUNITY_BURNING.Hyperlink} Иммунитет[bullet/]+4 {GLOBAL.FireResistanceConcept.Hyperlink}[bullet/]Прогулка по лаве"
+
+msgid "TOME_DESIRE@NON_RACIAL@NAME"
+msgstr "Нерасовый"
+
+msgid "TOME_DESIRE@NON_RACIAL@DESC"
+msgstr "Юниты, не принадлежащие к какой-либо конкретной расе"
+

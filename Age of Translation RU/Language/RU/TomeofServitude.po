@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Age of Translation RU 1.1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-09-27 00:00+0000\n"
+"Last-Translator: Age of Translation RU\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GNU gettext 0.23.1\n"
+
+
+msgid "TOME@SERVITUDE@NAME"
+msgstr "Книга порабощения"
+
+msgid "TOME@SERVITUDE@DESC"
+msgstr "Вся жизнь должна служить нам. Постройте процветающую империю, используя ресурс [locked2/] [hyperlink,GLOBAL.GameConceptSlaves]Рабы[/hyperlink]; применяйте их как {GLOBAL.UNITS.RABBLESLAVE_UNIT.Hyperlink} или щёлкайте {GLOBAL.PROPERTIES.PAIN_LASH.Hyperlink}, чтобы все повиновались вашей воле."
+
+msgid "TOME@SERVITUDE@AUTHOR@NAME"
+msgstr "Умбра Погубленная, второе кресло в Кабале"
+
+msgid "TOME@SERVITUDE@AUTHOR@DESC"
+msgstr "«Из этой безнадёжной попытки родилось почти всё, что мы зовём письменной историей: семья, деньги, власть, честолюбие, война, короли и их рабы — это долгое ужасное колесо жизни, всегда толкающее человека эксплуатировать равных, чтобы он мог почувствовать собственную ценность...»"
+
+msgid "TOME@SERVITUDE@Skill1@Name"
+msgstr "Надсмотрщик"
+
+msgid "TOME@SERVITUDE@Skill1@DESC"
+msgstr "{GLOBAL.PROPERTIES.FIGHTER.Hyperlink}, привыкший говорить языком боли."
+
+msgid "TOME@SERVITUDE@Skill1@Unit@Skill"
+msgstr "Кнут повеления"
+
+msgid "TOME@SERVITUDE@Skill1@Unit@Skill2@DESC"
+msgstr "Щёлкните кнутом, отдавая приказ отрядам в конусе длиной 1 клетка: [bulletlist] [bullet/]Они получают 10 {GLOBAL.PhysicalDamageConcept.Hyperlink}. [bullet/]Получают 2 {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink}. [bullet/]Получают {GLOBAL.PROPERTIES.HASTENED.Hyperlink}."
+
+msgid "TOME@SERVITUDE@Skill1@Unit@Skill@DESC"
+msgstr "Солдаты-рабы"
+
+msgid "TOME@SERVITUDE@Skill1@Unit@Skill2"
+msgstr "Принудительный призыв"
+
+msgid "TOME@SERVITUDE@Skill1@Unit"
+msgstr "Этот отряд принудили участвовать в сражении: [bulletlist] [bullet/]Начинает бой с -20 {GLOBAL.UnitMoraleConcept.Hyperlink}. [bullet/]Почти невосприимчив к любым дальнейшим изменениям {GLOBAL.UnitMoraleConcept.Hyperlink}."
+
+msgid "TOME@SERVITUDE@Skill2@Name"
+msgstr "Набрать рабов"
+
+msgid "TOME@SERVITUDE@Skill2@SKILL@Name"
+msgstr "Потратьте [locked2/] [hyperlink,GLOBAL.GameConceptSlaves]Рабов[/hyperlink], чтобы зачаровать лидера армии: в начале следующей битвы он призовёт 2 {GLOBAL.UNITS.RABBLESLAVE_UNIT.Hyperlink}."
+
+msgid "TOME@SERVITUDE@Skill2@DESC"
+msgstr "Рабовладельческая экономика"
+
+msgid "TOME@SERVITUDE@Skill3@Name"
+msgstr "Вводит принудительный труд в целевом {GLOBAL.CityConcept.Hyperlink} на 5 {GLOBAL.TurnConcept.Hyperlink}: [bulletlist] [bullet/]+60 {GLOBAL.StructureProductionConcept.Hyperlink}. [bullet/]+30 {GLOBAL.GoldConcept.Hyperlink}. [bullet/]-20 {GLOBAL.CityStabilityConcept.Hyperlink}."
+
+msgid "TOME@SERVITUDE@Skill3@Skill@Name"
+msgstr "Цепи порабощения"
+
+msgid "TOME@SERVITUDE@Skill3@Skill@DESC"
+msgstr "Накладывает {GLOBAL.PROPERTIES.INVULNERABLE.Hyperlink} и {GLOBAL.PROPERTIES.SUBDUED.Hyperlink} на целевой отряд II ранга или ниже, если он страдает от: [bulletlist] [bullet/]{GLOBAL.PROPERTIES.FROZEN.Hyperlink}, {GLOBAL.PROPERTIES.STUNNED.Hyperlink} или {GLOBAL.PROPERTIES.IMMOBILIZED.Hyperlink}. [bullet/]При неудаче получает -25 {GLOBAL.UnitMoraleConcept.Hyperlink}."
+
+msgid "TOME@SERVITUDE@Skill3@Desc"
+msgstr "Владычество рабства"
+
+msgid "TOME@SERVITUDE@Skill2@Unit@Skill@DESC"
+msgstr "Открывает ресурс [locked2/] [hyperlink,GLOBAL.GameConceptSlaves]Рабы[/hyperlink], получаемый за сражения, набеги на провинции или захват отрядов.\n\n[locked2/] [hyperlink,GLOBAL.GameConceptSlaves]Рабы[/hyperlink] главным образом используются для найма расходных отрядов и улучшения экономики империи."
+
+msgid "TOME@SERVITUDE@Skill4@Name"
+msgstr "[locked2/] [hyperlink,GLOBAL.GameConceptSlaves]Рабы[/hyperlink]"
+
+msgid "TOME@SERVITUDE@Skill4@DESC"
+msgstr "Пленные, находящиеся в вашем распоряжении; используются для найма отрядов и улучшения экономики."
+
+msgid "TOME@SERVITUDE@Skill5@Name"
+msgstr "Командир рабской пехоты"
+
+msgid "TOME@SERVITUDE@Skill5@DESC"
+msgstr "Зачаровывает лидера армии: в следующей битве он призовёт 2 {GLOBAL.UNITS.RABBLESLAVE_UNIT.Hyperlink}."
+
+msgid "TOME@SERVITUDE@Skill6@Name"
+msgstr "Рабская пехота"
+
+msgid "TOME@SERVITUDE@Skill6@DESC"
+msgstr "Владычество над слабыми"
+
+msgid "TOME@SERVITUDE@Skill6@Group"
+msgstr "2"
+
+msgid "TOME@SERVITUDE@PANTHEON@NAME"
+msgstr "Вознесение: Верховная власть"
+
+msgid "TOME@SERVITUDE@PANTHEON@NAME2"
+msgstr "Этот отряд считает себя законной властью над теми, кого он считает слабыми: [bulletlist] [bullet/]+25% урона против отрядов I и II ранга. [bullet/]Получает способность {GLOBAL.PROPERTIES.PAIN_LASH.Hyperlink}."
+
+msgid "TOME@SERVITUDE@PANTHEON@NAME3"
+msgstr "Этот отряд считает себя законной властью над теми, кого он считает слабыми: [bulletlist] [bullet/]+25% урона против отрядов I и II ранга."
+
+msgid "TOME@SERVITUDE@PANTHEON@NAME4"
+msgstr "Владычество над слабыми"
+
+msgid "TOME@SERVITUDE@PANTHEON@NAME5"
+msgstr "Зачарованные отряды получают: [bulletlist] [bullet/]{GLOBAL.PROPERTIES.MASTER_OVERLORD2.Hyperlink}, улучшающее урон против низкоранговых отрядов."
+

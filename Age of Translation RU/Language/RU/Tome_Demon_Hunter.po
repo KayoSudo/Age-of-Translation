@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Age of Translation RU 1.1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-09-27 00:00+0000\n"
+"Last-Translator: Age of Translation RU\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GNU gettext 0.23.1\n"
+
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@NAME"
+msgstr "Книга охотников на демонов"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@DESCRIPTION"
+msgstr "Начните крестовый поход против тьмы и наделите отряды сокрушительной огневой мощью и {GLOBAL.SpiritDamageConcept.Hyperlink}. Время милосердия прошло."
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@LORE_DESCRIPTION"
+msgstr "«И вышли они с огнём и железом, чтобы низвергнуть нечистых и обратить в запустение творения бездны»."
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@AUTHOR_NAME"
+msgstr "Констанций Кларий, летописец Высшей инквизиции"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@SKILL_01@NAME"
+msgstr "Орудия искупления"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@SKILL_01@DESCRIPTION"
+msgstr "{GLOBAL.RangedConcept.Hyperlink} и {GLOBAL.MagicConcept.Hyperlink} атаки зачарованных отрядов получают: [bulletlist][bullet/]+2 {GLOBAL.SpiritDamageConcept.Hyperlink}. [bullet/]Базовый шанс {THYRON_EXPOSED_BY_LIGHT_RESISTANCE>ResolvedStrength}% наложить {GLOBAL.PROPERTIES.THYRON_EXPOSED_BY_LIGHT.Hyperlink} на {THYRON_EXPOSED_BY_LIGHT_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@SKILL_02@NAME"
+msgstr "Истребитель демонов"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@SKILL_02@DESCRIPTION"
+msgstr "Могучий расовый {GLOBAL.PROPERTIES.MYTHIC_UNIT.Hyperlink}, вооружённый парой маглоков."
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@SKILL_02@MODIFIER_DESCRIPTION"
+msgstr "{GLOBAL.RangedConcept.Hyperlink} и {GLOBAL.MagicConcept.Hyperlink} атаки отряда получают: [bulletlist][bullet/]+2 {GLOBAL.SpiritDamageConcept.Hyperlink}. [bullet/]Базовый шанс {THYRON_EXPOSED_BY_LIGHT_RESISTANCE>ResolvedStrength}% наложить {GLOBAL.PROPERTIES.THYRON_EXPOSED_BY_LIGHT.Hyperlink} на {THYRON_EXPOSED_BY_LIGHT_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@SKILL_03@NAME"
+msgstr "Выкованный честью"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@SKILL_03@DESCRIPTION"
+msgstr "Ограждает целевую расу божественным призванием, даруя ей: [bulletlist][bullet/]+1 {GLOBAL.FireResistanceConcept.Hyperlink}. [bullet/]+1 {GLOBAL.FrostResistanceConcept.Hyperlink}. [bullet/]+1 {GLOBAL.BlightResistanceConcept.Hyperlink}. [bullet/]Когда <<m:{GLOBAL.HitPointConcept.Hyperlink}>> отряда опускаются ниже 60%: [bulletlist][bullet/]Враги в радиусе 2 клеток получают {GLOBAL.PROPERTIES.THYRON_EXPOSED_BY_LIGHT.Hyperlink} на 3 <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][/bulletlist]"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@SKILL_03@MODIFIER_DESCRIPTION"
+msgstr "Отряд получает: [bulletlist][bullet/]+1 {GLOBAL.FireResistanceConcept.Hyperlink}. [bullet/]+1 {GLOBAL.FrostResistanceConcept.Hyperlink}. [bullet/]+1 {GLOBAL.BlightResistanceConcept.Hyperlink}. [bullet/]Когда <<m:{GLOBAL.HitPointConcept.Hyperlink}>> отряда опускаются ниже 60%: [bulletlist][bullet/]Враги в радиусе 2 клеток получают {GLOBAL.PROPERTIES.THYRON_EXPOSED_BY_LIGHT.Hyperlink} на 3 <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][/bulletlist]"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@SKILL_04@NAME"
+msgstr "Опустошающий залп"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@SKILL_04@DESCRIPTION"
+msgstr "Вражеские отряды в радиусе 2 клеток: [bulletlist][bullet/]Получают {THYRON_SLAYER_DESOLATING_BARRAGE_UNIT_DAMAGE>DAMAGE>Spirit} {GLOBAL.SpiritDamageConcept.Hyperlink} и {THYRON_SLAYER_DESOLATING_BARRAGE_UNIT_DAMAGE>DAMAGE>Physical} {GLOBAL.PhysicalDamageConcept.Hyperlink}. [bullet/]Получают {GLOBAL.PROPERTIES.THYRON_EXPOSED_BY_LIGHT.Hyperlink} на {THYRON_EXPOSED_BY_LIGHT_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@SKILL_05@NAME"
+msgstr "Неусыпная бдительность"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@SKILL_05@DESCRIPTION"
+msgstr "Целевой лидер армии получает {GLOBAL.PROPERTIES.THYRON_PERMANENT_VIGILANCE_AUTO_SPELL.Hyperlink} на 3 {GLOBAL.WorldMapConcept.Hyperlink} <<m:{GLOBAL.TurnConcept}>>, дающее всем союзным не-рукопашным отрядам {GLOBAL.PROPERTIES.PRECOGNITION.Hyperlink} и {GLOBAL.PROPERTIES.THYRON_SHROUDED_FROM_DARK.Hyperlink} в начале боя на время действия."
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@SKILL_05@PROP_DESCRIPTION"
+msgstr "Даёт всем союзным не-рукопашным отрядам {GLOBAL.PROPERTIES.PRECOGNITION.Hyperlink} и {GLOBAL.PROPERTIES.THYRON_SHROUDED_FROM_DARK.Hyperlink} в начале боя."
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@SKILL_06@NAME"
+msgstr ""
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@SKILL_06@DESCRIPTION"
+msgstr ""
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@UNIT_MYTHIC_T5@ABILITY1@NAME"
+msgstr "Выстрелить из парных маглоков"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@UNIT_MYTHIC_T5@ABILITY1@DESCRIPTION"
+msgstr "Стреляет из пистолетов-маглоков по целевому отряду."
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@UNIT_MYTHIC_T5@ABILITY2@NAME"
+msgstr "Изгоняющий выстрел"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@UNIT_MYTHIC_T5@ABILITY2@DESCRIPTION"
+msgstr "Выпускает по целевому отряду сокрушительный {GLOBAL.MagicConcept.Hyperlink} залп и отбрасывает его на 2 клетки."
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@UNIT_MYTHIC_T5@ABILITY3@NAME"
+msgstr "Метка правосудия"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@UNIT_MYTHIC_T5@ABILITY3@DESCRIPTION"
+msgstr "Целевой отряд получает: [bulletlist][bullet/]3 {GLOBAL.PROPERTIES.MARKED.Hyperlink}. [bullet/]{GLOBAL.PROPERTIES.CONDEMNED.Hyperlink}.[/bulletlist]"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@UNIT_MYTHIC_T5@PASSIVE1@NAME"
+msgstr ""
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@UNIT_MYTHIC_T5@PASSIVE1@DESCRIPTION"
+msgstr ""
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@IMPROVEMENT@NAME"
+msgstr "Зал покаяния"
+
+msgid "THYRON_TOME_DEMON_HUNTER@TOME@IMPROVEMENT@DESCRIPTION"
+msgstr ""
+
+msgid "THYRON_TOME_DEMON_HUNTER@STATUS_EFFECT@PURGED@NAME"
+msgstr "Открыт свету"
+
+msgid "THYRON_TOME_DEMON_HUNTER@STATUS_EFFECT@PURGED@DESCRIPTION"
+msgstr "[bulletlist][bullet/]-1 {GLOBAL.SpiritResistanceConcept.Hyperlink}. [bullet/]Складывается до 4 раз.[/bulletlist][br/][br/]«Открыт свету» {GLOBAL.OpposingStatusEffectsConcept.Hyperlink} {GLOBAL.PROPERTIES.THYRON_SHROUDED_FROM_DARK.Hyperlink}."
+
+msgid "THYRON_TOME_DEMON_HUNTER@STATUS_EFFECT@PURGED@MODIFIER_DESCRIPTION"
+msgstr "Базовый шанс {THYRON_EXPOSED_BY_LIGHT_RESISTANCE>ResolvedStrength}% наложить {GLOBAL.PROPERTIES.THYRON_EXPOSED_BY_LIGHT.Hyperlink} на {THYRON_EXPOSED_BY_LIGHT_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
+
+msgid "THYRON_TOME_DEMON_HUNTER@STATUS_EFFECT@PURGED@MODIFIER_GUARANTEED"
+msgstr "Накладывает {GLOBAL.PROPERTIES.THYRON_EXPOSED_BY_LIGHT.Hyperlink} на {THYRON_EXPOSED_BY_LIGHT_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
+
+msgid "THYRON_TOME_DEMON_HUNTER@STATUS_EFFECT@PURGED@MODIFIER_GUARANTEED_2"
+msgstr "Накладывает 2 ед. {GLOBAL.PROPERTIES.THYRON_EXPOSED_BY_LIGHT.Hyperlink} на {THYRON_EXPOSED_BY_LIGHT_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
+
+msgid "THYRON_TOME_DEMON_HUNTER@STATUS_EFFECT@ANTIPURGED@NAME"
+msgstr "Укрыт от тьмы"
+
+msgid "THYRON_TOME_DEMON_HUNTER@STATUS_EFFECT@ANTIPURGED@DESCRIPTION"
+msgstr "[bulletlist][bullet/]+1 {GLOBAL.FrostResistanceConcept.Hyperlink}. [bullet/]Складывается до 4 раз.[/bulletlist][br/][br/]«Укрыт от тьмы» {GLOBAL.OpposingStatusEffectsConcept.Hyperlink} {GLOBAL.PROPERTIES.THYRON_EXPOSED_BY_LIGHT.Hyperlink}."
+
+msgid "THYRON_TOME_DEMON_HUNTER@STATUS_EFFECT@ANTIPURGED@MODIFIER_DESCRIPTION"
+msgstr "Базовый шанс {THYRON_SHROUDED_FROM_DARK_RESISTANCE>ResolvedStrength}% наложить {GLOBAL.PROPERTIES.THYRON_SHROUDED_FROM_DARK.Hyperlink} на {THYRON_SHROUDED_FROM_DARK_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
+
+msgid "THYRON_TOME_DEMON_HUNTER@ASCENSION_TRAIT@NAME"
+msgstr "Вознесение: Охотник на демонов"
+
+msgid "THYRON_TOME_DEMON_HUNTER@ASCENSION_TRAIT@PASSIVE@NAME"
+msgstr "Вознесённый истребитель демонов"
+
+msgid "THYRON_TOME_DEMON_HUNTER@ASCENSION_TRAIT@PASSIVE@DESCRIPTION"
+msgstr "Этот герой получает: [bulletlist][bullet/]+{THYRON_DEMON_HUNTER_ASCENSION_HERO_DAMAGE>DAMAGE>Spirit} {GLOBAL.SpiritDamageConcept.Hyperlink} ко всем атакам. [bullet/]Атаки накладывают {GLOBAL.PROPERTIES.THYRON_EXPOSED_BY_LIGHT.Hyperlink} на {THYRON_EXPOSED_BY_LIGHT_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>. [bullet/]+{THYRON_DEMON_HUNTER_ASCENSION_HERO_PROPERTY_DEFENSE>BONUS>REDUCT} {GLOBAL.FireResistanceConcept.Hyperlink}, {GLOBAL.FrostResistanceConcept.Hyperlink} и {GLOBAL.BlightResistanceConcept.Hyperlink}.[/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
