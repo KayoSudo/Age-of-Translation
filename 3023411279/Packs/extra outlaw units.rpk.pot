@@ -1,0 +1,14 @@
+# SHOULDBEFUZZY!!!
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: EXTRA OUTLAW UNITS.RPK:././././TBaseUnitR/./
+msgid "OUTLAW@UNIT_03@NAME"
+msgstr ""
+
+#: EXTRA OUTLAW UNITS.RPK:././././TBaseUnitR/./
+msgid "OUTLAW@UNIT_07@NAME"
+msgstr ""
+

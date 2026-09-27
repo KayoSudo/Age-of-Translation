@@ -1,0 +1,113 @@
+msgid "TOME@SILVER@NAME"
+msgstr "Tome of SILVER”
+
+msgid "TOME@SILVER@DESC"
+msgstr "Transform your people into a organized and unshakable military. Focus on {GLOBAL.PROPERTIES.SHIELD_UNIT.Hyperlink} and {GLOBAL.PROPERTIES.FIGHTER.Hyperlink} units and military tactics.”
+
+msgid "TOME@SILVER@AUTHOR@NAME"
+msgstr "Alfred Stone”
+
+msgid "TOME@SILVER@AUTHOR@DESC"
+msgstr "Victory in war does not depend entirely upon numbers or mere courage; only skill and SILVER will insure it.”
+
+msgid "TOME@SILVER@Skill1@Name"
+msgstr "Company Captain Unit”
+
+msgid "TOME@SILVER@Skill1@DESC"
+msgstr "A {GLOBAL.PROPERTIES.FIGHTER.Hyperlink} that expecializes in buffing and commanding troops in the middle of combat”
+
+msgid "TOME@SILVER@Skill1@Unit@Skill"
+msgstr "Tactical Order - Endure”
+
+msgid "TOME@SILVER@Skill1@Unit@Skill2@DESC"
+msgstr "Tactical Order - Attack - Give 2 Strengh and 1 Fortune”
+
+msgid "TOME@SILVER@Skill1@Unit@Skill@DESC"
+msgstr "Tactical Order - Endure - Give Morale and Cleanse”
+
+msgid "TOME@SILVER@Skill1@Unit@Skill2"
+msgstr "Tactical Order - Attack”
+
+msgid "TOME@SILVER@Skill1@Unit"
+msgstr "Company Captain”
+
+msgid "TOME@SILVER@Skill2@Name"
+msgstr "Secondary Weapons”
+
+msgid "TOME@SILVER@Skill2@SKILL@Name"
+msgstr "Secondary Weapons”
+
+msgid "TOME@SILVER@Skill2@DESC"
+msgstr "Retrofit your vanguard with an additional weapon to deal {GLOBAL.PhysicalDamageConcept.Hyperlink} and {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}”
+
+msgid "TOME@SILVER@Skill3@Name"
+msgstr "Professional Soldiers - Shield/Fighter Damage”
+
+msgid "TOME@SILVER@Skill3@Skill@Name"
+msgstr "Professional Soldiers - Shield/Fighter Damage”
+
+msgid "TOME@SILVER@Skill3@Skill@DESC"
+msgstr "Professional Soldiers - Shield/Fighter Damage”
+
+msgid "TOME@SILVER@Skill3@Desc"
+msgstr "Make mandatory training of your infantry in all manners of warfare, granting them {PROFESSIONAL_DAMAGE>ResolvedMultiplier}% extra damage.”
+
+msgid "TOME@SILVER@Skill2@Unit@Skill@DESC"
+msgstr "Trown your Secondary Weapon to deal {SECONDARY_WEAPON_DAMAGE>DAMAGE>Physical}{GLOBAL.PhysicalDamageConcept.Hyperlink} and 1 {GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}”
+
+msgid "TOME@SILVER@Skill4@Name"
+msgstr "Raise Shields”
+
+msgid "TOME@SILVER@Skill4@DESC"
+msgstr "Increase evasion against ranged attacks but gets slowed”
+
+msgid "TOME@SILVER@Skill5@Name"
+msgstr "Robust Supply Lines”
+
+msgid "TOME@SILVER@Skill5@DESC"
+msgstr "Increases organization throught the campaigns, grants all units extra {ROBUST_SUPPLY>BONUS>HitPoints} and hitpoint regeneration”
+
+msgid "TOME@SILVER@Skill6@Name"
+msgstr "Tactical Retreat”
+
+msgid "TOME@SILVER@Skill6@DESC"
+msgstr "Pull back a unit and cleasining and healing for 30 {GLOBAL.HitPointConcept.Hyperlink}”
+
+msgid "TOME@SILVER@Skill6@Group"
+msgstr "Pull back a unit and cleasining and healing for 30 {GLOBAL.HitPointConcept.Hyperlink}”
+
+msgid "TOME@SILVER@PANTHEON@NAME"
+msgstr "”
+
+msgid "TOME@SILVER@PANTHEON@NAME2"
+msgstr "”
+
+msgid "TOME@SILVER@PANTHEON@NAME3"
+msgstr "”
+
+msgid "TOME@SILVER@PANTHEON@NAME4"
+msgstr "”
+
+msgid "TOME@SILVER@PANTHEON@NAME5"
+msgstr "”
+
+msgid "TOME@SILVER@EXTRA@NAME"
+msgstr "”
+
+msgid "TOME@SILVER@EXTRA@NAME2"
+msgstr "”
+
+msgid "TOME@SILVER@EXTRA@NAME3"
+msgstr "”
+
+msgid "TOME@SILVER@EXTRA@NAME4"
+msgstr "”
+
+msgid "TOME@SILVER@EXTRA@NAME5"
+msgstr "”
+
+msgid "TOME@SILVER@EXTRA@NAME6"
+msgstr "”
+
+msgid "TOME@SILVER@EXTRA@NAME7"
+msgstr "”

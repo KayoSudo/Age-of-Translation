@@ -1,0 +1,13 @@
+{
+ "short_description": "This collection mod features three starting Tier I Tomes - Tome of the Challenger (Order/Chaos), Tome of Chains (Order/Shadow) and Tome of Resonance (Astral/Materium) - all for more Affinity diversity for your custom empires!\n\nTome of the Challenger: Challenge your enemies to a fair fight, and gain blessings for proving yourself worthy.\n\nTome of Chains: Demoralize your enemies and inflict Immobilized on them to keep them in your iron grip.\n\nTome of Resonance: Unite different Unit Types and make them work together in arcane formations.",
+ "name": "Thyron's Epic Starting Tome Collection",
+ "version": "0.0",
+ "id": "4c168ca2-9a4c-49cc-822f-ae43a1aff140",
+ "tags": [
+  "Mod",
+  "Tomes",
+  "Spells",
+  "Units",
+  "Abilities"
+ ]
+}
