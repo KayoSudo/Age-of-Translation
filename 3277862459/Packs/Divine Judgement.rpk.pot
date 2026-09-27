@@ -1,0 +1,166 @@
+# SHOULDBEFUZZY!!!
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: DIVINE JUDGEMENT.RPK:././././TUnitProperty/./
+msgid "ARMOR@NAME"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TStructureUpgradeR/./
+msgid "CITYUPGRADES_STRATEGIC@PROVINCE_IMPROVEMENT@REQUIREMENT"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TSpecialOperationR/./
+#: DIVINE JUDGEMENT.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@ANYWHERE@INSTRUCTIONS"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@ENEMY_UNIT@INSTRUCTIONS"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkill/./
+msgid "RESEARCHSKILLS@TAGS@SIEGE_PROJECT"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkill/./
+#: DIVINE JUDGEMENT.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@TACTICAL_BUFF_SPELL"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkill/./
+#: DIVINE JUDGEMENT.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@TACTICAL_DAMAGE_SPELL"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkill/./
+msgid "RESEARCHSKILLS@TAGS@UNIT"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkill/./
+#: DIVINE JUDGEMENT.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@UNIT_ENCHANTMENT_SPELL"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TBaseHeroSkill/./
+msgid "TOME_DIVINE_JUDGEMENT@HERO_SKILL@DESCRIPTION"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TBaseHeroSkill/./
+msgid "TOME_DIVINE_JUDGEMENT@HERO_SKILL@NAME"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TStructureUpgradeR/./
+msgid "TOME_DIVINE_JUDGEMENT@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TStructureUpgradeR/./
+#: DIVINE JUDGEMENT.RPK:././././TSectorType/./
+#: DIVINE JUDGEMENT.RPK:././././TSimpleRequisite/./
+msgid "TOME_DIVINE_JUDGEMENT@PROVINCE_IMPROVEMENT1@NAME"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkill/./
+#: DIVINE JUDGEMENT.RPK:././././TSiegeProjectR/./
+#: DIVINE JUDGEMENT.RPK:././././TCombatProperty/./
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_1@DESCRIPTION"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkill/./
+#: DIVINE JUDGEMENT.RPK:././././TSiegeProjectR/./
+#: DIVINE JUDGEMENT.RPK:././././TCombatProperty/./
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_1@NAME"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkill/./
+#: DIVINE JUDGEMENT.RPK:././././TSpecialOperationR/./
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_2@DESCRIPTION"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkill/./
+#: DIVINE JUDGEMENT.RPK:././././TSpecialOperationR/./
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_2@NAME"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkill/./
+#: DIVINE JUDGEMENT.RPK:././././TSpecialOperationR/./
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_3@DESCRIPTION"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkill/./
+#: DIVINE JUDGEMENT.RPK:././././TSpecialOperationR/./
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_3@NAME"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkill/./
+#: DIVINE JUDGEMENT.RPK:././././TSpecialOperationR/./
+#: DIVINE JUDGEMENT.RPK:././././TUnitProperty/./
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_4@DESCRIPTION"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkill/./
+#: DIVINE JUDGEMENT.RPK:././././TSpecialOperationR/./
+#: DIVINE JUDGEMENT.RPK:././././TUnitProperty/./
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_4@NAME"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkill/./
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_5@DESCRIPTION"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkill/./
+msgid "TOME_DIVINE_JUDGEMENT@SKILL_5@NAME"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkillGroup/./././
+msgid "TOME_DIVINE_JUDGEMENT@TOME@GAMEPLAY_DESCRIPTION"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkillGroup/./././
+msgid "TOME_DIVINE_JUDGEMENT@TOME@LORE_AUTHOR"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkillGroup/./././
+msgid "TOME_DIVINE_JUDGEMENT@TOME@LORE_DESCRIPTION"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TGridSkillGroup/./
+#: DIVINE JUDGEMENT.RPK:././././THeroSkillGroup/./
+msgid "TOME_DIVINE_JUDGEMENT@TOME@NAME"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TUnitProperty/./
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@ABILITY2@DESCRIPTION"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TUnitProperty/./
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@ABILITY2@NAME"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TUnitProperty/./
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@ABILITY4@DESCRIPTION"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TUnitProperty/./
+#: DIVINE JUDGEMENT.RPK:././././TUnitProperty/./
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@ABILITY4@NAME"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TBaseUnitR/./
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@ABILITY5@DESCRIPTION"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TBaseUnitR/./
+msgid "TOME_DIVINE_JUDGEMENT@UNIT1@ABILITY5@NAME"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TUnitAbilityModifier/./
+msgid "TOME_DIVINE_JUDGEMENT@UNIT2@ABILITY1@DESCRIPTION"
+msgstr ""
+
+#: DIVINE JUDGEMENT.RPK:././././TUnitAbilityModifier/./
+msgid "UNITPROPERTIES@CONDEMNED@NAME"
+msgstr ""
+

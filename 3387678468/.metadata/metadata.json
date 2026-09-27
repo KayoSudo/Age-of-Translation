@@ -1,9 +1,0 @@
-{
- "short_description": "Adds 2 new frost tomes to the game. Tome of the Looming Frost (Tier II) and Tome of Endless Winter (Tier IV).",
- "name": "Tomes of Winter",
- "version": "6.0",
- "id": "ff832dec-4013-443e-8f67-ff551acb6941",
- "tags": [
-  "Tomes"
- ]
-}

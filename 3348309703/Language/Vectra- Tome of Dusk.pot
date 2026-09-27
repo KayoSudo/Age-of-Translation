@@ -1,4 +1,0 @@
-msgid "TOME_DUSK@FEYSHIELD@NAME"
-msgstr "”
-msgid "TOME_DUSK@FEYSHIELD@DESCRIPTION"
-msgstr "”

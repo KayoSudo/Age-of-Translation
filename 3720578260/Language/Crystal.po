@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+msgid "MOD@CRYSTAL_TOME@TOME@NAME"
+msgstr "Tome of Crystals"
+
+msgid "MOD@CRYSTAL_TOME@TOME@LORE_DESCRIPTION"
+msgstr "\"From the deep places of the world, the Lithorine answer, sentient crystal beings drawn to those who can attune to their silent resonance. Their presence brings unyielding strength to the battlefield, towering forms of living stone that endure where flesh would fail, reflecting magic and splintering their foes with jagged precision. To wield their power is to command something ancient and patient, a force that does not rush, does not falter, and does not forget.\""
+
+msgid "MOD@CRYSTAL_TOME@TOME@LORE_AUTHOR"
+msgstr "Tome of Crystals"
+
+msgid "MOD@CRYSTAL_TOME@TOME@GAMEPLAY_DESCRIPTION"
+msgstr "Unlock the secrets of the Eternals, inflict {GLOBAL.PROPERTIES.VOLATILE_CHARGE.Hyperlink} upon your enemies and lead armies of lithorines."
+
+msgid "MOD@CRYSTAL_TOME@STRUCTURE@NAME"
+msgstr "Lithorite Embassy"
+
+msgid "MOD@CRYSTAL_TOME@STRUCTURE@DESCRIPTION"
+msgstr "[bulletlist][bullet/]{amount} {GLOBAL.ManaConcept.Hyperlink}[bullet/]{amount2} {GLOBAL.KnowledgeConcept.Hyperlink}[bullet/]Allow the drafting of various lithorine <<m:{GLOBAL.UnitConcept.Hyperlink}>>[/bulletlist]"
+
+msgid "MOD@CRYSTAL_TOME@DEFENSE@DESCRIPTION"
+msgstr "When besieged, every 2 <<m:{GLOBAL.TurnConcept.Hyperlink}>>, all attacking units have 60% chance of suffering {GLOBAL.PROPERTIES.VOLATILE_CHARGE.Hyperlink} unless they already suffer from it. {GLOBAL.PROPERTIES.VOLATILE_CHARGE.Hyperlink} expires in 2 <<m:{GLOBAL.TurnConcept.Hyperlink}>>."

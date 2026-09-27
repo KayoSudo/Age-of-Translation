@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "TOME_IVORY@TOME@NAME"
+msgstr "Tome of Ivory Towers"
+
+msgid "TOME_IVORY@TOME@LORE_DESCRIPTION"
+msgstr ""
+"“Life is precious. It is for this reason that we few harbour the shadowed "
+"hearts that bring enlightened bliss to all minds. Order must be brought in "
+"our own hearth first, before the World can enjoy our starlit harmony.”"
+
+msgid "TOME_IVORY@TOME@LORE_AUTHOR"
+msgstr "Dragomir, Kindred of the Night"
+
+msgid "TOME_IVORY@TOME@GAMEPLAY_DESCRIPTION"
+msgstr ""
+"Focus on bolstering your ally's resolve, by any means necessary. Bolster "
+"your heroes on the battlefield, and lead your armies to victory."
+
+msgid "TOME_IVORY@SKILL_1@NAME"
+msgstr "The Ivory Towers"
+
+msgid "TOME_IVORY@SKILL_1@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]+10 {GLOBAL.FortificationHealthConcept.Hyperlink}. "
+"[bullet/]+10 {GLOBAL.KnowledgeConcept.Hyperlink}. [bullet/]Allied units in "
+"domain start battles with +5 {GLOBAL.UnitMoraleConcept.Hyperlink}.[/"
+"bulletlist] \n"
+"[/br]For each {GLOBAL.CityStabilityConcept.Hyperlink} level above {GLOBAL."
+"CityStabilityUnstable.Hyperlink} the city gains: [bulletlist][bullet/]+5 "
+"{GLOBAL.ManaConcept.Hyperlink}. [bullet/]+5 {GLOBAL.KnowledgeConcept."
+"Hyperlink}."
+
+msgid "TOME_IVORY@SKILL_2@NAME"
+msgstr "Mind-Blanked Bliss"
+
+msgid "TOME_IVORY@SKILL_2@DESCRIPTION"
+msgstr ""
+"Target owned city produces:[bulletlist][bullet/]+20 {GLOBAL."
+"CityStabilityConcept.Hyperlink}. [bullet/]+4 {GLOBAL.ImperiumConcept."
+"Hyperlink} for each {GLOBAL.CityStabilityConcept.Hyperlink} above neutral. "
+"[bullet/]-10 {GLOBAL.StructureProductionConcept.Hyperlink}."
+
+msgid "TOME_IVORY@SKILL_3@NAME"
+msgstr "Thrall of the Pale Divine"
+
+msgid "TOME_IVORY@SKILL_3@DESCRIPTION"
+msgstr ""
+"At the start of your turn, if the unit has {GLOBAL.HighMoraleConcept."
+"Hyperlink}, gain +1 {GLOBAL.DefenseConcept.Hyperlink} and {GLOBAL."
+"ResistanceConcept.Hyperlink} for 1 {GLOBAL.TurnConcept.Hyperlink}."
+
+msgid "TOME_IVORY@SKILL_4@NAME"
+msgstr "Shimmer of Power"
+
+msgid "TOME_IVORY@SKILL_4@DESCRIPTION"
+msgstr ""
+"Target {GLOBAL.HeroConcept.Hyperlink} or Mythic unit gains:[bulletlist] "
+"[bullet/]5 {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink}. [bullet/]3 {GLOBAL."
+"PROPERTIES.BOLSTERED_DEFENSE.Hyperlink}. [bullet/]3 {GLOBAL.PROPERTIES."
+"BOLSTERED_RESISTANCE.Hyperlink}. [bullet/]{GLOBAL.PROPERTIES.NEW_LIFE_STEAL."
+"Hyperlink}."
+
+msgid "TOME_IVORY@SKILL_5@NAME"
+msgstr "Ivory Noble"
+
+msgid "TOME_IVORY@SKILL_5@DESCRIPTION"
+msgstr ""
+"A vampiric unit who leads mortal units to battle, dominating enemies and "
+"making them succumb to his will."
+
+msgid "TOME_IVORY@SKILL_6@NAME"
+msgstr "Pavane of the Silver Prince"
+
+msgid "TOME_IVORY@SKILL_6@DESCRIPTION"
+msgstr ""
+"Units in 1 hex radius sustain:[bulletlist] [bullet/]20 {GLOBAL."
+"PhysicalDamageConcept.Hyperlink}.[bullet/]Suffer the {GLOBAL.PROPERTIES."
+"DISTRACTED.Hyperlink} status condition."
+
+msgid "TOME_IVORY@HERO_SKILL@NAME"
+msgstr "Inspiring Killer"
+
+msgid "TOME_IVORY@HERO_SKILL@DESCRIPTION"
+msgstr "Grants the unit {GLOBAL.PROPERTIES.INSPIRING_KILLER.Hyperlink}."
+
+msgid "TOME_IVORY@PROVINCE_IMPROVEMENT1@NAME"
+msgstr "[Mine/] Ghost Marble Mine"
+
+msgid "TOME_IVORY@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]+10 {GLOBAL.GoldConcept.Hyperlink}[bullet/]+3 {GLOBAL."
+"SoulConcept.Hyperlink} for each adjacent {GLOBAL.MineConcept.Hyperlink}."
+"[bullet/]+3 {GLOBAL.GoldConcept.Hyperlink} for each adjacent {GLOBAL."
+"MineConcept.Hyperlink}. [bullet/]Counts as a {GLOBAL.MineConcept.Hyperlink}."
+
+msgid "TOME_IVORY@UNIT1@ABILITY1@NAME"
+msgstr "Chilling Geas"
+
+msgid "TOME_IVORY@UNIT1@ABILITY1@DESCRIPTION"
+msgstr ""
+"Target enemy unit:[bulletlist] [bullet/]Is {GLOBAL.PROPERTIES.TAUNTED."
+"Hyperlink}.[bullet/]Suffers 2 {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}. [/"
+"bulletlist]\n"
+"Caster gains 2 {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink}."
+
+msgid "TOME_IVORY@UNIT1@ABILITY2@NAME"
+msgstr ""
+
+msgid "TOME_IVORY@UNIT1@ABILITY2@DESCRIPTION"
+msgstr ""
+
+msgid "TOME_IVORY@UNIT2@ABILITY1@NAME"
+msgstr ""
+
+msgid "TOME_IVORY@UNIT2@ABILITY1@DESCRIPTION"
+msgstr ""
+
+msgid "TOME_IVORY@UNIT2@ABILITY2@NAME"
+msgstr ""
+
+msgid "TOME_IVORY@UNIT2@ABILITY2@DESCRIPTION"
+msgstr ""
+
+msgid "TOME_IVORY@UNIT2@ABILITY3@NAME"
+msgstr ""
+
+msgid "TOME_IVORY@UNIT2@ABILITY3@DESCRIPTION"
+msgstr ""
+
+msgid "TOME_IVORY@UNIT1@NAME_OVERRIDE"
+msgstr ""
+
+msgid "TOME_IVORY@STATUS1@NAME"
+msgstr ""
+
+msgid "TOME_IVORY@STATUS2@NAME"
+msgstr ""
+
+msgid "TOME_IVORY@STATUS1@DESCRIPTION"
+msgstr ""
+
+msgid "TOME_IVORY@STATUS2@DESCRIPTION"
+msgstr ""
+
+msgid "TOME_IVORY@STATUS1@BLOCK_STRING"
+msgstr ""
+
+msgid "TOME_IVORY@STATUS3@NAME"
+msgstr ""
+
+msgid "TOME_IVORY@STATUS3@DESCRIPTION"
+msgstr ""
+
+msgid "TOME_IVORY@STATUS4@NAME"
+msgstr ""
+
+msgid "TOME_IVORY@STATUS4@DESCRIPTION"
+msgstr ""
+
+msgid "TOME_IVORY@STATUS5@NAME"
+msgstr ""
+
+msgid "TOME_IVORY@STATUS5@DESCRIPTION"
+msgstr ""
+
+msgid "TOME_IVORY@UNIT1@ABILITY3@NAME"
+msgstr ""
+
+msgid "TOME_IVORY@UNIT1@ABILITY3@DESCRIPTION"
+msgstr ""
+
+msgid "TOME_IVORY@UNIT1@ABILITY4@NAME"
+msgstr ""
+
+msgid "TOME_IVORY@UNIT1@ABILITY4@DESCRIPTION"
+msgstr ""
+
+msgid "TOME_IVORY@UNIT1@ABILITY5@NAME"
+msgstr ""
+
+msgid "TOME_IVORY@UNIT1@ABILITY5@DESCRIPTION"
+msgstr ""
+
+msgid "TOME_IVORY@NOBLE@GIFT@NAME"
+msgstr "Ivoric Gift"
+
+msgid "TOME_IVORY@NOBLE@GIFT@DESC"
+msgstr ""
+" Invert all negative effects of the unit and then heal it by 8 {GLOBAL."
+"TemporaryHitPointConcept.Hyperlink} for each positive effect granted. "
+
+msgid "TOME_IVORY@NOBLE@EXTRACT@NAME"
+msgstr "Ivoric Extract"
+
+msgid "TOME_IVORY@NOBLE@EXTRACT@DESC"
+msgstr ""
+"Inflict damage to an enemy unit. Remove all positive effects and inflict 2x "
+"{GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}, {GLOBAL.PROPERTIES."
+"SUNDERED_RESISTANCE.Hyperlink} , and {GLOBAL.PROPERTIES.WEAKENED."
+"Hyperlink}, then heal self by 20 {GLOBAL.TemporaryHitPointConcept."
+"Hyperlink}."
+
+msgid "TOME_IVORY@NOBLE@THRALLS@NAME"
+msgstr "Calling of the Thralls"
+
+msgid "TOME_IVORY@NOBLE@THRALLS@DESC"
+msgstr ""
+"Gain one of the following abilities:[bulletlist][bullet/]{GLOBAL.PROPERTIES."
+"ARCHONS_SMITE.Hyperlink}[bullet/]{GLOBAL.PROPERTIES.WAIL_OF_THE_BANSHEE."
+"Hyperlink}[bullet/]{GLOBAL.PROPERTIES.PHASE.Hyperlink}[bullet/]{GLOBAL."
+"PROPERTIES.INSPIRING_KILLER.Hyperlink}"
+
+msgid "TOME_IVORY@NOBLE@LORE@NAME"
+msgstr ""
+
+msgid "TOME_IVORY@NOBLE@LORE@DESC"
+msgstr ""

@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+msgid "MOD@ELDRITCH_TOME@TOME@NAME"
+msgstr "Tome of Eldritch Secrets"
+
+msgid "MOD@ELDRITCH_TOME@TOME@LORE_DESCRIPTION"
+msgstr "\"Through eldritch knowledge, the veil thins and the Umbral Abyss answers, granting dominion over shadow and unseen paths. Umbral Demons emerge from these depths to harry and dismantle the enemy, their presence eroding morale and warping the flow of combat. To wield this knowledge is to reshape the field into a realm of creeping dread, where certainty falters and the unseen holds dominion.\""
+
+msgid "MOD@ELDRITCH_TOME@TOME@LORE_AUTHOR"
+msgstr "Tome of Crystals"
+
+msgid "MOD@ELDRITCH_TOME@TOME@GAMEPLAY_DESCRIPTION"
+msgstr "Harness the magic of the Umbral Abyss, spread the {GLOBAL.GloomTerrainConcept.Hyperlink} and command the horrifying creatures that dwells in it."
+
+msgid "MOD@ELDRITCH_TOME@SPI@NAME"
+msgstr "[conduit/] Umbral Seed"
+
+msgid "MOD@ELDRITCH_TOME@SPI@DESCRIPTION"
+msgstr "[bulletlist][bullet/]When placed, alter terrain into Gloom.[bullet/]+10 {GLOBAL.ManaConcept.Hyperlink} income.[bullet/]Per adjacent {GLOBAL.ProvinceConcept.Hyperlink} with {GLOBAL.GloomTerrainConcept.Hyperlink}:[bulletlist][bullet/]+2 {GLOBAL.ManaConcept.Hyperlink}.[bullet/]+2 {GLOBAL.KnowledgeConcept.Hyperlink}.[/bulletlist][bullet/]Allows the drafting of various Umbral Demon <<m:{GLOBAL.UnitConcept.Hyperlink}>>.[bullet/]Counts as a {GLOBAL.ConduitConcept.Hyperlink}.[/bulletlist]"
+
+msgid "MOD@ELDRITCH_TOME@DEFENSE@DESCRIPTION"
+msgstr "Adds 4 <<m:{GLOBAL.UNITS.UMBRAL_RIFTTOWER.Hyperlink}>> in {GLOBAL.CombatConcept.Hyperlink} during a {GLOBAL.SiegeConcept.Hyperlink}."
+
+msgid "MOD@ELDRITCH_TOME@SKILL@NAME"
+msgstr "Create Fleshlings"
+
+msgid "MOD@ELDRITCH_TOME@SKILL@DESCRIPTION"
+msgstr "Raises corpses in a 1-hex radius as {GLOBAL.UNITS.FLESHLING.Hyperlink} units that die at the end of combat.[br/][br/]{LOC.TACTICAL@ABILITY@NEVER_IN_WATER}"
