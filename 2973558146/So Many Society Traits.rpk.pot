@@ -1,0 +1,415 @@
+# SHOULDBEFUZZY!!!
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@ANCIENTDRUIDS@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@ANCIENTDRUIDS@EFFECT1"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@ANCIENTDRUIDS@EFFECT2"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@ANCIENTDRUIDS@EFFECT3"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@ANCIENTDRUIDS@EFFECT4"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@ANCIENTDRUIDS@EFFECT5"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TStructureUpgradeR/./
+msgid "SMST@ANCIENTDRUIDS@EFFECT7"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TStructureUpgradeR/./
+msgid "SMST@ANCIENTDRUIDS@EFFECT8"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@ANCIENTDRUIDS@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@AQUATICEXPLORERS@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@AQUATICEXPLORERS@EFFECT1"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@AQUATICEXPLORERS@EFFECT2"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@AQUATICEXPLORERS@EFFECT3"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@AQUATICEXPLORERS@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@ARACHNIDBREEDERS@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@ARACHNIDBREEDERS@EFFECT1"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@ARACHNIDBREEDERS@EFFECT2"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@ARACHNIDBREEDERS@EFFECT3"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TStartingRaceTraitProperty/./
+msgid "SMST@ARACHNIDBREEDERS@EFFECT4"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@ARACHNIDBREEDERS@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@ARCANEMAGES@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@ARCANEMAGES@EFFECT1"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@ARCANEMAGES@EFFECT2"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@ARCANEMAGES@EFFECT3"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@ARCANEMAGES@EFFECT4"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@ARCANEMAGES@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TBaseUnitR/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TBaseUnitR/./
+msgid "SMST@BROODLING@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TBaseUnitR/./
+msgid "SMST@BROODLING@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TBaseUnitR/./
+msgid "SMST@BROODMOTHER@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@COSMICSAGES@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@COSMICSAGES@EFFECT1"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@COSMICSAGES@EFFECT2"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@COSMICSAGES@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@COUNCILOFELDERS@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@COUNCILOFELDERS@EFFECT1"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@COUNCILOFELDERS@EFFECT2"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@COUNCILOFELDERS@EFFECT3"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@COUNCILOFELDERS@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@DARKCABALISTS@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@DARKCABALISTS@EFFECT1"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@DARKCABALISTS@EFFECT2"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@DARKCABALISTS@EFFECT3"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@DARKCABALISTS@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@FAMEDHEROES@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@FAMEDHEROES@EFFECT1"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@FAMEDHEROES@EFFECT2"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@FAMEDHEROES@EFFECT3"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@FAMEDHEROES@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@FIREBORNCHILDREN@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@FIREBORNCHILDREN@EFFECT1"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@FIREBORNCHILDREN@EFFECT2"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@FIREBORNCHILDREN@EFFECT3"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@FIREBORNCHILDREN@EFFECT4"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@FIREBORNCHILDREN@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@GREATANIMALISTS@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@GREATANIMALISTS@EFFECT1"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@GREATANIMALISTS@EFFECT2"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@GREATANIMALISTS@EFFECT3"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@GREATANIMALISTS@EFFECT4"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@GREATANIMALISTS@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@HELLCULTISTS@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@HELLCULTISTS@EFFECT1"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@HELLCULTISTS@EFFECT3"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@HELLCULTISTS@EFFECT4"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@HELLCULTISTS@EFFECT5"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@HELLCULTISTS@EFFECT6"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TStructureUpgradeR/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TStructureUpgradeR/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TStructureUpgradeR/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TStructureUpgradeR/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TStructureUpgradeR/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TStructureUpgradeR/./
+msgid "SMST@HELLCULTISTS@EFFECT7"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TStructureUpgradeR/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TStructureUpgradeR/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TStructureUpgradeR/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TStructureUpgradeR/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TStructureUpgradeR/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TStructureUpgradeR/./
+msgid "SMST@HELLCULTISTS@EFFECT8"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@HELLCULTISTS@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@IMMACULATEIMAGES@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@IMMACULATEIMAGES@EFFECT1"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@IMMACULATEIMAGES@EFFECT2"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@IMMACULATEIMAGES@EFFECT3"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@IMMACULATEIMAGES@EFFECT4"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@IMMACULATEIMAGES@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@IMMORTALNECROMANCERS@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@IMMORTALNECROMANCERS@EFFECT1"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@IMMORTALNECROMANCERS@EFFECT2"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@IMMORTALNECROMANCERS@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@PRIESTLYDEFENDERS@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@PRIESTLYDEFENDERS@EFFECT1"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@PRIESTLYDEFENDERS@EFFECT2"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@PRIESTLYDEFENDERS@EFFECT3"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@PRIESTLYDEFENDERS@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TUnitProperty/./
+msgid "SMST@VENOMSPIKE@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TUnitProperty/./
+msgid "SMST@VENOMSPIKE@NAME"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@VINDICTIVECRUSADERS@DESCRIPTION"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@VINDICTIVECRUSADERS@EFFECT1"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@VINDICTIVECRUSADERS@EFFECT2"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@VINDICTIVECRUSADERS@EFFECT3"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/././
+msgid "SMST@VINDICTIVECRUSADERS@EFFECT4"
+msgstr ""
+
+#: SO MANY SOCIETY TRAITS.RPK:././././TRaceTrait/./
+msgid "SMST@VINDICTIVECRUSADERS@NAME"
+msgstr ""
+

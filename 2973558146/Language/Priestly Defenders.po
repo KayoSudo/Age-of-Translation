@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "SMST@PRIESTLYDEFENDERS@NAME"
+msgstr "Priestly Defenders [goodact/]"
+
+msgid "SMST@PRIESTLYDEFENDERS@DESCRIPTION"
+msgstr ""
+"They believe in defending their sanctity through divine priesthood, for the good of all.\n"
+"Added from So Many Society Traits mod."
+
+msgid "SMST@PRIESTLYDEFENDERS@TOOLTIP"
+msgstr "[bulletlist][bullet/]Units have +1 {GLOBAL.DefenseConcept.Hyperlink} and +1 {GLOBAL.ResistanceConcept.Hyperlink} in friendly domains.[bullet/]+10 [goodact/] {GLOBAL.AlignmentConcept.Name}.[bullet/]Founding Cities grants a free {GLOBAL.PROPERTIES.BATTLE_MAGE.Hyperlink} and a {GLOBAL.CityWallStructureConcept.Hyperlink}.[bullet/]Start with an extra unique Tier 3 {GLOBAL.PROPERTIES.BATTLE_MAGE.Hyperlink}.[/bulletlist]"
+
+msgid "SMST@PRIESTLYDEFENDERS@EFFECT1"
+msgstr "Units have +1 {GLOBAL.DefenseConcept.Hyperlink} and +1 {GLOBAL.ResistanceConcept.Hyperlink} in friendly domains."
+
+msgid "SMST@PRIESTLYDEFENDERS@EFFECT2"
+msgstr "+10 [goodact/] {GLOBAL.AlignmentConcept.Name}."
+
+msgid "SMST@PRIESTLYDEFENDERS@EFFECT3"
+msgstr "Founding or Absorbing Cities grants a free Lightbringer [order/] {GLOBAL.PROPERTIES.BATTLE_MAGE.Hyperlink} and a {GLOBAL.CityWallStructureConcept.Hyperlink}."
+
+msgid "SMST@PRIESTLYDEFENDERS@EFFECT4"
+msgstr "Start with an extra unique Tier 3 {GLOBAL.PROPERTIES.BATTLE_MAGE.Hyperlink}."
+
+msgid "SMST@PRIESTLYDEFENDERS@EFFECT5"
+msgstr ""

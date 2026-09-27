@@ -1,0 +1,16 @@
+msgid "SMST@TRAIT@NAME"
+msgstr "”
+msgid "SMST@TRAIT@DESCRIPTION"
+msgstr "”
+msgid "SMST@TRAIT@TOOLTIP"
+msgstr "”
+msgid "SMST@TRAIT@EFFECT1"
+msgstr "”
+msgid "SMST@TRAIT@EFFECT2"
+msgstr "”
+msgid "SMST@TRAIT@EFFECT3"
+msgstr "”
+msgid "SMST@TRAIT@EFFECT4"
+msgstr "”
+msgid "SMST@TRAIT@EFFECT5"
+msgstr "”

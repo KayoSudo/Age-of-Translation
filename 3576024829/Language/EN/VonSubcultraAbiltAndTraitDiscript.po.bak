@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "TRASC@CUSTOM_DISCRIPT"
+msgstr "If this unit is under the effect of {GLOBAL.PROPERTIES.ANGELEZ.Hyperlink} gain +1 {GLOBAL.DefenseConcept.Hyperlink} and +20 {GLOBAL.UnitMoraleConcept.Hyperlink}."
+
+msgid "RECARN@DESCRIPTION"
+msgstr "1 <<m:{GLOBAL.TurnConcept}>> after this unit dies, it:[bulletlist][bullet/]Comes back to life with 100% of its total <<m:{GLOBAL.HitPointConcept.Hyperlink}>>.[/bulletlist][br/][br/]Works once per battle."
+
+msgid "WARDINABSORB@E01@ABILITY_DESCRIPTION"
+msgstr "Damage sustained by the target friendly unit is transferred to this unit with a 35% reduction."
+
+msgid "WARDINABSORBCANEL@E01@CANCEL_ABILITY_DESCRIPTION"
+msgstr "Cancels the effect of Absorb Pain."
+
+msgid "WARDINABSORBCANELH@E01@CANCEL_NAME"
+msgstr "Cancel Absorb Pain"
+
+msgid "MARTINDOM@E01@CANCEL_NAME"
+msgstr "When this unit dies all friendly units gain {GLOBAL.PROPERTIES.GRACE.Hyperlink} and 15 {GLOBAL.UnitMoraleConcept.Hyperlink}."
+
+msgid "VOPO@DISCRIPT"
+msgstr "{GLOBAL.UnitUpkeepConcept.Hyperlink} is decreased by -3 {GLOBAL.GoldConcept.Hyperlink} and {GLOBAL.ManaConcept.Hyperlink} is decreased by 30%."
+
+msgid "SHRUGOFF@E01@CANCEL_NAME"
+msgstr "At the star of this units turn dispel 1 negative status effect."
+
+msgid "TOUOFFAI@E01@CANCEL_NAME"
+msgstr "Target friendly unit gain:[bulletlist][bullet/]{GLOBAL.PROPERTIES.BOLSTERED_RESISTANCE.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.STATUS_PROTECTION.Hyperlink}.[bullet/]+15 {GLOBAL.UnitMoraleConcept.Hyperlink}.[bullet/]Enter {GLOBAL.DefenseModeConcept.Hyperlink} after use."
+
+msgid "INVADERE@E01@CANCEL_NAME"
+msgstr "When inside enemy domain this unit get 1+ {GLOBAL.DefenseConcept.Hyperlink} and {GLOBAL.ResistanceConcept.Hyperlink}."
+
+msgid "COHRHEL@DISCRIPT"
+msgstr "Target friendly unit:[bulletlist][bullet/]Heals for +15 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[bullet/]For each friendly {GLOBAL.PROPERTIES.PILGRIM.Hyperlink} unit in battle (up to 3) heal an extra 5 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[bullet/]For each friendly {GLOBAL.PROPERTIES.CRUSEDER.Hyperlink} unit in battle (up to 3) heal an extra 5 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[/bulletlist]"
+
+msgid "LAYHAND@E01@CANCEL_NAME"
+msgstr "Target friendly unit gain:[bulletlist][bullet/]{GLOBAL.PROPERTIES.REGENERATION.Hyperlink}[bullet/]For each friendly {GLOBAL.PROPERTIES.PILGRIM.Hyperlink} unit in battle (up to 6) heal 4 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>.[bullet/]Enter {GLOBAL.DefenseModeConcept.Hyperlink} after use.[/bulletlist]"
+
+msgid "PRISIST@E01@CANCEL_NAME"
+msgstr "Removes damage penalties from {GLOBAL.CasualtyConcept.Hyperlink}"
+
+msgid "BREAKCONTOL@E01@CANCEL_NAME"
+msgstr "Removes all control loss effects, such as {GLOBAL.PROPERTIES.BERSERK.Hyperlink} and {GLOBAL.PROPERTIES.DOMINATED.Hyperlink}."
+
+msgid "BHANISHE@E01@CANCEL_NAME"
+msgstr "Target enemy with one of the following properties:[bulletlist][bullet/]{GLOBAL.PROPERTIES.UNDEAD.Hyperlink} and {GLOBAL.PROPERTIES.UMBRAL_DEMON.Hyperlink} takes 25 {GLOBAL.SpiritDamageConcept.Hyperlink} and 25 {GLOBAL.FireDamageConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.ACCURSED.Hyperlink} takes 50 {GLOBAL.LightningDamageConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.ETHEREAL.Hyperlink} takes 50 {GLOBAL.SpiritDamageConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.INFERNAL_FIEND.Hyperlink} takes 25 {GLOBAL.SpiritDamageConcept.Hyperlink} and 25 {GLOBAL.FrostDamageConcept.Hyperlink}.[bullet/]{GLOBAL.PROPERTIES.CELESTIAL.Hyperlink} takes 25 {GLOBAL.BlightDamageConcept.Hyperlink} and 25 {GLOBAL.FrostDamageConcept.Hyperlink}.[bullet/]Instantly kill target {GLOBAL.PROPERTIES.COMBAT_SUMMON.Hyperlink}.[/bulletlist]"
+
+msgid "DIVININTREVENT@E01@CANCEL_NAME"
+msgstr "Target friendly unit:[bulletlist][bullet/]Target gain {GLOBAL.PROPERTIES.INVULNERABLE.Hyperlink} for 1 {GLOBAL.TurnConcept}[bullet/]For each friendly {GLOBAL.PROPERTIES.PILGRIM.Hyperlink} unit in battle (up to 6) target heal 4 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>> [bullet/]Enter {GLOBAL.DefenseModeConcept.Hyperlink} after use.[/bulletlist]"
+
+msgid "PRESEISTEND@E01@CANCEL_NAME"
+msgstr "Remove {GLOBAL.CasualtyConcept.Hyperlink} damage penalties from adjacent friendly {GLOBAL.PROPERTIES.SKIRMISHER.Hyperlink}, {GLOBAL.PROPERTIES.SUPPORT_UNIT.Hyperlink} and {GLOBAL.PROPERTIES.BATTLE_MAGE.Hyperlink}."
+
+msgid "GRACEFULL@E01@CANCEL_NAME"
+msgstr "Start battle with 2 stacks of {GLOBAL.PROPERTIES.GRACE.Hyperlink}."
+
+msgid "CLENSE@E01@CANCEL_NAME"
+msgstr "Removes all negative status effects from target ally ."
+
+msgid "HIALOFBOLTSVOL@E01@ABILNAME"
+msgstr "Deal damage to target unit:[bulletlist][bullet/]First attack deals +4 {GLOBAL.PhysicalDamageConcept.Hyperlink} to adjacent enemies.[bullet/]Second attack deals +8 {GLOBAL.PhysicalDamageConcept.Hyperlink} to adjacent enemies.[bullet/]Third attack deals +12 {GLOBAL.PhysicalDamageConcept.Hyperlink} to adjacent enemies.[/bulletlist]"
+
+msgid "DEFENSSHOT@E01@ABILNAME"
+msgstr "Powerful ranged attack with increased range and accuracy."
+
+msgid "CRUSADERSTRIK@E01@ABILNAME"
+msgstr "Powerful Charge attack that ignore {GLOBAL.PROPERTIES.CHARGE_RESISTANCE.Hyperlink}:[bulletlist][bullet/]Distance Bonus 20% damage per hex traveled, up to 3 hexes.[bullet/]Cancels {GLOBAL.DefenseModeConcept.Hyperlink}[bullet/]Removes {GLOBAL.RetaliationConcept.Hyperlink}.[bullet/]For each friendly {GLOBAL.PROPERTIES.CRUSEDER.Hyperlink} unit in battle (up to 3) this attcak gains +3 {GLOBAL.FireDamageConcept.Hyperlink}.[/bulletlist]"
+
+msgid "BROTARMS@E01@ABILNAME"
+msgstr "Adjacent friendly {GLOBAL.PROPERTIES.SHOCK_UNIT.Hyperlink}, {GLOBAL.PROPERTIES.FIGHTER.Hyperlink}, {GLOBAL.PROPERTIES.SKIRMISHER.Hyperlink}, {GLOBAL.PROPERTIES.RANGED_UNIT.Hyperlink}, {GLOBAL.PROPERTIES.SHIELD_UNIT.Hyperlink} or {GLOBAL.PROPERTIES.POLEARM_UNIT.Hyperlink} gain 20% damage."
+
+msgid "FANATIC@E01@ABILNAME"
+msgstr "When this unit reachs 1 <<m:{GLOBAL.HitPointConcept.Hyperlink}>>, it gain {GLOBAL.PROPERTIES.STEADFAST.Hyperlink} (for 1 [turn/])."
+
+msgid "CLERICKAURA@E01@ABILNAME"
+msgstr "Adjacent friendly units receive 30% healing from any source."
+
+msgid "ETHERASLAYER@E01@ABILNAME"
+msgstr "Base attacks deal +40% damage to {GLOBAL.PROPERTIES.ETHEREAL.Hyperlink} units."
+
+msgid "STRENHENDRESOLVE@E01@ABILNAME"
+msgstr "When hit by a melee) attack gain {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink} and statusprot)."
+
+msgid "AURAOFRERUB@E01@ABILNAME"
+msgstr "Attacks that hit adjacent friendly units from within 3 hexes deal:[bulletlist][bullet/] +5 {GLOBAL.SpiritDamageConcept.Hyperlink} to the attack.[bullet/]Inflict {GLOBAL.PROPERTIES.CONDEMNED.Hyperlink} on the attack."
+
+msgid "PURAFYTYBLAST@E01@ABILNAME"
+msgstr "Damage All adjacent enemy units:[bulletlist][bullet/]All adjacent enemy units have a 120% chance of receiveing {GLOBAL.PROPERTIES.DISRUPTION_TOOLTIP_PROPERTY.Hyperlink} for 2 [turn/].[bullet/]Enemy units have their positive Status effects dispelled.[bullet/]This unit enters {GLOBAL.DefenseModeConcept.Hyperlink} after use."
+
+msgid "CRUSADERABILTY@E01@ABILNAME"
+msgstr "{GLOBAL.PROPERTIES.VENERATEDNEW.Hyperlink} units give this unit +2 {GLOBAL.FireDamageConcept.Hyperlink}. (up to 1).[br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "CRUSADERABILTY1@E01@ABILNAME"
+msgstr "[bulletlist][bullet/]Friendly unit with {GLOBAL.PROPERTIES.VENERATEDNEW.Hyperlink} get +1 {GLOBAL.FireDamageConcept.Hyperlink}. (up to 2)[bullet/]{GLOBAL.PROPERTIES.VENERATEDNEW.Hyperlink} units give this unit +2 {GLOBAL.FireDamageConcept.Hyperlink}. (up to 1)[br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "PILGREIMABILTY@E01@ABILNAME"
+msgstr "[bulletlist][bullet/]Friendly unit with {GLOBAL.PROPERTIES.VENERATEDNEW.Hyperlink} get +1 {GLOBAL.SpiritDamageConcept.Hyperlink}. (up to 2)[bullet/]{GLOBAL.PROPERTIES.VENERATEDNEW.Hyperlink} units give this unit +2 {GLOBAL.SpiritDamageConcept.Hyperlink}. (up to 1)[br/][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "PILGREIMABILTY1@E01@ABILNAME"
+msgstr "{GLOBAL.PROPERTIES.VENERATEDNEW.Hyperlink} units give this unit +2 {GLOBAL.SpiritDamageConcept.Hyperlink}. (up to 1).[br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "VENERATEEDABILTY@E01@ABILNAME"
+msgstr "This unit get:[bulletlist][bullet/]For each frindly unit with {GLOBAL.PROPERTIES.CRUSEDER.Hyperlink} attacks get +1 {GLOBAL.FireDamageConcept.Hyperlink}. (up to 2)[bullet/]For each frindly unit with {GLOBAL.PROPERTIES.PILGRIM.Hyperlink} attacks get +1 {GLOBAL.SpiritDamageConcept.Hyperlink}. (up to 2)[/bulletlist] Frindly units with:[bulletlist][bullet/]{GLOBAL.PROPERTIES.PILGRIM.Hyperlink} get +2 {GLOBAL.SpiritDamageConcept.Hyperlink}. (up to 1)[bullet/]{GLOBAL.PROPERTIES.CRUSEDER.Hyperlink} get +2 {GLOBAL.FireDamageConcept.Hyperlink}. (up to 1)[br/][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "CONFESION@DISCRIPT"
+msgstr "Target unit:[bulletlist][bullet/]Friendly unit gain {GLOBAL.PROPERTIES.HASTENED.Hyperlink} and +2 {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink}[bullet/]Enemy unit have a 90% {GLOBAL.PROPERTIES.SLOWED.Hyperlink} and 2 {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}."
+
+msgid "CRUADER@SUDRINGSTRIKER@ABILNAME"
+msgstr "For each friendly unit with {GLOBAL.PROPERTIES.CRUSEDER.Hyperlink} (up to 3) deal an additional +2 {GLOBAL.FireDamageConcept.Hyperlink} to target unit.[br/]Enter {GLOBAL.DefenseModeConcept.Hyperlink} after use."
+
+msgid "CRUADER@RETAURA@ABILNAME"
+msgstr "This unit grant {GLOBAL.PROPERTIES.HOLY_RETRIBUTION.Hyperlink} to adjacent friendly units."
+
+msgid "EVNGOLDRANK@BOUNUS@NAME"
+msgstr "Champion Chorus of Healing"
+
+msgid "EVNGOLDRANK@BOUNUS@DISCRPT"
+msgstr "Chorus of Healing:[bulletlist][bullet/]Heals an additional 15 {GLOBAL.HitPointConcept.Hyperlink}.[bullet/]Cooldown reduced by 1 <<m:{GLOBAL.TurnConcept}>>."
+
+msgid "CONFESGOLDRANK@BOUNUS@NAME"
+msgstr "Champion Medal: Exalted Deathward"
+
+msgid "CONFESGOLDRANK@BOUNUS@DISCRPT"
+msgstr "Deathward:[bulletlist]Cooldown reduced by 1 <<m:{GLOBAL.TurnConcept}>>"
+
+msgid "CONFESMIANTNENCE@BOUNUS@NAME"
+msgstr "Base {GLOBAL.UnitUpkeepConcept.Hyperlink} is increased by 3 {GLOBAL.ManaConcept.Hyperlink}"
+
+msgid "ITRESSORNREABILTI@BOUNUS@DISCRIPT"
+msgstr "Strikes enemy target and Enter {GLOBAL.DefenseModeConcept.Hyperlink}."
+
+msgid "RETELATIONDEFENSTER@BOUNUS@DISCRPT"
+msgstr "This unit enters {GLOBAL.DefenseModeConcept.Hyperlink} after performing {GLOBAL.RetaliationConcept.Hyperlink}."
+
+msgid "PURTENSTRIKE@E01@ABILNAME"
+msgstr "Strikes enemy target and Enter {GLOBAL.DefenseModeConcept.Hyperlink}:[bulletlist][bullet/]Cancels {GLOBAL.DefenseModeConcept.Hyperlink}[bullet/]Removes {GLOBAL.RetaliationConcept.Hyperlink}.[bullet/]For each friendly {GLOBAL.PROPERTIES.PILGRIM.Hyperlink} unit in battle (up to 6) target heal 4 <<m:{GLOBAL.TemporaryHitPointConcept.Hyperlink}>>."
+
+msgid "REWOKEDCULTUERMEC@BOUNUS@DISCRPT"
+msgstr "This unit enters {GLOBAL.DefenseModeConcept.Hyperlink} after performing {GLOBAL.RetaliationConcept.Hyperlink}."
+
+msgid "PAVASERDEFENSSHOT@RANGED_ATTACK@DESCRIPTION"
+msgstr "Fire ranged projectile at target enemy unit. Enter {GLOBAL.DefenseModeConcept.Hyperlink} after use."

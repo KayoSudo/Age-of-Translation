@@ -1,0 +1,166 @@
+# SHOULDBEFUZZY!!!
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: test\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "CULTURE_ROGUE@CITY_ADJECTIVE_01@NAME"
+msgstr "New^a"
+
+msgid "CULTURE_ROGUE@CITY_NAME_01@NAME"
+msgstr "Grithill^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_02@NAME"
+msgstr "Swindler Falls^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_03@NAME"
+msgstr "Commoner’s Castle^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_04@NAME"
+msgstr "Coincrag^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_05@NAME"
+msgstr "Cragwarg^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_06@NAME"
+msgstr "Kheersholm^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_07@NAME"
+msgstr "City of a Thousand Daggers^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_08@NAME"
+msgstr "Sethel^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_09@NAME"
+msgstr "Sinbad^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_10@NAME"
+msgstr "Hellpath^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_11@NAME"
+msgstr "Merrimon^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_12@NAME"
+msgstr "Thornvale^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_13@NAME"
+msgstr "Vicefall^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_14@NAME"
+msgstr "Smogworth^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_15@NAME"
+msgstr "Tarbottom^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_16@NAME"
+msgstr "Wayrest^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_17@NAME"
+msgstr "Thiefway^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_18@NAME"
+msgstr "Fiddler’s Green^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_19@NAME"
+msgstr "Murk Row^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_20@NAME"
+msgstr "Jestercourt^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_21@NAME"
+msgstr "Crossroad Keep^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_22@NAME"
+msgstr "The Crossroads^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_23@NAME"
+msgstr "Ratway^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_24@NAME"
+msgstr "Plunderer’s Palace^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_25@NAME"
+msgstr "Plunderplough^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_26@NAME"
+msgstr "Neverwhere^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_28@NAME"
+msgstr "Dusk’s Dawn^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_29@NAME"
+msgstr "Longknife^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_30@NAME"
+msgstr "Cutthroat’s Corner^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_31@NAME"
+msgstr "Beauclaire^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_32@NAME"
+msgstr "Belleview^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_33@NAME"
+msgstr "Baskerville^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_34@NAME"
+msgstr "Sparrowton^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_35@NAME"
+msgstr "Sparrowslaugh^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_36@NAME"
+msgstr "Crowkeep^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_37@NAME"
+msgstr "Clawthorpe^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_38@NAME"
+msgstr "Junkerton^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_39@NAME"
+msgstr "Gambler’s Respite^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_40@NAME"
+msgstr "Blackjack^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_41@NAME"
+msgstr "Hawthorne^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_42@NAME"
+msgstr "Blackwind ^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_43@NAME"
+msgstr "Deadwood^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_44@NAME"
+msgstr "Daggerkeep^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_45@NAME"
+msgstr "Foolshold^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_46@NAME"
+msgstr "Blackgate^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_47@NAME"
+msgstr "Poacherpark^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_48@NAME"
+msgstr "Silveralley^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_49@NAME"
+msgstr "Fleahaven^N"
+
+msgid "CULTURE_ROGUE@CITY_NAME_50@NAME"
+msgstr "Blackwater^N"
+
+msgid "CULTURE_ROGUE@FEUDAL@BIO"
+msgstr "They are assassins and masters of stealth not bound by any laws, their loyalty is purchased in gold."

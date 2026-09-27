@@ -1,0 +1,487 @@
+# SHOULDBEFUZZY!!!
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: test\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_01@NAME"
+msgstr "Tiara^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_02@NAME"
+msgstr "Elene^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_03@NAME"
+msgstr "Isabelle^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_05@NAME"
+msgstr "Katherine^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_06@NAME"
+msgstr "Myah^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_08@NAME"
+msgstr "Hester^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_09@NAME"
+msgstr "Isabella^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_10@NAME"
+msgstr "Laryssa^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_11@NAME"
+msgstr "Leontina^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_12@NAME"
+msgstr "Yara^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_13@NAME"
+msgstr "Matilda^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_14@NAME"
+msgstr "Mary^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_15@NAME"
+msgstr "Philippa^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_16@NAME"
+msgstr "Tanja^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_17@NAME"
+msgstr "Thalia^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_18@NAME"
+msgstr "Valery^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_19@NAME"
+msgstr "Victoria^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_20@NAME"
+msgstr "Helaine^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_21@NAME"
+msgstr "Katryna^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_22@NAME"
+msgstr "Iryssa^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_23@NAME"
+msgstr "Gyrana^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_24@NAME"
+msgstr "Bronwyn^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_25@NAME"
+msgstr "Ryven^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_26@NAME"
+msgstr "Velanna^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_27@NAME"
+msgstr "Rhynia^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_28@NAME"
+msgstr "Portia^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_29@NAME"
+msgstr "Marise^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_30@NAME"
+msgstr "Hermina^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_31@NAME"
+msgstr "Heather^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_32@NAME"
+msgstr "Laduina^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_33@NAME"
+msgstr "Mayla^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_34@NAME"
+msgstr "Ella^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_35@NAME"
+msgstr "Leana^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_36@NAME"
+msgstr "Eleanor^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_37@NAME"
+msgstr "Aster^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_38@NAME"
+msgstr "Tiberna^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_39@NAME"
+msgstr "Mayla^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_40@NAME"
+msgstr "Natalia^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_41@NAME"
+msgstr "Myrna^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_42@NAME"
+msgstr "Raula^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_43@NAME"
+msgstr "Talitha^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_44@NAME"
+msgstr "Helene^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_45@NAME"
+msgstr "Mira^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_46@NAME"
+msgstr "Enid^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_47@NAME"
+msgstr "Morena^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_48@NAME"
+msgstr "Safira^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_49@NAME"
+msgstr "Terryn^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_50@NAME"
+msgstr "Ylwen^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_51@NAME"
+msgstr "Adelina^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_52@NAME"
+msgstr "Dagna^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_53@NAME"
+msgstr "Clara^F"
+
+msgid "CULTURE_ROGUE@HERO_FEMALE_FIRSTNAME_54@NAME"
+msgstr "Fryda^F"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_01@NAME"
+msgstr "Milcus^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_02@NAME"
+msgstr "Flynn^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_04@NAME"
+msgstr "Edmund^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_05@NAME"
+msgstr "Gareth^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_06@NAME"
+msgstr "Hector^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_08@NAME"
+msgstr "William^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_09@NAME"
+msgstr "Jonas^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_10@NAME"
+msgstr "Leo^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_11@NAME"
+msgstr "Lucas^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_13@NAME"
+msgstr "Lucius^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_14@NAME"
+msgstr "Oscar^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_15@NAME"
+msgstr "Owain^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_16@NAME"
+msgstr "Peander^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_17@NAME"
+msgstr "Nathaniel^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_18@NAME"
+msgstr "Salomon^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_19@NAME"
+msgstr "Tristain^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_20@NAME"
+msgstr "Victor^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_21@NAME"
+msgstr "Cadicus^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_22@NAME"
+msgstr "Dirk^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_23@NAME"
+msgstr "Pandor^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_24@NAME"
+msgstr "Arden^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_25@NAME"
+msgstr "Thomas^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_26@NAME"
+msgstr "Peter^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_27@NAME"
+msgstr "Greyn^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_28@NAME"
+msgstr "Clemens^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_29@NAME"
+msgstr "Sammish^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_30@NAME"
+msgstr "Sergey^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_31@NAME"
+msgstr "Jonah^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_32@NAME"
+msgstr "Adamas^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_33@NAME"
+msgstr "Samicah^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_34@NAME"
+msgstr "Hardwyn^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_35@NAME"
+msgstr "Doltan^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_36@NAME"
+msgstr "Joachim^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_37@NAME"
+msgstr "Percy^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_38@NAME"
+msgstr "Reynard^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_39@NAME"
+msgstr "Reginald^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_40@NAME"
+msgstr "Lorton^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_41@NAME"
+msgstr "Vigo^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_42@NAME"
+msgstr "Nashton^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_43@NAME"
+msgstr "Orpaul^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_44@NAME"
+msgstr "Doltan^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_45@NAME"
+msgstr "Adamas^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_46@NAME"
+msgstr "Beckston^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_47@NAME"
+msgstr "Orvus^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_48@NAME"
+msgstr "Pelenir^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_49@NAME"
+msgstr "Greyn^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_50@NAME"
+msgstr "Queodan^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_51@NAME"
+msgstr "Rasten^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_52@NAME"
+msgstr "Damian^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_53@NAME"
+msgstr "Sammish^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_54@NAME"
+msgstr "Tavelli^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_55@NAME"
+msgstr "Parsival^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_56@NAME"
+msgstr "Renald^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_57@NAME"
+msgstr "Carel^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_58@NAME"
+msgstr "Terence^M"
+
+msgid "CULTURE_ROGUE@HERO_FIRSTNAME_59@NAME"
+msgstr "Jack^M"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_01@NAME"
+msgstr "Rider^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_02@NAME"
+msgstr "Owleye^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_03@NAME"
+msgstr "Carpenter^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_04@NAME"
+msgstr "Claytus^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_05@NAME"
+msgstr "Krumb^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_06@NAME"
+msgstr "Goodwine^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_07@NAME"
+msgstr "Smallshadow^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_08@NAME"
+msgstr "Cragg^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_09@NAME"
+msgstr "Nasica^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_10@NAME"
+msgstr "Paytus^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_11@NAME"
+msgstr "Hawthorne^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_12@NAME"
+msgstr "Salvittus^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_15@NAME"
+msgstr "Warden^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_16@NAME"
+msgstr "Blackhand^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_17@NAME"
+msgstr "Delagara^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_18@NAME"
+msgstr "Falconis^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_19@NAME"
+msgstr "Fisher^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_20@NAME"
+msgstr "Goldhardt^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_21@NAME"
+msgstr "Hillcrest^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_22@NAME"
+msgstr "Mistfoot^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_23@NAME"
+msgstr "Harrowfoot^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_24@NAME"
+msgstr "Gold^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_25@NAME"
+msgstr "Mason^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_26@NAME"
+msgstr "Silver^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_27@NAME"
+msgstr "Smith^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_28@NAME"
+msgstr "Bloodrose^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_29@NAME"
+msgstr "Softstalker^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_30@NAME"
+msgstr "Weaver^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_31@NAME"
+msgstr "Holder^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_32@NAME"
+msgstr "Brewer^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_33@NAME"
+msgstr "Faulkner^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_34@NAME"
+msgstr "Quickhands^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_35@NAME"
+msgstr "Holder^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_36@NAME"
+msgstr "Oathardt^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_37@NAME"
+msgstr "Black^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_38@NAME"
+msgstr "Miller^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_39@NAME"
+msgstr "Smith^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_40@NAME"
+msgstr "Quintus^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_41@NAME"
+msgstr "Codwell^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_42@NAME"
+msgstr "Forester^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_43@NAME"
+msgstr "Umbridge^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_44@NAME"
+msgstr "Taylor^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_45@NAME"
+msgstr "Webber^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_46@NAME"
+msgstr "Cohen^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_47@NAME"
+msgstr "Collier^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_48@NAME"
+msgstr "Marshall^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_49@NAME"
+msgstr "Stewart^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_50@NAME"
+msgstr "Wainwright^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_51@NAME"
+msgstr "Harper^z"
+
+msgid "CULTURE_ROGUE@HERO_SECONDNAME_52@NAME"
+msgstr "Avery^z"

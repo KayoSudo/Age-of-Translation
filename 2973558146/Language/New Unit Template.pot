@@ -1,0 +1,4 @@
+msgid "SMST@TEXT@NAME"
+msgstr "”
+msgid "SMST@TEXT@DESCRIPTION"
+msgstr "”

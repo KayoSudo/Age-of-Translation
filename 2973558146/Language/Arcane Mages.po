@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "SMST@ARCANEMAGES@NAME"
+msgstr "Arcane Mages"
+
+msgid "SMST@ARCANEMAGES@DESCRIPTION"
+msgstr ""
+"They are unmatched in their ability to harness magic.\n"
+"Added from So Many Society Traits mod."
+
+msgid "SMST@ARCANEMAGES@TOOLTIP"
+msgstr ""
+
+msgid "SMST@ARCANEMAGES@EFFECT1"
+msgstr "[hyperlink,GLOBAL.CombatSpellConcept]Combat Spells[/hyperlink] cost 15% more {GLOBAL.ManaConcept.Hyperlink}."
+
+msgid "SMST@ARCANEMAGES@EFFECT2"
+msgstr "Each {GLOBAL.PopulationConcept.Hyperlink} and {GLOBAL.UnitConcept.Hyperlink} costs 1 {GLOBAL.ManaConcept.Hyperlink} to mantain per {GLOBAL.WorldMapConcept.Hyperlink} {GLOBAL.TurnConcept.Hyperlink}."
+
+msgid "SMST@ARCANEMAGES@EFFECT3"
+msgstr "All Non-{GLOBAL.PhysicalDamageConcept.Hyperlink} your units and spells deal is increased by 15%."
+
+msgid "SMST@ARCANEMAGES@EFFECT4"
+msgstr "Units have +2 {GLOBAL.FireResistanceConcept.Hyperlink}, {GLOBAL.FrostResistanceConcept.Hyperlink}, and {GLOBAL.LightningResistanceConcept.Hyperlink}."
+
+msgid "SMST@ARCANEMAGES@EFFECT5"
+msgstr ""
+
+msgid "SMST@ARCANEMAGES@EFFECT6"
+msgstr ""
+
+msgid "SMST@ARCANEMAGES@EFFECT7"
+msgstr ""
+
+msgid "SMST@ARCANEMAGES@EFFECT8"
+msgstr ""
+
+msgid "SMST@ARCANEMAGES@EFFECT9"
+msgstr ""
