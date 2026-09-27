@@ -1,0 +1,11 @@
+{
+ "short_description": "Adds Artifact Refinery structures that generate binding essence income.",
+ "name": "Artifact Refinery",
+ "version": "9.0",
+ "id": "3ec54414-1aea-4537-8d05-cbe89618577e",
+ "tags": [
+  "City Upgrades",
+  "Items",
+  "Economy"
+ ]
+}

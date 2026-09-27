@@ -1,0 +1,201 @@
+# SHOULDBEFUZZY!!!
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TOME_FIRE_GIANTS.RPK:././././TStructureUpgradeR/./
+msgid "CITYUPGRADES_STRATEGIC@PROVINCE_IMPROVEMENT@REQUIREMENT"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@ANYWHERE@INSTRUCTIONS"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@ENEMY_UNITS@INSTRUCTIONS"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@TARGETSTACK_ENEMY@INSTRUCTIONS"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@TARGET_LOCATION@INSTRUCTIONS"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TMagicStatusEffectDescription/././
+msgid "PROPERTY@UNIT_STATUS_EFFECT@GAIN_ONE_PROPERTY"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+msgid "RESEARCHSKILLS@TAGS@RACIAL_TRANSFORMATION_MAJOR@NAME"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@STRATEGIC_ENEMY_ARMY_SPELL"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@STRATEGIC_SPELL_SUMMON"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+msgid "RESEARCHSKILLS@TAGS@TACTICAL_DAMAGE_DEBUFF_SPELL"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@UNIT_ENCHANTMENT_SPELL"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TStructureUpgradeR/./
+msgid "Tome_of_Fire_Giant@PPROVINCE_01@DESCRIPTION"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TStructureUpgradeR/./
+#: TOME_FIRE_GIANTS.RPK:././././TSectorType/./
+#: TOME_FIRE_GIANTS.RPK:././././TSimpleRequisite/./
+msgid "Tome_of_Fire_Giant@PROVINCE_01@NAME"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSubSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitRequisite/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+msgid "Tome_of_Fire_Giant@SKILL_04@NAME"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSubSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+msgid "Tome_of_Fire_Giant@SKILL_04DESCRIPTION"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSubSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+msgid "Tome_of_Fire_Giant@SKILL_05@DESCRIPTION"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSubSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+msgid "Tome_of_Fire_Giant@SKILL_05@NAME"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSubSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+msgid "Tome_of_Fire_Giant@SKILL_06@DESCRIPTION"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSubSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+msgid "Tome_of_Fire_Giant@SKILL_06@NAME"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkillGroup/./././
+msgid "Tome_of_Fire_Giants@GAMEPLAY@DESCRIPTION"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitAbilityModifier/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitAbilityModifier/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitAbilityModifier/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+msgid "Tome_of_Fire_Giants@PROPERETY@NAME"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+msgid "Tome_of_Fire_Giants@PROPERTY@DESCRIPTION"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TUnitAbilityModifier/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitAbilityModifier/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitAbilityModifier/./
+msgid "Tome_of_Fire_Giants@PROPERTY@MODIFIER_DESCRIPTION"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSubSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+msgid "Tome_of_Fire_Giants@SKILL_01@DESCRIPTION"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSubSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+msgid "Tome_of_Fire_Giants@SKILL_01@NAME"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSubSkill/./
+msgid "Tome_of_Fire_Giants@SKILL_02@DESCRIPTION"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSubSkill/./
+msgid "Tome_of_Fire_Giants@SKILL_02@NAME"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSubSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+#: TOME_FIRE_GIANTS.RPK:././././TBaseHeroSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+msgid "Tome_of_Fire_Giants@SKILL_03@DESCRIPTION"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TUnitAbilityModifier/./
+msgid "Tome_of_Fire_Giants@SKILL_03@MODIFIER_DESCRIPTION"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TGridSubSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitAbilityModifier/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+#: TOME_FIRE_GIANTS.RPK:././././TSpecialOperationR/./
+#: TOME_FIRE_GIANTS.RPK:././././TBaseHeroSkill/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+#: TOME_FIRE_GIANTS.RPK:././././TUnitAbilityModifier/./
+msgid "Tome_of_Fire_Giants@SKILL_03@NAME"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TUnitProperty/./
+msgid "Tome_of_Fire_Giants@SKILL_03@PROPERETY"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkillGroup/./././
+msgid "Tome_of_Fire_Giants@TOME@LORE_AUTHOR"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkillGroup/./
+#: TOME_FIRE_GIANTS.RPK:././././THeroSkillGroup/./
+msgid "Tome_of_Fire_Giants@TOME@NAME"
+msgstr ""
+
+#: TOME_FIRE_GIANTS.RPK:././././TGridSkillGroup/./././
+msgid "Tome_of_Fire_Giants@Tome@LORE_DESCRIPTION"
+msgstr ""
+

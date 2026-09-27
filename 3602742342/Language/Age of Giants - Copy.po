@@ -1,0 +1,1228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+msgid "Tome_of_Fire_Giants@TOME@NAME"
+msgstr "Tome of Fire Giants"
+
+msgid "Tome_of_Fire_Giants@Tome@LORE_DESCRIPTION"
+msgstr ""
+"\"In this majestic world, fire giants are ancient beings born from the very "
+"essence of the core itself. Towering over mountains, their colossal strength "
+"and wisdom make them revered guardians of nature. Legends speak of their "
+"ability to shape the land and wield elemental powers, ensuring the balance "
+"between mortal races and the forces of chaos.\""
+
+msgid "Tome_of_Fire_Giants@TOME@LORE_AUTHOR"
+msgstr "Ophelia Evergreen, the Enchantress of Words"
+
+msgid "Tome_of_Fire_Giants@SKILL_01@NAME"
+msgstr "Summon Fire Giant"
+
+msgid "Tome_of_Fire_Giants@SKILL_01@DESCRIPTION"
+msgstr ""
+"Summons a {GLOBAL.UNITS.FIRE_GIANT.Hyperlink}, a "
+"{GLOBAL.PROPERTIES.MYTHIC_UNIT.Hyperlink} that conjures runestones that "
+"picks off enemies, and burns them with fiery smashes."
+
+msgid "Tome_of_Fire_Giants@SKILL_02@NAME"
+msgstr "Crusher Volcano"
+
+msgid "Tome_of_Fire_Giants@SKILL_02@DESCRIPTION"
+msgstr ""
+"Units in a 2-hex radius:[bulletlist][bullet/]Receive 25 "
+"{GLOBAL.FireDamageConcept.Hyperlink} and 10 "
+"{GLOBAL.PhysicalDamageConcept.Hyperlink}.[bullet/]Gain 2 "
+"{GLOBAL.PROPERTIES.SCORCHED.Hyperlink}.[bullet/]Gain 2 "
+"{GLOBAL.PROPERTIES.WEAKENED.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Fire_Giants@GAMEPLAY@DESCRIPTION"
+msgstr ""
+"Call upon the ancient Fire [hyperlink,GLOBAL.GiantsLoreConcept]Giants[/"
+"hyperlink] and wield devastating powers of the past. Invoke powerful "
+"{fireDamage} {GLOBAL.FireDamageConcept.Hyperlink} spells and summons. Use "
+"the power of the Giants to wreck total domination."
+
+msgid "Tome_of_Fire_Giants@SKILL_03@NAME"
+msgstr "Towering Might"
+
+msgid "Tome_of_Fire_Giants@SKILL_03@DESCRIPTION"
+msgstr ""
+"Makes {GLOBAL.MeleeConcept.Hyperlink} attacks of enchanted units deal:"
+"[bulletlist][bullet/]+{TOWERING_MIGHT_EXTRA_DAMAGE>DAMAGE>Fire} "
+"{GLOBAL.FireDamageConcept.Hyperlink}.[bullet/]"
+"{TOWERING_MIGHT_EXTRA_DAMAGE>DAMAGE>Physical} "
+"{GLOBAL.PhysicalDamageConcept.Hyperlink}.[bullet/]A base "
+"{SCORCHED_RESISTANCE>ResolvedStrength}% chance of inflicting "
+"{GLOBAL.PROPERTIES.SCORCHED.Hyperlink}.[bullet/]Whenever this unit kills "
+"another unit:[bulletlist][bullet/]The killed unit explodes, dealing 10 "
+"{GLOBAL.FireDamageConcept.Hyperlink} to adjacent enemy units."
+"[bullet/]Inflicts {GLOBAL.PROPERTIES.SCORCHED.Hyperlink} in a 1-hex radius.[/"
+"bulletlist][/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "Tome_of_Fire_Giants@SKILL_03@PROPERETY"
+msgstr ""
+"Unit's {GLOBAL.MeleeConcept.Hyperlink} attacks have:[bulletlist][bullet/]+"
+"{TOWERING_MIGHT_EXTRA_DAMAGE>DAMAGE>Fire} "
+"{GLOBAL.FireDamageConcept.Hyperlink}.[bullet/]"
+"{TOWERING_MIGHT_EXTRA_DAMAGE>DAMAGE>Physical} "
+"{GLOBAL.PhysicalDamageConcept.Hyperlink}.[bullet/]A base "
+"{SCORCHED_RESISTANCE>ResolvedStrength} % chance of inflicting "
+"{GLOBAL.PROPERTIES.SCORCHED.Hyperlink}.[bullet/]Whenever this unit kills "
+"another unit:[bulletlist][bullet/]The killed unit explodes, dealing 10 "
+"{GLOBAL.FireDamageConcept.Hyperlink} to adjacent enemy units."
+"[bullet/]Inflicts {GLOBAL.PROPERTIES.SCORCHED.Hyperlink} in a 1-hex radius.[/"
+"bulletlist][/bulletlist][br/]{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "Tome_of_Fire_Giants@SKILL_03@MODIFIER_DESCRIPTION"
+msgstr ""
+"Killing a unit causes it to explode, dealing "
+"{TOWERING_MIGHT_UNIT_DAMAGE>DAMAGE>Fire} "
+"{GLOBAL.FireDamageConcept.Hyperlink} to adjacent units and applying 1 "
+"{GLOBAL.PROPERTIES.SCORCHED.Hyperlink}."
+
+msgid "Tome_of_Fire_Giant@PROVINCE_01@NAME"
+msgstr "[quarry/] Surtr's Altar"
+
+msgid "Tome_of_Fire_Giant@PPROVINCE_01@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]+10 {GLOBAL.StructureProductionConcept.Hyperlink}."
+"[bullet/]+5 {GLOBAL.CityStabilityConcept.Hyperlink}.[bullet/]+10 "
+"{GLOBAL.UnitProductionConcept.Hyperlink}.[bullet/]+5 "
+"{GLOBAL.StructureProductionConcept.Hyperlink} per adjacent "
+"{GLOBAL.QuarryConcept.Hyperlink}[bullet/]+5 "
+"{GLOBAL.UnitProductionConcept.Hyperlink} per adjacent "
+"{GLOBAL.QuarryConcept.Hyperlink}.[bullet/]Counts as a "
+"{GLOBAL.QuarryConcept.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Fire_Giant@SKILL_04@NAME"
+msgstr "Surtr's Kin"
+
+msgid "Tome_of_Fire_Giant@SKILL_04DESCRIPTION"
+msgstr ""
+"Form a pact with Surtr and be blessed with the power of a Fire Giant:"
+"[bulletlist][bullet/]+20 {GLOBAL.HitPointConcept.Hyperlink}.[bullet/]"
+"{GLOBAL.PROPERTIES.LARGE_TARGET.Hyperlink}, "
+"{GLOBAL.PROPERTIES.JUGGERNAUT.Hyperlink}.[bullet/]"
+"{GLOBAL.PROPERTIES.SIEGE_BREAKER.Hyperlink}, "
+"{GLOBAL.PROPERTIES.LAVA_WALK.Hyperlink}.[bullet/]+6 "
+"{GLOBAL.FireResistanceConcept.Hyperlink}, -4 "
+"{GLOBAL.FrostResistanceConcept.Hyperlink}. [bullet/]+2 "
+"{GLOBAL.DefenseConcept.Hyperlink}, +2 {GLOBAL.ResistanceConcept.Hyperlink}.[/"
+"bulletlist]"
+
+msgid "Tome_of_Fire_Giant@SKILL_05@NAME"
+msgstr "Flowing Magma"
+
+msgid "Tome_of_Fire_Giant@SKILL_05@DESCRIPTION"
+msgstr ""
+"Target enemy army:[bulletlist][bullet/]Sustains 25 "
+"{GLOBAL.FireDamageConcept.Hyperlink}.[bullet/]Loses 25% of its Move Points "
+"on the {GLOBAL.WorldMapConcept.Hyperlink} for 1 "
+"{GLOBAL.TurnConcept.Hyperlink}.[Bullet/]At the start of battle all units "
+"suffer {GLOBAL.PROPERTIES.SLOWED.Hyperlink} and 3 "
+"{GLOBAL.PROPERTIES.SCORCHED.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Fire_Giant@SKILL_06@NAME"
+msgstr "Pyro Knight"
+
+msgid "Tome_of_Fire_Giant@SKILL_06@DESCRIPTION"
+msgstr ""
+"A dangerous {GLOBAL.PROPERTIES.SHOCK_UNIT.Hyperlink} who excels at duels, "
+"even forcing one onto a chosen target."
+
+msgid "Tome_of_Fire_Giants@PROPERETY@NAME"
+msgstr "Scorched"
+
+msgid "Tome_of_Fire_Giants@PROPERTY@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]-1 {GLOBAL.FireResistanceConcept.Hyperlink}."
+"[bullet/]Adjacent units suffer 2 {GLOBAL.FireDamageConcept.Hyperlink} at the "
+"end of the turn.[bullet/]Stacks up to 5 times.[/bulletlist]"
+
+msgid "Tome_of_Fire_Giants@PROPERTY@MODIFIER_DESCRIPTION"
+msgstr ""
+"Base {SCORCHED_RESISTANCE>ResolvedStrength}% chance of inflicting "
+"{GLOBAL.PROPERTIES.SCORCHED.Hyperlink} for "
+"{SCORCHED_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
+
+msgid "Tome_of_Fire_Giants@SKILL_06@ABILITY_NAME"
+msgstr "Prelate's Charge"
+
+msgid "Tome_of_Fire_Giants@SKILL_06@ABILITY_DESCRIPTION"
+msgstr ""
+"Strike target enemy, dealing damage and applying:[bulletlist][bullet/]"
+"{GLOBAL.PROPERTIES.TAUNTED.Hyperlink} to the target for 2 "
+"{GLOBAL.TurnConcept.Hyperlink}.[bullet/]"
+"{GLOBAL.PROPERTIES.BERSERK.Hyperlink} to yourself for 2 "
+"{GLOBAL.TurnConcept.Hyperlink}.[bullet/]{amount1} "
+"{GLOBAL.FireDamageConcept.Hyperlink} to each adjacent enemy unit.[bullet/]"
+"{amount2} {GLOBAL.PhysicalDamageConcept.Hyperlink} to each adjacent enemy "
+"unit.[bullet/]All units affected have a chance to be affected by "
+"{GLOBAL.PROPERTIES.BURNING.Hyperlink} and "
+"{GLOBAL.PROPERTIES.SCORCHED.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Rock_Giants@TOME@NAME"
+msgstr "Tome of Rock Giants"
+
+msgid "Tome_of_Rock_Giants@TOME@LORE_DESCRIPTION"
+msgstr ""
+"\"Rock Giants, ancient behemoths of the land, towered over the landscape, "
+"their colossal forms merging with the very essence of nature. With skin "
+"resembling rugged stone, their immense presence commanded reverence and awe. "
+"These gentle giants, guardians of the earth, possessed an unwavering "
+"connection to the earth's core, granting them unparalleled strength and "
+"resilience. Legends whispered of their ability to shape mountains and sculpt "
+"valleys with a mere touch, harmonizing the elements in a dance of creation. "
+"In the annals of time, Rock Giants stood as eternal sentinels, embodying the "
+"raw power and harmony that exists within the heart of our world.\""
+
+msgid "Tome_of_Rock_Giants@TOME@LORE_AUTHOR"
+msgstr "Aerethian Stonesong"
+
+msgid "Tome_of_Rock_Giants@SKILL_01@NAME"
+msgstr "Tomahawk Archers"
+
+msgid "Tome_of_Rock_Giants@SKILL_01@DESCRIPTION"
+msgstr "Placeholder"
+
+msgid "Tome_of_Rock_Giants@UNIT@ABILITY_NAME_1"
+msgstr "Shoot Tomahawkbow"
+
+msgid "Tome_of_Rock_Giants@UNIT@ABILITY_DESCRIPTION_1"
+msgstr ""
+"Take a balanced stance and fire a devastating arrow at target enemy unit."
+
+msgid "Tome_of_Rock_Giants@UNIT@ABILITY_NAME_2"
+msgstr "Placeholder"
+
+msgid "Tome_of_Rock_Giants@UNIT@ABILITY_DESCRIPTION_2"
+msgstr "Placeholder"
+
+msgid "Tome_of_Rock_Giants@UNIT@ABILITY_NAME_2A"
+msgstr "Name1"
+
+msgid "Tome_of_Rock_Giants@UNIT@ABILITY_DESCRIPTION_2A"
+msgstr "Ammo 1"
+
+msgid "Tome_of_Rock_Giants@UNIT@ABILITY_NAME_2B"
+msgstr "Name 2"
+
+msgid "Tome_of_Rock_Giants@UNIT@ABILITY_DESCRIPTION_2B"
+msgstr "Ammo 2"
+
+msgid "Tome_of_Rock_Giants@UNIT@ABILITY_NAME_2C"
+msgstr "Name 3"
+
+msgid "Tome_of_Rock_Giants@UNIT@ABILITY_DESCRIPTION_2C"
+msgstr "Ammo 3"
+
+msgid "Tome_of_Rock_Giants@UNIT@ABILITY_NAME_3"
+msgstr "Placeholder"
+
+msgid "Tome_of_Rock_Giants@UNIT@ABILITY_DESCRIPTION_3"
+msgstr "Placeholder"
+
+msgid "Tome_of_Rock_Giants@SKILL_02@NAME"
+msgstr "Earthquake"
+
+msgid "Tome_of_Rock_Giants@SKILL_02@DESCRIPTION"
+msgstr ""
+"When cast and for 2 {GLOBAL.TurnConcept.Hyperlink} afterwards, all enemies:"
+"[bulletlist][bullet/]Sustain 10 {GLOBAL.PhysicalDamageConcept.Hyperlink}."
+"[bullet/]Have a 90% chance to be afflicted with "
+"{GLOBAL.PROPERTIES.BLEEDING_DAMAGE_OVER_TIME.Hyperlink}.[bullet/]Have a 60% "
+"chance to be afflicted with {GLOBAL.PROPERTIES.IMMOBILIZED.Hyperlink}"
+"[bullet/]Have a 60% chance to be afflicted with "
+"{GLOBAL.PROPERTIES.DISTRACTED.Hyperlink}.[bullet/]All obstacles on the map "
+"have a 25% chance of being destroyed.[/bulletlist]"
+
+msgid "Tome_of_Rock_Giants@SKILL_03@NAME"
+msgstr "Supply Line"
+
+msgid "Tome_of_Rock_Giants@SKILL_03@DESCRIPTION"
+msgstr ""
+"Target friendly city sends all able bodies into the mines, converting their "
+"{GLOBAL.UnitProductionConcept.Hyperlink} income into "
+"{GLOBAL.GoldConcept.Hyperlink} and {GLOBAL.ManaConcept.Hyperlink} equal to "
+"50% of total {GLOBAL.UnitProductionConcept.Hyperlink} income."
+
+msgid "Tome_of_Rock_Giants@SKILL_04@NAME"
+msgstr "Obsidian Arrows"
+
+msgid "Tome_of_Rock_Giants@SKILL_04@DESCRIPTION"
+msgstr ""
+"{GLOBAL.RangedConcept.Hyperlink} attacks of enchanted units gain:[bulletlist]"
+"[bullet/]+2 {GLOBAL.PhysicalDamageConcept.Hyperlink}.[bullet/]A "
+"{OBSIDIAN_ARROWS_ACCURACY_BOOST>ResolvedAccuracyModifier}% boost to "
+"{GLOBAL.AccuracyConcept.Hyperlink}.[bullet/]A base "
+"{SUNDERED_DEFENSE_RESISTANCE>ResolvedStrength}% chance to afflict "
+"{GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}.[bullet/]Specialized arrows "
+"causes units to suffer from {GLOBAL.PROPERTIES.SLOWED.Hyperlink} in combat "
+"for the first 2 <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]"
+"{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "Tome_of_Rock_Giants@SKILL_05@NAME"
+msgstr "Jagged Defense"
+
+msgid "Tome_of_Rock_Giants@SKILL_05@DESCRIPTION"
+msgstr ""
+"Your body forms specialized sharp rocks granting you:[bulletlist][bullet/]A "
+"50% chance to reflect {GLOBAL.PhysicalDamageConcept.Hyperlink} sustained "
+"back onto attackers.[bullet/]A 60% chance of applying "
+"{GLOBAL.PROPERTIES.BLEEDING.Hyperlink} to attackers.[/bulletlist]"
+
+msgid "Tome_of_Rock_Giants@SKILL_06@NAME"
+msgstr "Metamorphic"
+
+msgid "Tome_of_Rock_Giants@SKILL_06@DESCRIPTION"
+msgstr ""
+"Grants enchanted units:[bulletlist][bullet/]+10 "
+"{GLOBAL.HitPointConcept.Hyperlink}.[bullet/]+3 "
+"{GLOBAL.DefenseConcept.Hyperlink}.[bullet/]"
+"{GLOBAL.PROPERTIES.ROCK_SMASH.Hyperlink}, an AOE damage ability for use in "
+"battle.[/bulletlist]"
+
+msgid "Tome_of_Rock_Giants@PROVINCE_01@NAME"
+msgstr "[mine/] Osmium Mine"
+
+msgid "Tome_of_Rock_Giants@PROVINCE_01@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]+15 {GLOBAL.GoldConcept.Hyperlink}.[bullet/]+7 "
+"{GLOBAL.StructureProductionConcept.Hyperlink}.[bullet/]+7 "
+"{GLOBAL.GoldConcept.Hyperlink} per adjacent {GLOBAL.QuarryConcept.Hyperlink} "
+"or {GLOBAL.MineConcept.Hyperlink}.[bullet/]+7 "
+"{GLOBAL.StructureProductionConcept.Hyperlink} per adjacent "
+"{GLOBAL.QuarryConcept.Hyperlink} or {GLOBAL.MineConcept.Hyperlink}."
+"[bullet/]Counts as a {GLOBAL.MineConcept.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Rock_Giants@PROPERTY@UNIT_DAMAGE_REFLECT@PHYSICAL"
+msgstr ""
+"Reflect {Value}% {GLOBAL.PhysicalDamageConcept.Hyperlink} of damage "
+"sustained."
+
+msgid "Tome_of_Rock_Giants@SKILL_04@PROPERETY"
+msgstr ""
+"Unit's attacks have:[bulletlist][bullet/]+"
+"{OBSIDIAN_ARROWS_EXTRA_DAMAGE>DAMAGE>Physical} "
+"{GLOBAL.PhysicalDamageConcept.Hyperlink}.[bullet/]"
+"{OBSIDIAN_ARROWS_ACCURACY_BOOST>ResolvedAccuracyModifier}% boost to "
+"{GLOBAL.AccuracyConcept.Hyperlink}.[bullet/}"
+"{SUNDERED_DEFENSE_RESISTANCE>ResolvedStrength}% chance to afflict "
+"{GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}.[bullet/]Specialized arrows "
+"causes units to suffer from {GLOBAL.PROPERTIES.SLOWED.Hyperlink} in combat "
+"for the first 2 <<m:{GLOBAL.TurnConcept}>>.[/bulletlist][br/]"
+"{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "Tome_of_Rock_Giants@GAMEPLAY@DESCRIPTION"
+msgstr ""
+"With the power of the Rock [hyperlink,GLOBAL.GiantsLoreConcept]Giants[/"
+"hyperlink] in your hands, use powerful spells to control the flow of battle. "
+"Afflict your foes with "
+"{GLOBAL.PROPERTIES.BLEEDING_DAMAGE_OVER_TIME.Hyperlink} and stop them with "
+"massive {GLOBAL.PhysicalDamageConcept.Hyperlink} incantations."
+
+msgid "Tome_of_Rock_Giants@SKILL_06@ABILITY_NAME"
+msgstr "Rock Smash"
+
+msgid "Tome_of_Rock_Giants@SKILL_06@ABILITY_DESCRIPTION"
+msgstr "Deals damage to target unit and enemy units within 1-hex."
+
+msgid "Tome_of_Storm_Giants@TOME@NAME"
+msgstr "Tome of Storm Giants"
+
+msgid "Tome_of_Storm_Giants@TOME@LORE_DESCRIPTION"
+msgstr ""
+"\"In the heart of the tempestuous mountains, where lightning danced among "
+"towering peaks, the Storm Giants ruled with indomitable might. Their booming "
+"footsteps shook the earth, their roars echoed through the valleys, and their "
+"luminous eyes cast an eternal storm upon the world\"."
+
+msgid "Tome_of_Storm_Giants@TOME@LORE_AUTHOR"
+msgstr "Magnus Stormweaver"
+
+msgid "Tome_of_Storm_Giants@SKILL_01@NAME"
+msgstr "Summon Storm Giant"
+
+msgid "Tome_of_Storm_Giants@SKILL_01@DESCRIPTION"
+msgstr ""
+"Summons a {GLOBAL.UNITS.STORM_GIANT.Hyperlink}, a "
+"{GLOBAL.PROPERTIES.MYTHIC_UNIT.Hyperlink} that strikes enemies with bolts of "
+"lighting, either from a distance or up close."
+
+msgid "Tome_of_Storm_Giants@SKILL_02@NAME"
+msgstr "Twister"
+
+msgid "Tome_of_Storm_Giants@SKILL_02@DESCRIPTION"
+msgstr ""
+"Enemies in a 2-hex radius:[bulletlist][bullet/]Have a 90% chance to gain 2 "
+"{GLOBAL.PROPERTIES.SUNDERED_RESISTANCE.Hyperlink}.[bullet/]Have a 90% chance "
+"to be afflicted by {GLOBAL.PROPERTIES.BLINDED.Hyperlink}.[bullet/]Have "
+"{GLOBAL.PROPERTIES.DISPLACEMENT.Hyperlink}.[bullet/]Become "
+"{GLOBAL.PROPERTIES.WET.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Storm_Giants@SKILL_03@NAME"
+msgstr "Thunderbolt"
+
+msgid "Tome_of_Storm_Giants@SKILL_03@DESCRIPTION"
+msgstr ""
+"Enemy units in a 1-hex radius:[bulletlist][bullet/]Sustain 35 "
+"{GLOBAL.LightningDamageConcept.Hyperlink}.[bullet/]Have a 90% of becoming "
+"{GLOBAL.PROPERTIES.CONDUCTIVE.Hyperlink}.[bullet/]Have a 60% chance of "
+"becoming {GLOBAL.PROPERTIES.STUNNED.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Storm_Giants@SKILL_04@NAME"
+msgstr "Storm Weaver"
+
+msgid "Tome_of_Storm_Giants@SKILL_04@DESCRIPTION"
+msgstr ""
+"Grants enchanted units:[bulletlist][bullet/]"
+"{GLOBAL.PROPERTIES.ASTRAL_MEMBRANE.Hyperlink}, which stuns attackers."
+"[bullet/]{GLOBAL.PROPERTIES.BOLT.Hyperlink}, a damage ability for use in "
+"battle.[/bulletlist]"
+
+msgid "Tome_of_Storm_Giants@SKILL_05@NAME"
+msgstr "Summon the Storm"
+
+msgid "Tome_of_Storm_Giants@SKILL_05@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]Summon 3 {GLOBAL.UNITS.STORM_SPIRIT.Hyperlink}s on the "
+"attacker's side until the end of battle.[bullet/]Units defending the city "
+"take 20 {GLOBAL.LightningDamageConcept.Hyperlink} at the start of combat.[/"
+"bulletlist]"
+
+msgid "Tome_of_Storm_Giants@SKILL_06@NAME"
+msgstr "Derecho Storm"
+
+msgid "Tome_of_Storm_Giants@SKILL_06@DESCRIPTION"
+msgstr ""
+"Target enemy Army:[bulletlist][bullet/]Takes 25 "
+"{GLOBAL.LightningDamageConcept.Hyperlink}.[bullet/]Becomes "
+"{GLOBAL.PROPERTIES.CONDUCTIVE.Hyperlink} and "
+"{GLOBAL.PROPERTIES.WET.Hyperlink} for 3 {GLOBAL.TurnConcept.Hyperlink}.[/"
+"bulletlist]"
+
+msgid "Tome_of_Storm_Giants@PROVINCE_01@NAME"
+msgstr "[conduit/] Lightning Rod"
+
+msgid "Tome_of_Storm_Giants@PROVINCE_01@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]+15 {GLOBAL.ManaConcept.Hyperlink}.[bullet/]+5 "
+"{GLOBAL.KnowledgeConcept.Hyperlink}.[bullet/]+5 "
+"{GLOBAL.KnowledgeConcept.Hyperlink} per adjacent "
+"{GLOBAL.QuarryConcept.Hyperlink}.[bullet/]Counts as a "
+"{GLOBAL.ConduitConcept.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Storm_Giants@SKILL_PROPERETY@NAME"
+msgstr "Conductive"
+
+msgid "Tome_of_Storm_Giants@SKILL_PROPERTY@DESCRIPTION"
+msgstr ""
+"Until end of combat unit suffers:[bulletlist][bullet/]-4 "
+"{GLOBAL.LightningResistanceConcept.Hyperlink}.[bullet/]5 "
+"{GLOBAL.LightningDamageConcept.Hyperlink} at the end of the turn. [br][br]"
+"[bulletlist][bullet/]A 60% of passing debuff onto adjacent allies.[/"
+"bulletlist]"
+
+msgid "Tome_of_Storm_Giants@GAMEPLAY@DESCRIPTION"
+msgstr ""
+"Harnessing the crackling power of lightning, weaving them into spells that "
+"can illuminate the darkest skies, electrocute foes, or even afflict them "
+"with {GLOBAL.PROPERTIES.CONDUCTIVE.Hyperlink}."
+
+msgid "Tome_of_Storm_Giants@SKILL_04@ABILITY_NAME"
+msgstr "Bolt"
+
+msgid "Tome_of_Storm_Giants@SKILL_04@ABILITY_DESCRIPTION"
+msgstr ""
+"Deals damage to target and up to 2 other units within 3 hexes. They have a "
+"60% of being afflicted with {GLOBAL.PROPERTIES.CONDUCTIVE.Hyperlink}."
+
+msgid "Tome_of_Storm_Giants@PROPERTY@ASTRAL_ATTUNEMENT@EFFECT"
+msgstr ""
+"{Value.Sign} {GLOBAL.LightningDamageConcept.Hyperlink} to target and all "
+"adjacent units"
+
+msgid "Tome_of_Storm_Giants@HERO_SKILL@DESCRIPTION"
+msgstr "Gain the {GLOBAL.PROPERTIES.BOLT.Hyperlink} ability."
+
+msgid "Tome_of_Scorched@TOME@NAME"
+msgstr "Tome of Scorching"
+
+msgid "Tome_of_Scorched@TOME@LORE_DESCRIPTION"
+msgstr ""
+"\"Scorched\" evokes images of desolation and change wrought by intense heat "
+"or fire, whether in the charred remnants of a once-lush landscape after a "
+"wildfire, or the emotional aftermath of a turbulent experience."
+
+msgid "Tome_of_Scorched@TOME@LORE_AUTHOR"
+msgstr "Amelia Sterling, World Renowned Alchemist"
+
+msgid "Tome_of_Scorched@GAMEPLAY@DESCRIPTION"
+msgstr ""
+"Turn the tide of battle using powerful "
+"{GLOBAL.PROPERTIES.SCORCHED.Hyperlink} invocations, and even transcend your "
+"flesh with steel."
+
+msgid "Tome_of_Scorched@MK2ROVINGFURNACE@NAME"
+msgstr "Scorching Furnace"
+
+msgid "Tome_of_Scorched@MK2ROVINGFURNACE@DESCRIPTION"
+msgstr ""
+"A heavy {GLOBAL.PROPERTIES.SHOCK_UNIT.Hyperlink} that applies "
+"{GLOBAL.PROPERTIES.SCORCHED.Hyperlink} when attacking or being attacked."
+
+msgid "Tome_of_Scorched@MK2ROVINGFURNACE@ABILITY01@NAME"
+msgstr "Scorched Waste"
+
+msgid "Tome_of_Scorched@MK2ROVINGFURNACE@ABILITY01@DESCRIPTION"
+msgstr ""
+"When this unit attacks or is attacked, adjacent units:[bulletlist]"
+"[bullet/]Sustain {amount} {GLOBAL.FireDamageConcept.Hyperlink}.[bullet/]Have "
+"a {chance}% chance of becoming {GLOBAL.PROPERTIES.SCORCHED.Hyperlink}.[/"
+"bulletlist]"
+
+msgid "Tome_of_Scorched@MK2ROVINGFURNACE@ABILITY01@MOD_DESCRIPTION"
+msgstr ""
+"Adjacent units:[bulletlist][bullet/]Sustain {amount} "
+"{GLOBAL.FireDamageConcept.Hyperlink}.[bullet/]Have a {chance}% chance of "
+"becoming {GLOBAL.PROPERTIES.SCORCHED.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Scorched@MK2ROVINGFURNACE@ABILITY02@NAME"
+msgstr "Reactor Dump"
+
+msgid "Tome_of_Scorched@MK2ROVINGFURNACE@ABILITY02@DESCRIPTION"
+msgstr ""
+"Dumps some fuel from it's core, damaging all units in a "
+"{REACTOR_DUMP_TARGETER>AREA>Length}-hex line."
+
+msgid "Tome_of_Scorched@SKILL_02@NAME"
+msgstr "Rad Storm"
+
+msgid "Tome_of_Scorched@SKILL_02@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]A {GLOBAL.RadStormConcept.Hyperlink} forms over head in "
+"a {RAD_STORM_POSITION_TARGETER_CRICLE_1>AREA>Radius}-hex radius."
+"[bullet/]Each turn, the radius increases by 1 hex. [bullet/]Lasts for "
+"{RAD_STORM_AUTO_SPELL_1>Duration}<<:{GLOBAL.TurnConcept}>>.[/bulletlist]"
+
+msgid "Tome_of_Scorched@SKILL_03@NAME"
+msgstr "Ready for Battle"
+
+msgid "Tome_of_Scorched@SKILL_03@DESCRIPTION"
+msgstr ""
+"[bulletlist]Friendly {GLOBAL.MeleeConcept.Hyperlink} units in a 1-hex radius:"
+"[bullet/]Have 1 {GLOBAL.NegativeStatusEffectConcept.Hyperlink} dispelled."
+"[bullet/]Gain 1 {GLOBAL.PROPERTIES.STRENGTHENED.Hyperlink}.[bullet/]Gain 1 "
+"{GLOBAL.PROPERTIES.BOLSTERED_DEFENSE.Hyperlink}.[bullet/]Gain 1 "
+"{GLOBAL.PROPERTIES.BOLSTERED_RESISTANCE.Hyperlink}.[/bulletlist][br/]Enemy "
+"{GLOBAL.MeleeConcept.Hyperlink} units in that same radius:[bulletlist]"
+"[bullet/]Gain 1 {GLOBAL.PROPERTIES.WEAKENED.Hyperlink}.[bullet/]Gain 1 "
+"{GLOBAL.PROPERTIES.SUNDERED_DEFENSE.Hyperlink}.[bullet/]Gain 1 "
+"{GLOBAL.PROPERTIES.SUNDERED_RESISTANCE.Hyperlink}.[/bulletlist}"
+
+msgid "Tome_of_Scorched@SKILL_04@NAME"
+msgstr "Operation Orchid"
+
+msgid "Tome_of_Scorched@SKILL_04@DESCRIPTION"
+msgstr ""
+"Grants {GLOBAL.MeleeConcept.Hyperlink} units:[bulletlist][bullet/]A "
+"{SCORCHED_RESISTANCE>ResolvedStrength}% chance to apply "
+"{GLOBAL.PROPERTIES.SCORCHED.Hyperlink} on attacks.[bullet/]"
+"{GLOBAL.PROPERTIES.CANDELA_GRENADE.Hyperlink}, an AOE ability that is "
+"improved by the user's own power.[/bulletlist][br/]"
+"{LOC.INTERFACE@ENCHANTMENT_NON_REPEATING@INSERT}"
+
+msgid "Tome_of_Scorched@SKILL_05@NAME"
+msgstr "Muspelheim Workshop I"
+
+msgid "Tome_of_Scorched@SKILL_05@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]{KnowledgeBonus}{GLOBAL.KnowledgeConcept.Hyperlink} "
+"income. [bullet/]{UnitProductionBonus}"
+"{GLOBAL.UnitProductionConcept.Hyperlink} income.[bullet/]Units built in this "
+"city gain extra {GLOBAL.FireDamageConcept.Hyperlink} on non-"
+"{GLOBAL.MagicConcept.Hyperlink} attacks and an increase in "
+"{GLOBAL.DefenseConcept.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Scorched@SKILL_06@NAME"
+msgstr "Construct Transcendence"
+
+msgid "Tome_of_Scorched@SKILL_06@DESCRIPTION"
+msgstr ""
+"Augment your race, replacing flesh with steel and gaining:[bulletlist]"
+"[bullet/]The {GLOBAL.PROPERTIES.CONSTRUCT.Hyperlink} unit type.[bullet/]"
+"{GLOBAL.PROPERTIES.FIERCE.Hyperlink}.[bullet/] The removal of one's heart "
+"causes {CONSTRUCT_TRANSCENDENCE_STAT_BONUS>BONUS>HitPoints} <<m:"
+"{GLOBAL.HitPointConcept.Hyperlink}>>.[/bulletlist]"
+
+msgid "Tome_of_Scorched@RAD_STORM_TAG@NAME"
+msgstr "Rad Storm"
+
+msgid "Tome_of_Scorcehed@RAD_STORM_TAG@DESCRIPTION"
+msgstr ""
+"Units passing though or ending their turn here:[bulletlist][bullet/]Take 5 "
+"{GLOBAL.BlightDamageConcept.Hyperlink} and 5 "
+"{GLOBAL.FireDamageConcept.Hyperlink}.[bullet/]Have a 60% chance to be "
+"afflicted by {GLOBAL.PROPERTIES.BURNING.Hyperlink}[bullet/]Have a 60% chance "
+"to be afflicted by {GLOBAL.PROPERTIES.SCORCHED.Hyperlink}[bullet/]Have a 60% "
+"chance to be afflicted by {GLOBAL.PROPERTIES.DECAYING.Hyperlink}"
+"[bullet/]Have a 60% chance to be afflicted by "
+"{GLOBAL.PROPERTIES.POISONED.Hyperlink}.[/bulletlist]"
+
+msgid "INTERFACE@TEXT@RAD_STORM_HYPERLINK"
+msgstr "[hyperlink,GLOBAL.RadStormConcept]Rad Storm[/hyperlink]"
+
+msgid "Tome_of_Scorched@SKILL_04@ABILITY@NAME"
+msgstr "Candela Grenade"
+
+msgid "Tome_of_Scorched@SKILL_04@ABILITY@DESCRIPTION"
+msgstr ""
+"Deals damage in a {CANDELA_GRENADE_TARGETER_CIRCLE>AREA>Radius}-hex radius "
+"to all targets in range, applying {GLOBAL.PROPERTIES.BLINDED.Hyperlink} and "
+"{GLOBAL.PROPERTIES.MARKED.Hyperlink}, and leaving behind "
+"{GLOBAL.AfflictingMiasmaHazard.Hyperlink}."
+
+msgid "Tome_of_Scorched@MUSPELLHEIM_FORGE@UNIT_EFFECT"
+msgstr "Surtrs's Armament"
+
+msgid "Tome_of_Scorched@MUSPELLHEIM_FORGE@UNIT_PROPERTY"
+msgstr ""
+"This unit's base {GLOBAL.MeleeConcept.Hyperlink} and "
+"{GLOBAL.RangedConcept.Hyperlink} attacks deal +{damage} "
+"{GLOBAL.FireDamageConcept.Hyperlink}. Their "
+"{GLOBAL.DefenseConcept.Hyperlink} increases by {amount}."
+
+msgid "Tome_of_Scorched@SKILL_05@NAME_02"
+msgstr "Muspelheim Workshop II"
+
+msgid "Tome_of_Scorched@SKILL_05@NAME_03"
+msgstr "Muspelheim Workshop III"
+
+msgid "Tome_of_Scorched@MECHANICES@REQUIREMENT"
+msgstr ""
+"Requires {foresterrequirements}: <<m:{GLOBAL.ForesterConcept.Hyperlink}>>"
+
+msgid "Tome_of_Scorched@HERO_SKILL@NAME"
+msgstr "Sweltering Heat"
+
+msgid "Tome_of_Fire@HERO_SKILL@NAME"
+msgstr "Raging Fury"
+
+msgid "Tome_of_Scorched@PROVINCE_IMPROVEMENT@TITLE"
+msgstr "[quarry/] World's Forge"
+
+msgid "Tome_of_Scorched@PROVINCE_IMPROVEMENT@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]+{baseamount} "
+"{GLOBAL.StructureProductionConcept.Hyperlink}.[bullet/]+{amount1} "
+"{GLOBAL.BindingEssenceConcept.Hyperlink} per adjacent "
+"{GLOBAL.ConduitConcept.Hyperlink}.[bullet/]+3 "
+"{GLOBAL.KnowledgeConcept.Hyperlink} and +5 {GLOBAL.ManaConcept.Hyperlink} "
+"per adjacent {GLOBAL.ResearchPostConcept.Hyperlink}.[bullet/]+{amount4} "
+"{GLOBAL.UnitProductionConcept.Hyperlink} per adjacent "
+"{GLOBAL.FarmConcept.Hyperlink} {GLOBAL.ForesterConcept.Hyperlink} and "
+"{GLOBAL.QuarryConcept.Hyperlink}.[bullet/]+{amount5} "
+"{GLOBAL.GoldConcept.Hyperlink} per adjacent {GLOBAL.MineConcept.Hyperlink}."
+"[bullet/]+{amount6} [bindingfragments/] Fragments per adjacent "
+"{GLOBAL.LavaConcept.Hyperlink} province.[bullet/]Counts as a "
+"{GLOBAL.QuarryConcept.Hyperlink}.[/bulletlist}"
+
+msgid "Tome_of_Wild_Magic@TOME@NAME"
+msgstr "Tome of Wild Magic"
+
+msgid "Tome_of_Wild_Magic@TOME@LORE_DESCRIPTION"
+msgstr ""
+"\"Your innate magic comes from the wild forces of chaos that underlie the "
+"order of creation. You might have endured exposure to some form of raw "
+"magic, perhaps through a planar portal leading to Limbo, the Elemental "
+"Planes, or the mysterious Far Realm. Perhaps you were blessed by a powerful "
+"fey creature or marked by a demon. Or your magic could be a fluke of your "
+"birth, with no apparent cause or reason. However it came to be, this chaotic "
+"magic churns within you, waiting for any outlet.\""
+
+msgid "Tome_of_Wild_Magic@TOME@LORE_AUTHOR"
+msgstr "Gilean the Gray Voyager"
+
+msgid "Tome_of_Wild_Magic@GAMEPLAY@DESCRIPTION"
+msgstr ""
+"You didn't choose the power it chose you. Wield powerful spells and gain a "
+"better understanding of one's own power. Take advantage of the new effect "
+"{GLOBAL.PROPERTIES.FROSTBITE.Hyperlink} to control the battlefield."
+
+msgid "Tome_of_Wild_Magic@SKILL_01@NAME"
+msgstr "Siphon the Lands"
+
+msgid "Tome_of_Wild_Magic@SKILL_01@DESCRIPTION"
+msgstr ""
+"Target friendly {GLOBAL.CityConcept.Hyperlink} siphons the essence of the "
+"land around it, and gains:[bulletlist][bullet/]Every "
+"{GLOBAL.TurnConcept.Hyperlink}, {amount} <<m:"
+"{GLOBAL.ProvinceConcept.Hyperlink}>> within or adjacent to the "
+"{GLOBAL.DomainConcept.Hyperlink}:[bulletlist][bullet/]Gain "
+"{GLOBAL.AshlandsConcept.Hyperlink}.[bullet/]Lose "
+"{GLOBAL.RiverConcept.Hyperlink}, {GLOBAL.FertilePlainsConcept.Hyperlink}, "
+"{GLOBAL.SwampConcept.Hyperlink}, {GLOBAL.SnowConcept.Hyperlink}, "
+"{GLOBAL.FrozenWasteConcept.Hyperlink}, {GLOBAL.SandConcept.Hyperlink}, "
+"{GLOBAL.CavernFloorConcept.Hyperlink}, and "
+"{GLOBAL.GloomTerrainConcept.Hyperlink}.[/bulletlist][bullet/]Provinces in "
+"the domain provide +1 {GLOBAL.GoldConcept.Hyperlink}, +1 "
+"{GLOBAL.KnowledgeConcept.Hyperlink}, and +1 "
+"{GLOBAL.StructureProductionConcept.Hyperlink} income.[bullet/]Provinces in "
+"the domain lose -4 {GLOBAL.FoodConcept.Hyperlink} and -4 "
+"{GLOBAL.ManaConcept.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Wild_Magic@SKILL_02@NAME"
+msgstr "Chaos Sorcerer"
+
+msgid "Tome_of_Wild_Magic@SKILL_02@DESCRIPTION"
+msgstr ""
+"A {GLOBAL.PROPERTIES.BATTLE_MAGE.Hyperlink} with offensive elemental magic."
+
+msgid "Tome_of_Wild_Magic@SKILL_03@NAME"
+msgstr "Ice Storm"
+
+msgid "Tome_of_Wild_Magic@SKILL_03@DESCRIPTION"
+msgstr ""
+"Units in a {ICE_STORM_TARGETER>AREA>Radius}-hex radius:[bulletlist]"
+"[bullet/]Sustain {amount1} {GLOBAL.FrostDamageConcept.Hyperlink} and "
+"{amount2} {GLOBAL.LightningDamageConcept.Hyperlink}.[bullet/]Have a 90% "
+"chance to be afflicted with {GLOBAL.PROPERTIES.ELECTRIFIED.Hyperlink}"
+"[bullet/]Have a 60% chance to gain 2 stacks of "
+"{GLOBAL.PROPERTIES.FROSTBITE.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Wild_Magic@SKILL_04@NAME"
+msgstr "Planar School Foundation"
+
+msgid "Tome_of_Wild_Magic@SKILL_04@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]+5 {GLOBAL.KnowledgeConcept.Hyperlink} income.[bullet/]"
+"+5 {GLOBAL.ManaConcept.Hyperlink} income.[bullet/]Units built in this city "
+"gain {GLOBAL.PROPERTIES.BASIC_KNOWLEDGE.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Wild_Magic@SKILL_05@NAME"
+msgstr "Chaos Storm"
+
+msgid "Tome_of_Wild_Magic@SKILL_05@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]In target enemy army:[bulletlist][bullet/]All units "
+"sustain {amount1} {GLOBAL.LightningDamageConcept.Hyperlink},{amount2} "
+"{GLOBAL.FireDamageConcept.Hyperlink} and {amount3} "
+"{GLOBAL.FrostDamageConcept.Hyperlink}.[bullet/]All Units suffer {defense1} "
+"to {GLOBAL.LightningResistanceConcept.Hyperlink}, "
+"{GLOBAL.FireResistanceConcept.Hyperlink} and "
+"{GLOBAL.FrostResistanceConcept.Hyperlink} for 1 "
+"{GLOBAL.WorldMapConcept.Hyperlink} {GLOBAL.TurnConcept.Hyperlink}.[/"
+"bulletlist]"
+
+msgid "Tome_of_Wild_Magic@SKILL_06@NAME"
+msgstr "Placeholder"
+
+msgid "Tome_of_Wild_Magic@SKILL_06@DESCRIPTION"
+msgstr "Placeholder"
+
+msgid "Tome_of_Wild_Magic@SKILL_04@ABILITY@NAME_01"
+msgstr "Basic Knowledge"
+
+msgid "Tome_of_Wild_Magic@SKILL_04@ABILITY@DESCRIPTION_01"
+msgstr "This unit's {GLOBAL.ResistanceConcept.Hyperlink} increases by 1."
+
+msgid "Tome_of_Wild_Magic@CLASS@NAME_01"
+msgstr "Class 1: Plane of Fire"
+
+msgid "Tome_of_Wild_Magic@CLASS@DESCRIPTION_01"
+msgstr ""
+"[bulletlist][bullet/]+5 {GLOBAL.KnowledgeConcept.Hyperlink} income. [bullet/]"
+"+10 {GLOBAL.ManaConcept.Hyperlink} income. [bullet/] Units built in this "
+"city gain {GLOBAL.PROPERTIES.FIRE_KNOWLEDGE_1.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Wild_Magic@CLASS@ABILITY@NAME_01"
+msgstr "Fire Knowledge LV1"
+
+msgid "Tome_of_Wild_Magic@CLASS@ABILITY@DESCRIPTION_01"
+msgstr ""
+"This unit's base {GLOBAL.MagicConcept.Hyperlink} attacks deal +1 "
+"{GLOBAL.FireDamageConcept.Hyperlink} and gain "
+"{BURNING_RESISTANCE>ResolvedStrength}% to apply "
+"{GLOBAL.PROPERTIES.BURNING.Hyperlink}. Their "
+"{GLOBAL.ResistanceConcept.Hyperlink} increases by +1 and their "
+"{GLOBAL.FireResistanceConcept.Hyperlink} by {amount1}."
+
+msgid "Tome_of_Wild_Magic@CLASS@NAME_02"
+msgstr "Class 1: Plane of Air"
+
+msgid "Tome_of_Wild_Magic@CLASS@DESCRIPTION_02"
+msgstr ""
+"[bulletlist][bullet/]+5 {GLOBAL.KnowledgeConcept.Hyperlink} income.[bullet/]"
+"+10 {GLOBAL.ManaConcept.Hyperlink} income.[bullet/]Units built in this city "
+"gain {GLOBAL.PROPERTIES.AIR_KNOWLEDGE_1.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Wild_Magic@CLASS@ABILITY@NAME_02"
+msgstr "Air Knowledge LV1"
+
+msgid "Tome_of_Wild_Magic@CLASS@ABILITY@DESCRIPTION_02"
+msgstr ""
+"This unit's base {GLOBAL.MagicConcept.Hyperlink} attacks deal +1 "
+"{GLOBAL.LightningDamageConcept.Hyperlink} and gain "
+"{SUNDERED_RESISTANCE_RESISTANCE>ResolvedStrength}% to apply "
+"{GLOBAL.PROPERTIES.SUNDERED_RESISTANCE.Hyperlink}. Their "
+"{GLOBAL.ResistanceConcept.Hyperlink} increases by +1 and their "
+"{GLOBAL.LightningResistanceConcept.Hyperlink} by {amount1}."
+
+msgid "Tome_of_Wild_Magic@CLASS@NAME_03"
+msgstr "Class 1: Plane of Water"
+
+msgid "Tome_of_Wild_Magic@CLASS@DESCRIPTION_03"
+msgstr ""
+"[bulletlist][bullet/]+5 {GLOBAL.KnowledgeConcept.Hyperlink} income.[bullet/]"
+"+10 {GLOBAL.ManaConcept.Hyperlink} income.[bullet/]Units built in this city "
+"gain {GLOBAL.PROPERTIES.WATER_KNOWLEDGE_1.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Wild_Magic@CLASS@ABILITY@NAME_03"
+msgstr "Water Knowledge LV1"
+
+msgid "Tome_of_Wild_Magic@CLASS@ABILITY@DESCRIPTION_03"
+msgstr ""
+"This unit's base {GLOBAL.MagicConcept.Hyperlink} attacks deal +1 "
+"{GLOBAL.FrostDamageConcept.Hyperlink} and gain "
+"{WET_RESISTANCE>ResolvedStrength}% to apply "
+"{GLOBAL.PROPERTIES.WET.Hyperlink}. Their "
+"{GLOBAL.ResistanceConcept.Hyperlink} increases by +1 and their "
+"{GLOBAL.FrostResistanceConcept.Hyperlink} by {amount1}."
+
+msgid "Tome_of_Wild_Magic@MECHANICES@REQUIREMENT"
+msgstr ""
+"Requires {researchpostrequirements}: <<m:"
+"{GLOBAL.ResearchPostConcept.Hyperlink}>>"
+
+msgid "Tome_of_Wild_Magic@HERO_SKILL@NAME"
+msgstr "Placeholder"
+
+msgid "Tome_of_Wild_Magic@PROVINCE_IMPROVEMENT@TITLE"
+msgstr "[researchpost/] Strixhaven Observatory"
+
+msgid "Tome_of_Wild_Magic@PROVINCE_IMPROVEMENT@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]+5 {GLOBAL.KnowledgeConcept.Hyperlink}.[bullet/]+10 "
+"{GLOBAL.CityStabilityConcept.Hyperlink}.[bullet/]+2 "
+"{GLOBAL.KnowledgeConcept.Hyperlink} per adjacent Ashland and Mountain "
+"{GLOBAL.ProvinceConcept.Hyperlink}.[bullet/]+2 "
+"{GLOBAL.ManaConcept.Hyperlink} per adjacent Ashland and Mountain "
+"{GLOBAL.ProvinceConcept.Hyperlink}.[bullet/]Enemy <<m:"
+"{GLOBAL.UnitConcept.Hyperlink}>> in this and the adjacent "
+"{GLOBAL.ProvinceConcept.Hyperlink} suffer from "
+"{GLOBAL.PROPERTIES.BLINDED.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Wild_Magic@WILD_MAGIC_SURGE@NAME"
+msgstr "Wild Magic Surge"
+
+msgid "Tome_of_Wild_Magic@WILD_MAGIC_SURGE@DESCRIPTION"
+msgstr ""
+"At the start of the turn, adjacent enemy units:[bulletlist][bullet/]Sustain "
+"{amount1} {GLOBAL.LightningDamageConcept.Hyperlink}, {amount2} "
+"{GLOBAL.FireDamageConcept.Hyperlink}, and {amount3} "
+"{GLOBAL.FrostDamageConcept.Hyperlink} damage.[bullet/]Have a base 30% chance "
+"of suffering from {GLOBAL.PROPERTIES.GHOSTFIRE.Hyperlink}, "
+"{GLOBAL.PROPERTIES.CONDUCTIVE.Hyperlink} or "
+"{GLOBAL.PROPERTIES.FROSTBITE.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Wild_Magic@SURGE_TYPHOON@NAME"
+msgstr "Surge Typhoon"
+
+msgid "Tome_of_Wild_Magic@SURGE_TYPHOON@DESCRIPTION"
+msgstr ""
+"In target {SURGE_THYPHOON_CIRCLE>AREA>Radius}-hex radius:[bulletlist]"
+"[bullet/]Units sustain {SURGE_THYPHOON_DAMAGE>DAMAGE>Fire} "
+"{GLOBAL.FireDamageConcept.Hyperlink}.[bullet/]Units sustain "
+"{SURGE_THYPHOON_DAMAGE>DAMAGE>Frost} {GLOBAL.FrostDamageConcept.Hyperlink}."
+"[bullet/]Units sustain {SURGE_THYPHOON_DAMAGE>DAMAGE>Shock} "
+"{GLOBAL.LightningDamageConcept.Hyperlink}.[bullet/]Elemental hazards are "
+"created and last for {SURGE_TYPHOON_POSITION_EFFECT>Duration} <<m:"
+"{GLOBAL.TurnConcept}>>.[/bulletlist]"
+
+msgid "Tome_of_Wild_Magic@VORTEXFIRE@NAME"
+msgstr "Vortexfire"
+
+msgid "Tome_of_Wild_Magic@VORTEXFIRE@DESCRIPTION"
+msgstr ""
+"Units passing through or ending their turn on this position gain a stack of "
+"{GLOBAL.PROPERTIES.CONDUCTIVE.Hyperlink}, "
+"{GLOBAL.PROPERTIES.FROSTBITE.Hyperlink} and "
+"{GLOBAL.PROPERTIES.SCORCHED.Hyperlink}."
+
+msgid "Tome_of_Wild_Magic@PROPERTY@NAME"
+msgstr "Frostbite"
+
+msgid "Tome_of_Wild_Magic@PROPERTY@DESCRIPTION"
+msgstr ""
+"Units suffer:[bulletlist][bullet/] {FROSTBITE_DAMAGE_OVER_TIME>ATTACK>Frost} "
+"{GLOBAL.FrostDamageConcept.Hyperlink} each {GLOBAL.TurnConcept}. [bullet/] -"
+"{FROSTBITE_DAMAGE_MULTIPLIER>ResolvedMultiplier}% on physical attacks. "
+"[bullet/]Stacks to up {MaxStacks} times.[/bulletlist]"
+
+msgid "UNITPROPERTIES@BLOCK_STRING@FROSTBITE"
+msgstr "Blocked: Immune to Frostbite"
+
+msgid "UNITPROPERTIES@BLOCK_STRING@SCORCHED"
+msgstr "Blocked: Immune to Scorched"
+
+msgid "Tome_of_Wild_Magic@PROPERTY@MODIFIER_DESCRIPTION"
+msgstr ""
+"Base {FROSTBITE_RESISTANCE>ResolvedStrength}% chance of inflicting "
+"{GLOBAL.PROPERTIES.FROSTBITE.Hyperlink} for "
+"{FROSTBITE_EFFECT_DESCRIPTION>NumTurns} <<m:{GLOBAL.TurnConcept}>>."
+
+msgid "Tome_of_Wild_Magic@CLASS@NAME_01B"
+msgstr "Class 2: Plane of Fire"
+
+msgid "Tome_of_Wild_Magic@CLASS@DESCRIPTION_01B"
+msgstr ""
+"[bulletlist][bullet/]+10 {GLOBAL.KnowledgeConcept.Hyperlink} income.[bullet/]"
+"+20 {GLOBAL.ManaConcept.Hyperlink} income.[bullet/]Units built in this city "
+"{GLOBAL.PROPERTIES.FIRE_KNOWLEDGE_2.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Wild_Magic@CLASS@ABILITY@NAME_01B"
+msgstr "Fire Knowledge LV2"
+
+msgid "Tome_of_Wild_Magic@CLASS@ABILITY@DESCRIPTION_01B"
+msgstr ""
+"This unit's base {GLOBAL.MagicConcept.Hyperlink} attacks deal +2 "
+"{GLOBAL.FireDamageConcept.Hyperlink} and gain {strength1}% to apply "
+"{GLOBAL.PROPERTIES.BURNING.Hyperlink} and a {strength2}% to apply "
+"{GLOBAL.PROPERTIES.SCORCHED.Hyperlink}. Their "
+"{GLOBAL.ResistanceConcept.Hyperlink} increases by +1 and their "
+"{GLOBAL.FireResistanceConcept.Hyperlink} by {amount1}."
+
+msgid "Tome_of_Wild_Magic@CLASS@NAME_02B"
+msgstr "Class 2: Plane of Air"
+
+msgid "Tome_of_Wild_Magic@CLASS@DESCRIPTION_02B"
+msgstr ""
+"[bulletlist][bullet/]+10 {GLOBAL.KnowledgeConcept.Hyperlink} income.[bullet/]"
+"+20 {GLOBAL.ManaConcept.Hyperlink} income.[bullet/]Units built in this city "
+"gain {GLOBAL.PROPERTIES.AIR_KNOWLEDGE_2.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Wild_Magic@CLASS@ABILITY@NAME_02B"
+msgstr "Air Knowledge LV2"
+
+msgid "Tome_of_Wild_Magic@CLASS@ABILITY@DESCRIPTION_02B"
+msgstr ""
+"This unit's base {GLOBAL.MagicConcept.Hyperlink} attacks deal +2 "
+"{GLOBAL.LightningDamageConcept.Hyperlink} and gain {strength1}% to apply "
+"{GLOBAL.PROPERTIES.SUNDERED_RESISTANCE.Hyperlink} and a {strength2}% to "
+"apply {GLOBAL.PROPERTIES.CONDUCTIVE.Hyperlink}. Their "
+"{GLOBAL.ResistanceConcept.Hyperlink} increases by +1 and their "
+"{GLOBAL.LightningResistanceConcept.Hyperlink} by {amount1}."
+
+msgid "Tome_of_Wild_Magic@CLASS@NAME_03B"
+msgstr "Class 2: Plane of Water"
+
+msgid "Tome_of_Wild_Magic@CLASS@DESCRIPTION_03B"
+msgstr ""
+"[bulletlist][bullet/]+10 {GLOBAL.KnowledgeConcept.Hyperlink} income.[bullet/]"
+"+20 {GLOBAL.ManaConcept.Hyperlink} income.[bullet/]Units built in this city "
+"{GLOBAL.PROPERTIES.WATER_KNOWLEDGE_2.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Wild_Magic@CLASS@ABILITY@NAME_03B"
+msgstr "Water Knowledge LV2"
+
+msgid "Tome_of_Wild_Magic@CLASS@ABILITY@DESCRIPTION_03B"
+msgstr ""
+"This unit's base {GLOBAL.MagicConcept.Hyperlink} attacks deal +2 "
+"{GLOBAL.FrostDamageConcept.Hyperlink} and gain {strength1}% to apply "
+"{GLOBAL.PROPERTIES.WET.Hyperlink} and a {strength2}% to apply "
+"{GLOBAL.PROPERTIES.FROSTBITE.Hyperlink}. Their "
+"{GLOBAL.ResistanceConcept.Hyperlink} increases by +1 and their "
+"{GLOBAL.FrostResistanceConcept.Hyperlink} by {amount1}."
+
+msgid "Tome_of_Giant_Hero_Skills@TOME@NAME"
+msgstr "Giant Hero Skills"
+
+msgid "Tome_of_Cryogenics@TOME@NAME"
+msgstr "Tome of Cryogenics"
+
+msgid "Tome_of_Cryogenics@Tome@LORE_DESCRIPTION"
+msgstr ""
+"\"In the ancient, frost-bound kingdom of Aeryndor, the art of Cryogenics was "
+"discovered—an arcane craft that allowed powerful sorcerers to freeze both "
+"life and time itself. Legends speak of mighty warriors and noble monarchs "
+"who chose eternal slumber in crystalline tombs, hoping to awaken in an age "
+"of their choosing. Yet, with each awakening, some return not as they were, "
+"but as empty echoes of their former selves, lost to the frost’s unyielding "
+"grip.\""
+
+msgid "Tome_of_Cryogenics@TOME@LORE_AUTHOR"
+msgstr "Elara Frostwhisper"
+
+msgid "Tome_of_Cryogenics@SKILL_01@NAME"
+msgstr "Winter Front"
+
+msgid "Tome_of_Cryogenics@SKILL_01@DESCRIPTION"
+msgstr ""
+"At the start of the owner's turn, enemy units adjacent to owner's units have:"
+"[bulletlist][bullet/]{FROSTBITE_RESISTANCE>ResolvedStrength}% chance of "
+"suffering {GLOBAL.PROPERTIES.FROSTBITE.Hyperlink}.[bullet/]"
+"{WINTER_FRONT_DAMAGE>DAMAGE>Frost} {GLOBAL.FrostDamageConcept.Hyperlink} for "
+"each stack of {GLOBAL.PROPERTIES.FROSTBITE.Hyperlink} they have."
+"[bullet/]Lasts {FROSTBITE_EFFECT_DESCRIPTION>NumTurns} <<m:"
+"{GLOBAL.TurnConcept}>>.[/bulletlist]"
+
+msgid "Tome_of_Cryogenics@SKILL_02@NAME"
+msgstr "Sub-Zero Adaptation"
+
+msgid "Tome_of_Cryogenics@SKILL_02@DESCRIPTION"
+msgstr ""
+"Gives the target race better control of the cold, granting them:[bulletlist]"
+"[bullet/]{SUB_ZERO_ADAPTATION_DEFENSE>REDUCTION>Fire} "
+"{GLOBAL.FireResistanceConcept.Hyperlink}[bullet/]+"
+"{SUB_ZERO_ADAPTATION_DEFENSE>REDUCTION>Frost} "
+"{GLOBAL.FrostResistanceConcept.Hyperlink}[bullet/]"
+"{GLOBAL.PROPERTIES.CRYO_SLEEP.Hyperlink}[/bulletlist]"
+
+msgid "Tome_of_Cryogenics@ABILITY_01@NAME"
+msgstr "Cryo Sleep"
+
+msgid "Tome_of_Cryogenics@ABILITY_01@DESCRIPTION"
+msgstr ""
+"This unit fully heals and cleanses most debuffs affecting it, but suffers "
+"from {GLOBAL.PROPERTIES.CRYO.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Cryogenics@SKILL_03@NAME"
+msgstr "Icebreaker"
+
+msgid "Tome_of_Cryogenics@SKILL_03@DESCRIPTION"
+msgstr ""
+"A {GLOBAL.PROPERTIES.SHOCK_UNIT.Hyperlink} with mastery of the colder "
+"elements."
+
+msgid "Tome_of_Cryogenics@SKILL_04@NAME"
+msgstr "Arctic Blast"
+
+msgid "Tome_of_Cryogenics@SKILL_04@DESCRIPTION"
+msgstr ""
+"All units in target enemy army:[bulletlist][bullet/]Sustain {damage}"
+"{GLOBAL.FrostDamageConcept.Hyperlink}.[bullet/]Suffer "
+"{GLOBAL.PROPERTIES.WET.Hyperlink}, {GLOBAL.PROPERTIES.SLOWED.Hyperlink}, and "
+"{GLOBAL.PROPERTIES.FROSTBITE.Hyperlink} for {turn} "
+"{GLOBAL.WorldMapConcept.Hyperlink} <<m:{GLOBAL.TurnConcept}>>.[/bulletlist]"
+
+msgid "Tome_of_Cryogenics@SKILL_05@NAME"
+msgstr "Temple of Glaciology"
+
+msgid "Tome_of_Cryogenics@SKILL_05@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]+10 {GLOBAL.CityStabilityConcept.Hyperlink}"
+"[bullet/]Per{GLOBAL.ResearchPostConcept.Hyperlink} in the domain:[bulletlist]"
+"[bullet/]+3 {GLOBAL.KnowledgeConcept.Hyperlink} income[bullet/]+5 "
+"{GLOBAL.CityStabilityConcept.Hyperlink} income[/bulletlist][/bulletlist]"
+
+msgid "Tome_of_Cryogenics@SKILL_06@NAME"
+msgstr "Place Holder"
+
+msgid "Tome_of_Cryogenics@SKILL_06@DESCRIPTION"
+msgstr "Place Holder"
+
+msgid "Tome_of_Cryogenics@PROPERTY@NAME"
+msgstr "Cryo"
+
+msgid "Tome_of_Cryogenics@PROPERTY@DESCRIPTION"
+msgstr ""
+"This unit cannot move or attack but gains immunity to:[bulletlist][bullet/]"
+"{GLOBAL.FrostDamageConcept.Hyperlink}[bullet/]"
+"{GLOBAL.PhysicalDamageConcept.Hyperlink}[bullet/]"
+"{GLOBAL.LightningDamageConcept.Hyperlink} [br/][br/]Cryo "
+"{GLOBAL.OpposingStatusEffectsConcept.Hyperlink} "
+"{GLOBAL.PROPERTIES.BURNING.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Cryogenics@ABILITY_02@NAME"
+msgstr "Arctic Charge Strike"
+
+msgid "Tome_of_Cryogenics@ABILITY_02@DESCRIPTION"
+msgstr ""
+"A Charge attack:[bulletlist][bullet/]Gains +"
+"{ARCTIC_CHARGE_STRIKE_DISTANCE_DAMAGE>DAMAGE>Frost} "
+"{GLOBAL.FrostDamageConcept.Hyperlink} per hex traveled, up to "
+"{ARCTIC_CHARGE_STRIKE_DISTANCE_DAMAGE>MaxCount} hexes.[bullet/]Cancels "
+"{GLOBAL.DefenseModeConcept.Hyperlink}.[bullet/]Removes "
+"{GLOBAL.RetaliationConcept.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Cryogenics@ABILITY_03@NAME"
+msgstr "Hoarfrost Slam"
+
+msgid "Tome_of_Cryogenics@ABILITY_03@DESCRIPTION"
+msgstr ""
+"Smash the ground in front of you dealing damage to all enemy units in a "
+"{HOARFROST_SLAM_POSITION_TARGETER>AREA>Length}-hex line, leaving behind a "
+"{GLOBAL.PROPERTIES.WET.Hyperlink} area."
+
+msgid "Tome_of_Cryogenics@GAMEPLAY@DESCRIPTION"
+msgstr ""
+"Harness the power of Cryogenics to freeze, manipulate ice, and uncover the "
+"mysteries of long-forgotten civilizations."
+
+msgid "Tome_of_Cryogenics@PROVINCE_IMPROVEMENT@TITLE"
+msgstr "[researchpost/] Weather Control Device"
+
+msgid "Tome_of_Cryogenics@PROVINCE_IMPROVEMENT@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]+10 {GLOBAL.KnowledgeConcept.Hyperlink}.[bullet/]+3 "
+"{GLOBAL.KnowledgeConcept.Hyperlink} per adjacent "
+"{GLOBAL.ConduitConcept.Hyperlink}[bullet/]+3 "
+"{GLOBAL.KnowledgeConcept.Hyperlink} per adjacent "
+"{GLOBAL.ResearchPostConcept.Hyperlink}.[bullet/]Enemy <<m:"
+"{GLOBAL.ArmyConcept.Hyperlink}>> in this City's "
+"{GLOBAL.DomainConcept.Hyperlink} suffers from "
+"{GLOBAL.PROPERTIES.HYPOTHERMIA_UNIT_PROPERTY.Hyperlink}.[bullet/]Counts as a "
+"{GLOBAL.ResearchPostConcept.Hyperlink}.[/bulletlist]"
+
+msgid "Tome_of_Cryogenics@PROVINCE_IMPROVEMENT@PROPERTY_NAME"
+msgstr "Hypothermia"
+
+msgid "Tome_of_Cryogenics@PROVINCE_IMPROVEMENT@EFFECT"
+msgstr ""
+"This unit is under the effects of extreme weather conditions and is subject "
+"to the following:[bulletlist][bullet/]This unit "
+"{GLOBAL.PROPERTIES.CANNOT_REGENERATE.Hyperlink}.[bullet/]This Unit suffers -"
+"{Visionrangereduction} {GLOBAL.VisionRangeConcept.Hyperlink}.[bullet/]"
+"{HYPOTHERMIA_DEFENSE>REDUCTION>Frost} "
+"{GLOBAL.FrostResistanceConcept.Hyperlink}.[bulletlist][bullet/]Units with "
+"{GLOBAL.PROPERTIES.FROSTLING_TRANSFORMATION_PROPERTY_GROUP.Hyperlink} and/or "
+"{GLOBAL.PROPERTIES.SUB_ZERO_ADAPTATION_PROPERTY_GROUP.Hyperlink} are "
+"unaffected.[/bulletlist]"
+
+msgid "Tome_of_Cryogenics@HERO_SKILL@NAME"
+msgstr "Ash of War: Hoarfrost Slam"
+
+msgid "Item_Forge@INFUSION@NAME_01"
+msgstr "Inflict Conductive"
+
+msgid "Item_Forge@INFUSION@DESCRIPTION_01"
+msgstr ""
+"Base attacks have a {CONDUCTIVE_RESISTANCE>ResolvedStrength}% chance of "
+"inflicting {CONDUCTIVE}."
+
+msgid "Item_Forge@INFUSION@NAME_02"
+msgstr "Inflict Frostbite"
+
+msgid "Item_Forge@INFUSION@DESCRIPTION_02"
+msgstr ""
+"Base attacks have a {FROSTBITE_RESISTANCE>ResolvedStrength}% chance of "
+"inflicting {FROSTBITE}."
+
+msgid "Item_Forge@INFUSION@NAME_03"
+msgstr "Inflict Scorched"
+
+msgid "Item_Forge@INFUSION@DESCRIPTION_03"
+msgstr ""
+"Base attacks have a {SCORCHED_RESISTANCE>ResolvedStrength}% chance of "
+"inflicting {SCORCHED}."
+
+msgid "ITEM@INFUSION@ABILITY_VOLCANICSMASH@ADJ_01"
+msgstr "Volcanic Smashing^a"
+
+msgid "ITEM@INFUSION@ABILITY_VOLCANICSMASH@NOUN_01"
+msgstr "Volcanic Smasher^n"
+
+msgid "ITEM@INFUSION@ABILITY_VOLCANICSMASH@POST_01"
+msgstr "of Smashing^z"
+
+msgid "ITEM@INFUSION@ABILITY_EARTHQUAKESMASH@ADJ_01"
+msgstr "Earthquake Smashing^a"
+
+msgid "ITEM@INFUSION@ABILITY_EARTHQUAKESMASH@NOUN_01"
+msgstr "Earthquake Smasher^n"
+
+msgid "ITEM@INFUSION@ABILITY_EARTHQUAKESMASH@POST_01"
+msgstr "of Smashing^z"
+
+msgid "ITEM@INFUSION@ABILITY_TEMPESTUOUSSMASH@ADJ_01"
+msgstr "Tempestuous Smashing^a"
+
+msgid "ITEM@INFUSION@ABILITY_TEMPESTUOUSSMASH@NOUN_01"
+msgstr "Tempestuous Smasher^n"
+
+msgid "ITEM@INFUSION@ABILITY_TEMPESTUOUSSMASH@POST_01"
+msgstr "of Smashing^z"
+
+msgid "ITEM@INFUSION@ABILITY_BLIZZARDSMASH@ADJ_01"
+msgstr "Blizzard Smashing^a"
+
+msgid "ITEM@INFUSION@ABILITY_BLIZZARDSMASH@NOUN_01"
+msgstr "Blizzard Smasher^n"
+
+msgid "ITEM@INFUSION@ABILITY_BLIZZARDSMASH@POST_01"
+msgstr "of Smashing^z"
+
+#, fuzzy
+#~| msgid "Tome_of_Wild_Magic@SKILL_05@NAME_02"
+#~ msgid "Tome_of_Wild_Magic@SKILL_04@NAME_02b"
+#~ msgstr "Placeholder"
+
+#, fuzzy
+#~| msgid "Tome_of_Wild_Magic@SKILL_05@NAME_02"
+#~ msgid "Tome_of_Wild_Magic@SKILL_04@NAME_02c"
+#~ msgstr "Placeholder"
+
+#, fuzzy
+#~| msgid "Tome_of_Wild_Magic@SKILL_05@NAME_02"
+#~ msgid "Tome_of_Wild_Magic@SKILL_04@NAME_03b"
+#~ msgstr "Placeholder"
+
+#, fuzzy
+#~| msgid "Tome_of_Wild_Magic@SKILL_05@NAME_02"
+#~ msgid "Tome_of_Wild_Magic@SKILL_04@NAME_03c"
+#~ msgstr "Placeholder"
+
+#, fuzzy
+#~| msgid "Tome_of_Wild_Magic@SKILL_05@NAME_03"
+#~ msgid "Tome_of_Wild_Magic@SKILL_05@NAME_03a"
+#~ msgstr "Placeholder"
+
+#, fuzzy
+#~| msgid "Tome_of_Wild_Magic@SKILL_05@NAME_03"
+#~ msgid "Tome_of_Wild_Magic@SKILL_05@NAME_03b"
+#~ msgstr "Placeholder"
+
+#, fuzzy
+#~| msgid "Tome_of_Wild_Magic@SKILL_05@NAME_03"
+#~ msgid "Tome_of_Wild_Magic@SKILL_05@NAME_03c"
+#~ msgstr "Placeholder"
+
+#~ msgid "Tome_of_Wild_Magic@MK2ROVINGFURNACE@NAME"
+#~ msgstr "Placeholder"
+
+#~ msgid "Tome_of_Wild_Magic@MK2ROVINGFURNACE@DESCRIPTION"
+#~ msgstr "Placeholder"
+
+#~ msgid "Tome_of_Wild_Magic@MK2ROVINGFURNACE@ABILITY01@NAME"
+#~ msgstr "Placeholder"
+
+#~ msgid "Tome_of_Wild_Magic@MK2ROVINGFURNACE@ABILITY01@DESCRIPTION"
+#~ msgstr "Placeholder"
+
+#~ msgid "Tome_of_Wild_Magic@MK2ROVINGFURNACE@ABILITY02@NAME"
+#~ msgstr "Placeholder"
+
+#~ msgid "Tome_of_Wild_Magic@MK2ROVINGFURNACE@ABILITY02@DESCRIPTION"
+#~ msgstr "Placeholder"
+
+#~ msgid "Tome_of_Wild_Magic@RAD_STORM_TAG@NAME"
+#~ msgstr "Placeholder"
+
+#~ msgid "Tome_Fire_Giant@SKILL_04@NAME"
+#~ msgstr "Surtr's Kin"
+
+#~ msgid "Tome_Fire_Giant@SKILL_05@NAME"
+#~ msgstr "Flowing Magma"
+
+#~ msgid "Tome_Fire_Giant@SKILL_06@NAME"
+#~ msgstr "Summon Magma Spirit"

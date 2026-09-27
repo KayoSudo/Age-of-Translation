@@ -1,0 +1,230 @@
+# SHOULDBEFUZZY!!!
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: DREAD PIRATE.RPK:././././TStructureUpgradeR/./
+msgid "CITYUPGRADES_STRATEGIC@PROVINCE_IMPROVEMENT@REQUIREMENT"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@TARGETSTACK_ENEMY@INSTRUCTIONS"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TSpecialOperationR/./
+msgid "INTERFACE@OPERATIONS@TARGET_LOCATION@INSTRUCTIONS"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TMagicStatusEffectDescription/././
+#: DREAD PIRATE.RPK:././././TUnitProperty/././
+msgid "PROPERTY@GAIN_PROPERTY"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+msgid "RESEARCHSKILLS@TAGS@CITY_STRUCTURE"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+#: DREAD PIRATE.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@RACIAL_TRANSFORMATION_MINOR@NAME"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+msgid "RESEARCHSKILLS@TAGS@SIEGE_PROJECT"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+#: DREAD PIRATE.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@STRATEGIC_ENEMY_ARMY_SPELL"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+#: DREAD PIRATE.RPK:././././TSpecialOperationR/./
+msgid "RESEARCHSKILLS@TAGS@STRATEGIC_SPELL_SUMMON"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+msgid "RESEARCHSKILLS@TAGS@UNIT"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TMagicStatusEffectDescription/./
+msgid "SHAREDMODIFIERS_UNITPROPERTIES@BLOCK_STRING@GILDED"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TMagicStatusEffectDescription/././
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+#: DREAD PIRATE.RPK:././././TUnitProperty/././
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+msgid "TOME_DREAD_PIRATE@STATUS1@DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+#: DREAD PIRATE.RPK:././././TUnitAbilityModifier/./
+#: DREAD PIRATE.RPK:././././TUnitAbilityModifier/./
+#: DREAD PIRATE.RPK:././././TUnitAbilityModifier/./
+msgid "TOME_DREAD_PIRATE@STATUS1@NAME"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+msgid "TOME_DREAD_PIRATE@STATUS2@DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+msgid "TOME_DREAD_PIRATE@STATUS2@NAME"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+msgid "TOME_DREAD_PIRATES@ABILITY1@DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+#: DREAD PIRATE.RPK:././././TBaseHeroSkill/./
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+msgid "TOME_DREAD_PIRATES@HERO_SKILL@DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+#: DREAD PIRATE.RPK:././././THeroSkillGroup/./
+#: DREAD PIRATE.RPK:././././TBaseHeroSkill/./
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+msgid "TOME_DREAD_PIRATES@HERO_SKILL@NAME"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TStructureUpgradeR/./
+#: DREAD PIRATE.RPK:././././TCombatProperty/./
+msgid "TOME_DREAD_PIRATES@PROVINCE_IMPROVEMENT1@DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TStructureUpgradeR/./
+#: DREAD PIRATE.RPK:././././TSectorType/./
+#: DREAD PIRATE.RPK:././././TSimpleRequisite/./
+#: DREAD PIRATE.RPK:././././TCombatProperty/./
+msgid "TOME_DREAD_PIRATES@PROVINCE_IMPROVEMENT1@NAME"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TBaseUnitR/./
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+msgid "TOME_DREAD_PIRATES@SKILL_1@DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TBaseUnitR/./
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+msgid "TOME_DREAD_PIRATES@SKILL_1@NAME"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+#: DREAD PIRATE.RPK:././././TSpecialOperationR/./
+msgid "TOME_DREAD_PIRATES@SKILL_2@DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+#: DREAD PIRATE.RPK:././././TSpecialOperationR/./
+msgid "TOME_DREAD_PIRATES@SKILL_2@NAME"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+#: DREAD PIRATE.RPK:././././TSpecialOperationR/./
+msgid "TOME_DREAD_PIRATES@SKILL_3@DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+#: DREAD PIRATE.RPK:././././TSpecialOperationR/./
+msgid "TOME_DREAD_PIRATES@SKILL_3@NAME"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TSiegeProjectR/./
+#: DREAD PIRATE.RPK:././././TCombatProperty/./
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+msgid "TOME_DREAD_PIRATES@SKILL_4@DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TSiegeProjectR/./
+#: DREAD PIRATE.RPK:././././TCombatProperty/./
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+#: DREAD PIRATE.RPK:././././TCombatProperty/./
+msgid "TOME_DREAD_PIRATES@SKILL_4@NAME"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+#: DREAD PIRATE.RPK:././././TStructureUpgradeR/./
+msgid "TOME_DREAD_PIRATES@SKILL_5@DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+#: DREAD PIRATE.RPK:././././TStructureUpgradeR/./
+msgid "TOME_DREAD_PIRATES@SKILL_5@NAME"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+#: DREAD PIRATE.RPK:././././TSpecialOperationR/./
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+msgid "TOME_DREAD_PIRATES@SKILL_6@DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkill/./
+#: DREAD PIRATE.RPK:././././TSpecialOperationR/./
+#: DREAD PIRATE.RPK:././././TUnitRequisite/./
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+msgid "TOME_DREAD_PIRATES@SKILL_6@NAME"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkillGroup/./././
+msgid "TOME_DREAD_PIRATES@TOME@GAMEPLAY_DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkillGroup/./././
+msgid "TOME_DREAD_PIRATES@TOME@LORE_AUTHOR"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkillGroup/./././
+msgid "TOME_DREAD_PIRATES@TOME@LORE_DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TGridSkillGroup/./
+msgid "TOME_DREAD_PIRATES@TOME@NAME"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+msgid "TOME_DREAD_PIRATES@UNIT1@ABILITY1@NAME"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+msgid "TOME_DREAD_PIRATES@UNIT1@ABILITY2@DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+msgid "TOME_DREAD_PIRATES@UNIT1@ABILITY2@NAME"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TUnitAbilityModifier/./
+#: DREAD PIRATE.RPK:././././TUnitAbilityModifier/./
+#: DREAD PIRATE.RPK:././././TUnitAbilityModifier/./
+msgid "TOME_DREAD_PIRATES@UNIT1@NAME_OVERRIDE"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+msgid "TOME_MIRE@HERO_SKILL@DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+msgid "TOME_MIRE@HERO_SKILL@NAME"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TCombatProperty/./
+msgid "TOME_WILD_MAGIC@SKILL4@DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+msgid "UNITPROPERTIES@WEAKENING_AURA@PROPERTY@DESCRIPTION"
+msgstr ""
+
+#: DREAD PIRATE.RPK:././././TUnitProperty/./
+msgid "UNITPROPERTIES@WEAKENING_AURA@PROPERTY@NAME"
+msgstr ""
+

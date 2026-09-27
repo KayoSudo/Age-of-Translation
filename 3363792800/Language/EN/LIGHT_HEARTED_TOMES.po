@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "TOME_CALM@TOME@NAME"
+msgstr "Tome of Inner Peace"
+
+msgid "TOME_CALM@TOME@LORE_DESCRIPTION"
+msgstr ""
+"“When you are drinking your tea, just drink your tea. Do not drink your "
+"worries, your projects, your regrets. When you hold your cup, take a deep "
+"breath and feel the aromas, the leaves and fruits contained within the "
+"water. Bring your mind back to your body, stop your thinking, and become "
+"fully present. Only then will you achieve true freedom and calm.\""
+
+msgid "TOME_CALM@TOME@LORE_AUTHOR"
+msgstr "Masamune Tsume, Oelian Priest"
+
+msgid "TOME_CALM@TOME@GAMEPLAY_DESCRIPTION"
+msgstr ""
+"Discover the natural order of all things by engaging with cultural "
+"traditions and fostering a connection with both body and mind. Focus on "
+"healing, stability and {GLOBAL.PROPERTIES.CALM_DISARMED.Hyperlink} enemy "
+"aggression."
+
+msgid "TOME_CALM@SKILL_1@NAME"
+msgstr "Tranquilizing Pressure Point"
+
+msgid "TOME_CALM@SKILL_1@DESCRIPTION"
+msgstr ""
+"Target Tier I, Tier II or Tier III unit suffers: [bulletlist][bullet/]20 "
+"{GLOBAL.SpiritDamageConcept.Hyperlink}. [bullet/]{GLOBAL.PROPERTIES."
+"CALM_DISARMED.Hyperlink}."
+
+msgid "TOME_CALM@SKILL_2@NAME"
+msgstr "Soothing Elemental"
+
+msgid "TOME_CALM@SKILL_2@DESCRIPTION"
+msgstr "Summon a {GLOBAL.UNITS.TEA_ELEMENTAL_UNIT.Hyperlink} to target hex."
+
+msgid "TOME_CALM@SKILL_2@ABILITY_1@NAME"
+msgstr "Clear Mind"
+
+msgid "TOME_CALM@SKILL_2@ABILITY_1@DESCRIPTION"
+msgstr ""
+"[bulletlist][bullet/]+10 {GLOBAL.UnitMoraleConcept.Hyperlink}. "
+"[bullet/]Dispel 1 negative status effect."
+
+msgid "TOME_CALM@SKILL_2@ABILITY_2@NAME"
+msgstr "Aromatic Glimmer"
+
+msgid "TOME_CALM@SKILL_2@ABILITY_2@DESCRIPTION"
+msgstr ""
+"Teleport to target hex, all friendly units in a 2-hex radius gain: "
+"[bulletlist][bullet/]15{GLOBAL.TemporaryHitPointConcept.Hyperlink}. "
+"[bullet/]This unit ends it's turn in {GLOBAL.DefenseModeConcept.Hyperlink}."
+
+msgid "TOME_CALM@TEA_HOUSE@NAME"
+msgstr "[researchpost/] Tea house"
+
+msgid "TOME_CALM@TEA_HOUSE@DESCRIPTION"
+msgstr ""
+"Gain an extra +2 {GLOBAL.CityStabilityConcept.Hyperlink} and +1 {GLOBAL."
+"KnowledgeConcept.Hyperlink} per tea house built in your empire. Can also be "
+"built on {GLOBAL.OutpostConcept.Hyperlink}."
+
+msgid "TOME_CALM@SKILL_3@NAME"
+msgstr "Shinrinyoku"
+
+msgid "TOME_CALM@SKILL_3@DESCRIPTION"
+msgstr ""
+"Target unit and all friendly units in a 1-Hex radius gain: [bulletlist]"
+"[bullet/]15 {GLOBAL.TemporaryHitPointConcept.Hyperlink}.[bullet/]15 {GLOBAL."
+"TemporaryHitPointConcept.Hyperlink} if on the center of the area."
+
+msgid "TOME_CALM@SKILL_4@NAME"
+msgstr "Imperial Guards"
+
+msgid "TOME_CALM@SKILL_4@DESCRIPTION"
+msgstr ""
+"A defensive {GLOBAL.PROPERTIES.POLEARM_UNIT.Hyperlink} with a high damaging "
+"single attack, able to use extra retaliations in {GLOBAL.DefenseModeConcept."
+"Hyperlink}."
+
+msgid "TOME_CALM@SKILL_5@NAME"
+msgstr "Sento"
+
+msgid "TOME_CALM@SKILL_5@DESCRIPTION"
+msgstr ""
+"A center of traditional healing and meditation: [bulletlist][bullet/]+15 "
+"{GLOBAL.CityStabilityConcept.Hyperlink} income. Units build in this city "
+"gain the {GLOBAL.PROPERTIES.MINDCLEANTEA.Hyperlink} ability."
+
+msgid "TOME_RONIN@TOME@NAME"
+msgstr "Tome of the Vagabond"
+
+msgid "TOME_RONIN@TOME@LORE_DESCRIPTION"
+msgstr ""
+"\"The best part about treason is that even when they expect it, they can not "
+"escape it. Watching them try and struggle in vain, like a fly in a spider "
+"web, is such a delight.\""
+
+msgid "TOME_RONIN@TOME@LORE_AUTHOR"
+msgstr "Djack Okuni the first oelian traitor"
+
+msgid "TOME_RONIN@TOME@GAMEPLAY_DESCRIPTION"
+msgstr ""
+"To follow this path of mastery one must get rid of doubts, fear and ethics. "
+"Exploit what lies hidden deeply in our darker selves and learn how to use "
+"real power, for a price."
+
+msgid "TOME_RONIN@HEROES_SKILL@NAME"
+msgstr "Calamity Acolyte"
+
+msgid "TOME_RONIN@HEROES_SKILL@DESCRIPTION"
+msgstr ""
+"Your affinity to the Calamity path grants: [bulletlist][bullet/]Summon a "
+"{GLOBAL.PROPERTIES.ACCURSED.Hyperlink} version of a {GLOBAL.UNITS."
+"YOUNG_DRAGON_OBSIDIAN_ACCURSED.Hyperlink} at beginning of battle."
+
+msgid "TOME_RONIN@SKILL_1@NAME"
+msgstr "Oiran Yukaku"
+
+msgid "TOME_RONIN@SKILL_1@DESCRIPTION"
+msgstr ""
+"+10 {GLOBAL.GoldConcept.Hyperlink} income. Gain 10 {GLOBAL.GoldConcept."
+"Hyperlink} and 5 {GLOBAL.CityStabilityConcept.Hyperlink} for each level of "
+"Evil {GLOBAL.AlignmentConcept.Hyperlink}."
+
+msgid "TOME_RONIN@SKILL_2@NAME"
+msgstr "[unitprod/] Ronin's Hideout"
+
+msgid "TOME_RONIN@SKILL_2@DESCRIPTION"
+msgstr ""
+"Gain 10 {GLOBAL.UnitProductionConcept.Hyperlink} and 5 {GLOBAL."
+"ImperiumConcept.Hyperlink} income in your city. Cost an extra -10 {GLOBAL."
+"CityStabilityConcept.Hyperlink} per Ronin's Hideout built in your empire. "
+"Can also be built on {GLOBAL.OutpostConcept.Hyperlink}."
+
+msgid "TOME_RONIN@SKILL_3@NAME"
+msgstr "Consuming Blaze"
+
+msgid "TOME_RONIN@SKILL_3@DESCRIPTION"
+msgstr ""
+"Target friendly Tier III+ or Hero unit unleashes a mighty blaze to all units "
+"around it: [bulletlist][bullet/]Original unit sustain 25 {GLOBAL."
+"FireDamageConcept.Hyperlink}. [bullet/]All other units suffer 45 {GLOBAL."
+"FireDamageConcept.Hyperlink}."
+
+msgid "TOME_RONIN@SKILL_4@NAME"
+msgstr "Sword Testing"
+
+msgid "TOME_RONIN@SKILL_4@DESCRIPTION"
+msgstr ""
+"Target army lead by a Hero or Leader takes 100 {GLOBAL.HitPointConcept."
+"Hyperlink} in damage, giving you in return: [bulletlist][bullet/]A low "
+"amount of {GLOBAL.GoldConcept.Hyperlink} for each unit that is present in "
+"your army. [bullet/]250 {GLOBAL.ExperienceConcept.Hyperlink} for every hero "
+"that is present and survives in your army."
+
+msgid "TOME_RONIN@SKILL_5@NAME"
+msgstr "Kensei"
+
+msgid "TOME_RONIN@SKILL_5@DESCRIPTION"
+msgstr ""
+"A aging swordmaster that has given up everything in pursuit of the way of "
+"the sword."
+
+msgid "TOME_RONIN@SKILL_5@BASE_ATTACK@NAME"
+msgstr "Extinguinshing Blade"
+
+msgid "TOME_RONIN@SKILL_5@BASE_ATTACK@DESCRIPTION"
+msgstr ""
+"Deals double the damage against Heroes and Tier IV+ units. This unit suffers "
+"30% of their dealt damage in return."
+
+msgid "TOME_RONIN@SKILL_6@NAME"
+msgstr "Accursed Lantern"
+
+msgid "TOME_RONIN@SKILL_6@DESCRIPTION"
+msgstr ""
+"Target friendly unit unleashes a demonic seal and is possessed by what lies "
+"within: [bulletlist][bullet/]Becomes a {GLOBAL.PROPERTIES.ACCURSED."
+"Hyperlink}. [bullet/]+50% increased damage to all Attacks. [bullet/]+3 "
+"{GLOBAL.FireDamageConcept.Hyperlink} and +3 {GLOBAL.FrostDamageConcept."
+"Hyperlink} to all Basic Attacks. [bullet/] Resurgence if victorious in "
+"battle. [bullet/] Dies in 2 {GLOBAL.TurnConcept.Hyperlink}."
+
+msgid "TOME_NEW@DEBUFF@1"
+msgstr "Neutralized"
+
+msgid "TOME_NEW@DEBUFF@2"
+msgstr ""
+"This unit's energy is temporarily sapped out of it's body. [bulletlist]"
+"[bullet/]All Attacks are disabled."
+
+msgid "TOME_NEW@DEBUFF@3"
+msgstr "Demonic Posession"
+
+msgid "TOME_NEW@DEBUFF@4"
+msgstr ""
+"This unit is being possessed by an accursed spirit: [bulletlist]"
+"[bullet/]Becomes a {GLOBAL.PROPERTIES.ACCURSED.Hyperlink}. [bullet/]+50% "
+"damage to all Attacks. [bullet/]+3 {GLOBAL.FireDamageConcept.Hyperlink} and "
+"+3 {GLOBAL.FrostDamageConcept.Hyperlink} to all Basic Attacks. [bullet/] "
+"Resurgence if victorious in battle. [bullet/] Dies in 2 {GLOBAL.TurnConcept."
+"Hyperlink}."
+
+msgid "TOME_KENSEI@Skill@1"
+msgstr "Tiandi Form"
+
+msgid "TOME_KENSEI@Skill@2"
+msgstr ""
+"High damaging single attack, unit ends in {GLOBAL.DefenseModeConcept."
+"Hyperlink}."
+
+msgid "TOME_KENSEI@Skill@3"
+msgstr "Sanzu's toll"
+
+msgid "TOME_KENSEI@Skill@4"
+msgstr ""
+"Once this unit's reaches 35% of their original {GLOBAL.HitPointConcept."
+"Hyperlink}, gain: [bulletlist][bullet/]5 {GLOBAL.PROPERTIES.STRENGTHENED."
+"Hyperlink}. [bullet/]{GLOBAL.PROPERTIES.STEADFAST.Hyperlink} for 2 {GLOBAL."
+"TurnConcept.Hyperlink}."
+
+msgid "TOME_YOKAI@Skill@1"
+msgstr "Jade Discipline"
+
+msgid "TOME_YOKAI@Skill@2"
+msgstr ""
+"Your will, my hands: [bulletlist][bullet/]+1 {GLOBAL.RetaliationConcept."
+"Hyperlink} during {GLOBAL.DefenseModeConcept.Hyperlink}."
+
+msgid "TOME_YOKAI@Skill@3"
+msgstr "Inner Peace"
+
+msgid "TOME_YOKAI@Skill@4"
+msgstr ""
+"This unit spent a lifetime cultivating mind and body: [bulletlist][bullet/] "
+"Add the {GLOBAL.PROPERTIES.MINDCLEANTEA.Hyperlink} ability."
+
+msgid "TOME_PANTHEON@Skill@1"
+msgstr "Ascension: Calamity Acolyte"
+
+msgid "TOME_PANTHEON@Skill@2"
+msgstr "Path to Calamity"
+
+msgid "TOME_PANTHEON@Skill@3"
+msgstr "Accursed Path"
+
+msgid "TOME_PANTHEON@Skill@4"
+msgstr "Ascension: Accursed Acolyte"
+
+msgid "TOME_PANTHEON@Skill@5"
+msgstr "Hesitation is Defeat"
+
+msgid "TOME_PANTHEON@Skill@6"
+msgstr ""
+"Lifesteals for 100% of the damage dealt, if targeting a Hero or Tier IV+ "
+"unit, lifesteals for 200% instead."
+
+msgid "TOME_PANTHEON@Skill@7"
+msgstr ""
+"Your affinity to the Accursed path grants: [bulletlist][bullet/]Summon an "
+"{GLOBAL.UNITS.ACCURSED_OGRE.Hyperlink} at beginning of battle. [bullet/] "
+"{GLOBAL.PROPERTIES.ACCURSED_BODY.Hyperlink}."
+
+msgid "TOME_PANTHEON@Skill@8"
+msgstr "Accursed Young Dragon"
+
+msgid "TOME_KENSEIHEALM@Skill@4"
+msgstr "3"
+
+msgid "TOME_KENSEIHEALM@Skill@5"
+msgstr "4"
