@@ -1,9 +1,0 @@
-{
- "short_description": "Adds the Grove Tenders Society Trait.",
- "name": "Grove Tenders",
- "version": "1.1",
- "id": "a64f06d3-bc24-4374-8188-643b3bb84415",
- "tags": [
-  "Society Traits"
- ]
-}
